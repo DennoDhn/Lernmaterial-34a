@@ -25,6 +25,14 @@
 			--ok: #34d399;
 			--warn: #f59e0b;
 			--danger: #f87171;
+			/* Kapitel-Akzentfarben */
+			--c-bgb: #22c55e; /* grün */
+			--c-straf: #f59e0b; /* orange */
+			--c-bewachv: #60a5fa; /* blau */
+			--c-dsgvo: #a78bfa; /* lila */
+			--c-umgang: #f472b6; /* pink */
+			--c-tech: #06b6d4; /* cyan */
+			--c-uvv: #ef4444; /* rot */
 			--card-radius: 14px;
 			--shadow: 0 10px 30px rgba(0,0,0,.35);
 		}
@@ -130,6 +138,34 @@
 		/* Mini-Legende */
 		.legend { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; color: var(--muted); font-size: 12px; }
 		.legend .item { display: inline-flex; align-items: center; gap: 6px; border: 1px dashed rgba(255,255,255,.18); padding: 3px 8px; border-radius: 999px; }
+
+		/* Kapitel-Chips einheitlich & Selektionszustand */
+		.study-modes[aria-label="Kapitel"] label { padding: 6px 10px; border-radius: 999px; border: 1px solid rgba(255,255,255,.18); cursor: pointer; color: var(--muted); }
+		.study-modes[aria-label="Kapitel"] label:hover { border-color: rgba(255,255,255,.35); color: #fff; }
+		body:has(#chap-all:checked) .study-modes[aria-label="Kapitel"] label[for="chap-all"],
+		body:has(#chap-1:checked) .study-modes[aria-label="Kapitel"] label[for="chap-1"],
+		body:has(#chap-2:checked) .study-modes[aria-label="Kapitel"] label[for="chap-2"],
+		body:has(#chap-3:checked) .study-modes[aria-label="Kapitel"] label[for="chap-3"],
+		body:has(#chap-4:checked) .study-modes[aria-label="Kapitel"] label[for="chap-4"],
+		body:has(#chap-5:checked) .study-modes[aria-label="Kapitel"] label[for="chap-5"],
+		body:has(#chap-6:checked) .study-modes[aria-label="Kapitel"] label[for="chap-6"],
+		body:has(#chap-7:checked) .study-modes[aria-label="Kapitel"] label[for="chap-7"] { border-color: rgba(59,130,246,.7); color: #fff; background: rgba(59,130,246,.12); }
+
+		/* Kapitel-Akzente an Karten */
+		#bgb .kicker { color: var(--c-bgb); }
+		#bgb { border-left: 3px solid color-mix(in hsl, var(--c-bgb) 70%, transparent); }
+		#strafrecht .kicker { color: var(--c-straf); }
+		#strafrecht { border-left: 3px solid color-mix(in hsl, var(--c-straf) 70%, transparent); }
+		#gewerberecht .kicker { color: var(--c-bewachv); }
+		#gewerberecht { border-left: 3px solid color-mix(in hsl, var(--c-bewachv) 70%, transparent); }
+		#dsgvo .kicker { color: var(--c-dsgvo); }
+		#dsgvo { border-left: 3px solid color-mix(in hsl, var(--c-dsgvo) 70%, transparent); }
+		#umgang-menschen .kicker { color: var(--c-umgang); }
+		#umgang-menschen { border-left: 3px solid color-mix(in hsl, var(--c-umgang) 70%, transparent); }
+		#sicherheitstechnik .kicker { color: var(--c-tech); }
+		#sicherheitstechnik { border-left: 3px solid color-mix(in hsl, var(--c-tech) 70%, transparent); }
+		#uvv .kicker { color: var(--c-uvv); }
+		#uvv { border-left: 3px solid color-mix(in hsl, var(--c-uvv) 70%, transparent); }
 
 		/* Tabellen: Zebra, Kopfbetonung */
 		.card table thead th { background: rgba(255,255,255,.05); color: var(--muted); font-weight: 600; }
@@ -239,10 +275,6 @@
 	<p class="small" style="margin:8px 20px 0;">
 		<strong>Hinweis:</strong> Diese Seite ist nicht fachlich geprüft; Fehler sind nicht ausgeschlossen. Für einen schnellen Überblick nutze am besten den Modus 
 		<label for="mode-kern" class="tag" style="margin:0 4px; cursor:pointer;">Kernstoff</label>.
-		Weitere Modi:
-		<label for="mode-all" class="tag" style="margin:0 4px; cursor:pointer;">Alles</label>
-		<label for="mode-merke" class="tag" style="margin:0 4px; cursor:pointer;">Nur Merksätze</label>
-		<label for="mode-vertiefung" class="tag" style="margin:0 4px; cursor:pointer;">Vertiefung</label>
 	</p>
 
 	<!-- Kapitel-Filter (ohne JS) -->
