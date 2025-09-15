@@ -1,0 +1,28 @@
+﻿name: Fehler melden
+description: Ein Problem oder Fehler in der Seite melden
+labels: ['bug']
+body:
+  - type: textarea
+    id: beschreibung
+    attributes:
+      label: Beschreibung
+      description: Was ist passiert? Erwartetes Verhalten?
+    validations:
+      required: true
+  - type: textarea
+    id: schritte
+    attributes:
+      label: Schritte zum Reproduzieren
+      placeholder: '1) ... 2) ...'
+  - type: input
+    id: kapitel
+    attributes:
+      label: Betroffenes Kapitel/Abschnitt
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots/Belege
+  - type: textarea
+    id: hinweise
+    attributes:
+      label: Hinweise/Quellen

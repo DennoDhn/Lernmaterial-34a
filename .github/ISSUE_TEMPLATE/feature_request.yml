@@ -1,0 +1,23 @@
+﻿name: Verbesserung vorschlagen
+description: Inhaltliche oder gestalterische Verbesserung anregen
+labels: ['enhancement']
+body:
+  - type: textarea
+    id: idee
+    attributes:
+      label: Idee/Vorschlag
+      description: Was soll verbessert werden? Warum?
+    validations:
+      required: true
+  - type: input
+    id: paragrafen
+    attributes:
+      label: Relevante Paragraphen/Normen (optional)
+  - type: textarea
+    id: beispiele
+    attributes:
+      label: Beispiele/Fallkontext
+  - type: textarea
+    id: quellen
+    attributes:
+      label: Quellen/Nachweise (optional)
