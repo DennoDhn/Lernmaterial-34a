@@ -30,8 +30,7 @@
             <p>Du kannst hier einen Vorschlag oder Fehler melden. Am besten kopierst du die Vorlage unten in dein E‑Mail‑Programm und sendest sie an die Kontaktadresse.</p>
 
             <div class="btns">
-                <!-- Hinweis: Bitte Zieladresse im href ergänzen -->
-                <a class="btn" href="mailto:?subject=Lernmaterial%2034a%20Feedback&body=Kapitel%3A%20%0ABeschreibung%20des%20Problems%2FVorschlags%3A%20%0ARechtsgrundlagen%2FQuellen%20(optional)%3A%20%0AScreenshots%2FBelege%20(optional)%3A%20%0AName%20(optional)%3A%20" rel="noopener">E‑Mail öffnen (Vorlage eingefügt)</a>
+                <button id="mailbtn" class="btn" type="button">E‑Mail öffnen (Vorlage eingefügt)</button>
                 <a class="btn" href="index.html">Zurück zur Startseite</a>
                 <a class="btn" href="https://github.com/DennoDhn/Lernmaterial-34a/issues/new/choose" target="_blank" rel="noopener">Feedback via GitHub</a>
             </div>
@@ -56,6 +55,37 @@ Name/Kontakt (optional):
             <a class="back" href="index.html">← Zurück</a>
         </div>
     </div>
+    <script>
+    // Einfache E-Mail-Obfuskation: Adresse steht nicht im HTML-Quelltext
+    (function(){
+        var btn = document.getElementById('mailbtn');
+        if(!btn) return;
+        // Adresse in Teilen definieren (bei Bedarf anpassen): kontakt [at] beispiel [dot] de
+        var user = 'kontakt';
+        var domain = 'beispiel';
+        var tld = 'de';
+        function openMail() {
+            var addr = user + '@' + domain + '.' + tld;
+            var subject = 'Lernmaterial 34a Feedback';
+            var body = [
+                'Kapitel/Abschnitt:',
+                '',
+                'Beschreibung des Problems/Vorschlags:',
+                '',
+                'Rechtsgrundlagen/Quellen (optional):',
+                '',
+                'Screenshots/Belege (optional):',
+                '',
+                'Name/Kontakt (optional):'
+            ].join('\n');
+            var href = 'mailto:' + encodeURIComponent(addr)
+                + '?subject=' + encodeURIComponent(subject)
+                + '&body=' + encodeURIComponent(body);
+            window.location.href = href;
+        }
+        btn.addEventListener('click', openMail);
+    })();
+    </script>
 </body>
 </html>
 
