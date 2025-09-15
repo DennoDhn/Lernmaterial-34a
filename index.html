@@ -236,17 +236,13 @@
 	<input type="radio" name="mode" id="mode-kern" />
 	<input type="radio" name="mode" id="mode-merke" />
 	<input type="radio" name="mode" id="mode-vertiefung" />
-	<div class="study-modes" role="tablist" aria-label="Lernmodus">
-		<label for="mode-all" role="tab" aria-controls="content-all">Alles</label>
-		<label for="mode-kern" role="tab" aria-controls="content-kern">Kernstoff</label>
-		<label for="mode-merke" role="tab" aria-controls="content-merke">Nur Merksätze</label>
-		<label for="mode-vertiefung" role="tab" aria-controls="content-vertiefung">Vertiefung</label>
-	</div>
-	<p class="mode-help">
-		<span class="help-all">Zeigt alle Inhalte.</span>
-		<span class="help-kern">Blendet Vertiefungen und kleine Hinweise aus – ideal zum Wiederholen.</span>
-		<span class="help-merke">Zeigt nur Überschriften und „✔️ Für die Prüfung merken".</span>
-		<span class="help-vertiefung">Fokus auf „Details" – Basislisten/Tabellen ausgeblendet.</span>
+	<p class="small" style="margin:8px 20px 0;">
+		<strong>Hinweis:</strong> Diese Seite ist nicht fachlich geprüft; Fehler sind nicht ausgeschlossen. Für einen schnellen Überblick nutze am besten den Modus 
+		<label for="mode-kern" class="tag" style="margin:0 4px; cursor:pointer;">Kernstoff</label>.
+		Weitere Modi:
+		<label for="mode-all" class="tag" style="margin:0 4px; cursor:pointer;">Alles</label>
+		<label for="mode-merke" class="tag" style="margin:0 4px; cursor:pointer;">Nur Merksätze</label>
+		<label for="mode-vertiefung" class="tag" style="margin:0 4px; cursor:pointer;">Vertiefung</label>
 	</p>
 
 	<!-- Kapitel-Filter (ohne JS) -->
