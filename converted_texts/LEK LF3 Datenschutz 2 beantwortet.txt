@@ -1,0 +1,107 @@
+Prüfungsvorbereitung (mündlich)  
+ 
+Datenschutz  – Teil 2 
+1. Welches Ziel verfolgen die Datenschutzbestimmungen? (3P)  
+a) Sie sollen den Einzelnen (jede natürliche Person)  
+b) Vor dem Missbrauch  
+c) Seiner / ihrer personenbezogener Daten schützen  
+2. Welche Regelwerke / Gesetze zum Datenschutz kennen Sie? (2P) 
+a) Bundesdatenschutzgesetz (BDSG)  
+b) Datenschutzgrundverordnung (DSGVO)  
+3. Wann müssen Sie das BDSG nicht beachten? (2P)  
+a) Wenn personenbezogene Daten zu rein privaten / familiären Zwecken verarbeitet 
+werden  
+b) Wenn es sich um Daten von juristischen Personen handelt  
+4. Was ist der beste Datenschutz?  (1P) 
+Keine Daten erheben!  
+5. Welche Formen der Datenverarbeitung kennen Sie? – Nennen Sie fünf! (5P)  
+a) Erheben (Aufnehmen, Erhalten)  
+b) Auswerten (Sortieren, Organisieren, Bewerten)  
+c) Speichern  (Sichern, A ufbewahren)  
+d) Bearbei ten (Verändern, Anpassen)  
+e) Verwenden ( Auslesen, Abfragen, Nutzen ) 
+f) Übermitteln (Veröffentlichen  
+g) Sperren (Einschränken)  
+h) Löschen  (Vernichten)  
+6. Was versteht man unter „besonderen Kategorien von“ / „besonders sensiblen“ 
+personenbezogenen Daten? – Erklären Sie die Begriffe und nennen Sie drei 
+Beispiele! (5P)  
+a) Es handelt sich um personenbezogene Daten deren Veröffentlichung für den 
+Betroffenen ein besonders hohes Risiko bergen würden.  
+b) Krankendaten  
+c) Genetische Daten  
+d) Biometrische Daten  
+e) Rassische / ethnische Herkunft  
+f) Politische Weltanschauung  
+g) Religiöse Weltanschauung  
+h) Gewerkschaftszugehörigkeiten  
+7. Welche Grundsätze muss die datenverarbeitende Stelle in Bezug auf den 
+Datenschutz einhalten? Nennen Sie fünf! (5P)  
+a) Rechtmäßigkeit und Transparenz – Daten werden rechtmäßig erhoben und die 
+Betroffenen werden ordnungsgemäß informiert  
+
+Prüfungsvorbereitung (mündlich)  
+ 
+b) Zweckbindung – Daten dürfen nur für die konkret festgelegten Zwecke verarbeitet 
+werden  
+c) Datenminimierung – Nur unbedingt notwendige Daten erheben  
+d) Richtigkeit – Daten auf Richtigkeit und Aktualität prüfen  
+e) Integrität und Vertraulichkeit – Die Sicherheit der Daten wird geeignete technische 
+und organisatorische Maßnahmen gewährleistet  
+f) Speicherbegrenzung – Daten müssen gelöscht werden sobald sie nicht m ehr 
+unbedingt erforderlich sind  
+8. Nennen Sie fünf Beispiele für personenbezogene Daten und unterteilen Sie ihre 
+Antwort in „persönliche“ und „sachbezogene“ personenbezogene Daten! (5P)  
+a) Persönliche personenbezogene Daten sind : Name, Vorname  
+b) Geburtsdatum  
+c) Wohnanschrift  
+d) Sozialversicherungsnummer  
+e) Kontonummer  
+f) PIN der Bankkarte (persönliche Identifikationsnummer)  
+g) Sachbezogene (sächliche) personenbezogene Daten sind : Autokennzeichen  
+h) Kartennummer der Bank - oder Krankenkassenkarte  
+i) Adresse einer Immobilie, die dem Betroffenen gehört  
+9. Welche Bedingungen muss ein Datenschutzbeauftragter erfüllen, um diese Position 
+bekleiden zu dürfen? (2P)  
+a) Er muss die berufliche Qualifikation und  
+b) Die notwendige Fachkunde im Bereich des Datenschutzes nachweisen  
+10. Welche Datenschutzbeauftragten – bezogen auf ihren Verantwortungsbereich – gibt 
+es? (3P)  
+a) Bundesdatenschutzbeauftragten  
+b) Landesdatenschutzbeauftragten  
+c) Betriebliche Datenschutzbeauftragte  
+11. Welche Maßnahmen kann der Datenschutzbeauftragte ergreifen? – Nennen Sie drei 
+Beispiele (3P)  
+a) Erlass von technischen und organisatorischen Schutzmaßnahmen:  
+b) Zutrittskontrolle  
+c) Zugangskontrolle  
+d) Zugriffskontrolle  
+e) Eingabekontrolle  
+f) Weitergabekontrolle  
+g) Auftragskontrolle  
+h) Verfügbarkeitskontrolle  
+12. Darf ich meine eigene Wohnung auch videoüberwachen? (2P)  
+a) Grundsätzlich ja  
+
+Prüfungsvorbereitung (mündlich)  
+ 
+b) Wenn andere Personen die Wohnung betreten sollen (Putzfrau, Babysitter etc. ) muss 
+an der Wohnungstür auf die Videoüberwachung und die datenverarbeitende Stelle 
+hingewiesen werden.  
+13. Wie und wann müssen Betroffene, die sich in einen videoüberwachten Bereich 
+begeben über die Maßnahme informiert werden (3P)  
+a) Bevor sie den Videoüberwachten Bereich betreten!  
+b) Ihnen muss kenntlich gemacht werden, dass Videoüberwachung stattfindet und  
+c) Wer für die Datenerhebung verantwortlich ist  
+14. Was muss vor Beginn der Videoüberwachung in öffentlich zugänglichen, privaten 
+Verkehrsflächen in jedem Fall erfolgen? (1P)  
+Eine Datenschutzfolgeabschätzung  
+15. Sie sollen den Zaun eines Bewachungsobjekts per Video überwachen. Worauf 
+müssen Sie achten? (2P)  
+a) Wenn das Bewachungsobjekt von Personen betreten werden soll müssen die 
+Personen vor dem Betreten auf die Videoüberwachung und die verantwortliche Stelle 
+hingewiesen werden  
+b) Auf keinen Fall darf die Videoüberwachung öffentliche Verkehrsräume (Gehweg / 
+Straße vor dem Grundstück) abbilden.  
+ 
+

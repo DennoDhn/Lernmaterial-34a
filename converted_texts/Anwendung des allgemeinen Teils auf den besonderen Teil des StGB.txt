@@ -1,0 +1,97 @@
+Die wichtigsten Aussagen des allgemeinen Teils des StGB  
+ 
+1. Keine Strafe ohne Gesetz (§1 StGB)  
+a. Es können nur Taten bestraft werden, die ein zum tatzeitpunkt gültiges Gesetz 
+ausdrücklich mit Strafe bedroht!  
+2. Unterscheidung Vergehen / Verbrechen  (Deliktart, §12 StGB)  
+a. Straftaten werden unterteilt in Vergehen und Verbrechen , wobei Verbrechen 
+schwerere Straftaten sind als Vergehen.  
+b. Die Unterscheidung erfolgt anhand der Mindest strafandrohung  
+i. Verbrechen: Ab 1 Jahr Freiheitsstrafe  
+ii. Vergehen: Freiheitsstrafe unter einem Jahr oder Geldstrafe  
+3. Einordnung Offizialdelikt / Antragsdelikt  (Deliktcharakter)  
+a. Offizialdelikte sind Straftaten, bei denen die Staatsanwaltschaft / Polizei ein 
+Ermittlungsverfahren einleiten muss, sobald sie von der Tat  Kenntnis erlangt.  
+b. Antragsdelikte sind Straftaten , die meist nur zwei bestimmte Personen betreffen 
+(Täter / Opfer) und durch die die Allgemeinheit nicht gefährdet ist. Bei diesen muss 
+die Staatanwaltschaft / Polizei nicht immer sofort ein Ermittlungsverfahren einleiten. 
+Sie werden weiter unterteilt in absolute und relative Antragdelikte.  
+i. Die absoluten Antragsdelikte sind Straftaten , bei denen die 
+Staatsanwaltschaft / Polizei nur tätig werden kann, wenn der Geschädigte 
+einen Strafantrag stellt.  Ohne den Strafantrag kann die Straftat nicht verfolgt 
+werden.  
+ii. Die relativen Antragsdelikte sind Straftaten, bei denen die 
+Staatsanwaltschaft / Polizei auch ohne Strafantrag tätig werden kann, wenn 
+durch die Straftat im konkreten Fall ein öffentliches Interesse betroffen ist.  
+c. Grundsätzlich sind Straftaten Offizialdelikte – Grund dafür ist das Gewaltmonopol 
+des Staates, wodurch dieser zur Verfolgung von Straftaten verpflichtet ist.  
+i. Wenn es sich bei einer Straftat um ein Antragsdelikt handelt muss im Gesetz 
+stehen, dass die Tat nur auf Antrag verfolgt wird. Steht dies dort nicht ist es 
+immer ein Offizialdelikt!  
+4. Strafbarkeit und Definition von Vorsatz und Fahrlässigkeit  (§15 StGB)  
+a. Das Strafrecht wird dem öffentlichen Recht zugeordnet – der Staat sanktioniert das 
+Fehlverhalten von Bürgern, die bewusst gegen geltendes Recht verstoßen.  
+i. Deshalb ist grundsätzlich nur vorsätzliches (bewusstes) Handeln strafbar.  
+b. In einigen Fällen (wenn hohe persönliche oder allgemeine Rechtsgüter von der 
+Straftat betroffen sind) liegt es jedoch in der Verantwortung jedes Einzelnen  
+Rechtsgüter nicht leichtfertig zu gefährden (gilt für Straftaten gegen das Leben, die 
+körperliche Unversehrtheit, Brandstiftungs - und Umweltdelikte)  
+i. In diesen Fällen ist deshalb auch die fahrlässige Begehung unter Strafe 
+gestellt. Dies muss dann aber auch explizit im Gesetz genannt sein.  
+c.  Definition:  
+i. Vorsatz: Eine Tat wird mit Wissen und Wollen verübt.  
+1. Der Täter weiß, dass seine Tat strafbar ist  
+2. Der Täter will trotzdem den strafrechtlichen Erfolg  
+ii. Fahrlässigkeit: Eine Tat unter Missachtung der gebotenen Sorgfalt  
+5. Strafbarkeit und Unterscheidung Versuch / Erfolg einer Straftat  (§23 StGB)  
+a. Solange eine Straftat versucht wird ist kein bzw. nur ein geringerer Schaden 
+eingetreten und der Täter hat sein Ziel noch nicht erreicht. Deshalb bestraft der 
+Gesetzgeber einen Versuch einer Straftat nicht immer. Es gilt:  
+i. Der Versuch eines Verbrechens ist immer strafbar.  
+
+Die wichtigsten Aussagen des allgemeinen Teils des StGB  
+ 
+ii. Der Versuch eines Vergehens ist nur strafbar, wenn dies ausdrücklich im 
+Gesetz vorgesehen ist.  
+b. Definition:  
+i. Eine Straftat versucht wer, nach seiner Vorstellung von der Tat unmittelbar 
+zur Tat ansetzt.  
+ii. Ein strafbarer Erfolg tritt ein, wenn der Täter sein Ziel erreicht hat.  
+6. Anwendung der vorstehenden Aussagen auf die einzelnen Gesetze  
+a. Wenn Sie einen Gesetzestext lesen , achten Sie also zuerst auf die Strafandrohung um 
+festzustellen, ob es sich um ein Vergehen oder ein Verbrechenhandelt.  
+b. Anhand der vorherigen Entscheidung können Sie nun entscheiden , ob der Versuch 
+dieser Straftat strafbar ist (Verbrechen = ja, Vergehen = nur wenn es im Gesetz steht)  
+c. Als nächstes prüfen Sie die Deliktscharakter. Steht im Gesetzt, dass die Tat nur auf 
+Antrag verfolgt wird? (ja = Antragsdelikt, nein = Offizialdelikt)  
+d. Letztlich prüfen Sie , ob die fahrlässige Begehung strafbar ist (steht dies im Gesetz, ja 
+oder nein , nein bedeutet automatisch: nicht strafbar).  
+7. Übungen dazu:  
+a. Beantworten Sie für die folgenden Gesetze die nachstehenden Fragen:  
+i. Um welche Deliktart handelt es sich?  
+ii. Um welchen Deliktcharakter handelt es sich?  
+iii. Wird auch fahrlässiges Handeln bestraft?  
+iv. Ist der Versuch strafbar?  
+b. Liste wichtiger Straftatbestände  
+i. §123 StGB – Hausfriedensbruch  
+ii. §223 StGB – Körperverletzung  
+iii. §224 StGB – gefährliche Körperverletzung  
+iv. §226 StGB – schwere Körperverletzung  
+v. §229 StGB – fahrlässige Körperverletzung  
+vi. §239 StGB – Freiheitsberaubung  
+vii. §240 StGB – Nötigung  
+viii. §242 StGB – Diebstahl  
+ix. §243 StGB – Besonders schwerer Diebstahl  
+x. §246 StGB – Unterschlagung  
+xi. §249 StGB – Raub  
+xii. §252 StGB – räuberischer Diebstahl  
+xiii. §259 StGB – Hehlerei  
+xiv. §263 StGB – Betrug  
+xv. §267 StGB – Urkundenfälschung  
+xvi. §303 StGB – Sachbeschädigung  
+xvii. §323c StGB – Unterlassene Hilfeleistung  
+xviii. $185 StGB – Beleidigung  
+xix. §132 StG B – Amtsanmaßung  
+xx. §265a St GB – Erschleichen von Leistungen  
+ 
+

@@ -1,0 +1,113 @@
+Prüfungsvorbereitung (mündlich)  
+Grundzüge der Sicherheitstechnik  – Teil 2 
+1. Beurteilen Sie folgende Aussage: „Durch den Einsatz von Sicherheitstechnik soll 
+absolute Sicherheit erreicht werden!“ (3P)  
+a) Absolute Sicherheit gibt es nicht!  
+b) Durch den E insatz von Sicherheitstechnik in  Kombination mit en tsprechend 
+ausgebildetem S icherheitspersonal soll das  bestehende Ausgangsrisiko  
+c) Auf ein vernünftiges (versicherbares) Restrisiko  reduziert werden  
+2. Welche beiden Kommunikationswege werden in Zusammenhang mit der 
+Sicherheitstechnik unterschieden? (2P)  
+a) Drahtlose Kommunikation  
+b) Drahtgebundene Kommunikation  
+3. Nennen Sie einen Vorteil und einen Nachteil eines Bündelfunksystems gegenüber 
+eines herkömmlichen Betriebsfunknetzes! (2P)  
+a) Vorteile des Bündelfunks: Höhere Reichweite , bessere Verbindungsqualität, Einwahl 
+ins Telefonnetz möglich, Einzel - und Gruppenrufe möglich  
+b) Nachteile des Bündelfunks: höherer Installationsaufwand , Wartung und Installation 
+nicht in Eigenleistung möglich, höhere Ko sten 
+4. Welche Anforderungen werden an Sicherheitszäune gestellt? Nennen Sie neben den 
+Anforderungen eine Möglichkeit zur Umsetzung! (10P)  
+a) Übersteigschutz – Ausleger / Y-Träger, Mindesthöh e: 2,5m  
+b) Durchreichschutz – Maschenweite max. 5cm 
+c) Unterkriechschutz – Zaunfelder 30cm tief im Boden verankert  
+d) Untergrabschutz – durchgehendes Streifenfundament unterhalb des Zaunes, min. 
+80cm tief  
+e) Hohe Standfestigkeit – Oberflächenvergütetes,  gehärtetes Material, innenliegende 
+Verschraubungen  
+5. Was sind die Bauelemente einer Tür? (6P)  
+a) Türblatt  
+b) Türzarge  
+c) Schließblech  
+d) Türbänder  
+e) Sicherheitstürschild / Beschla g 
+f) Schloss / Einsteckschloss mit Schließzylinder  
+6. Was sind die Sicherheitskriterien, die an Schlösser gestellt werden? (6P)  
+a) Betriebssicherheit – zuverlässige Funktion  
+b) Nachschließsicherheit – Fertigungsgenauigkeit; nur „ähnliche Schlüssel “ sollen nicht 
+funktionieren  
+c) Aufsperrsicherheit – Schutz gegen Manipulation durch Werkzeuge (Dietriche)  
+d) Abbruchsicherheit – Schutz gegen das Abbrechen des Schließzylinders  
+e) Aufbohrs icherheit – Schutz gegen Entfernung der Zylinderstifte durch Bohren / 
+Fräsen  
+
+Prüfungsvorbereitung (mündlich)  
+f) Kernziehfestigkeit – Der Zylinderkern soll nicht mit einem Abzieher aus dem Zylinder 
+gerissen werden können  
+7. Welche Schlüssel gibt es in einer Generalhauptschlüsselanlage? (6P)  
+a) Generalhauptschlüssel  
+b) Hauptgruppenschlüssel  
+c) Obergruppenschlüssel  
+d) Gruppenschlüssel  
+e) Untergru ppenschlüssel  
+f) Einzelschlüssel  
+8. Nennen Sie die Arten der Sicherheitsverglasung in aufsteigender Reihenfolge! (4P)  
+a) Durchwurfhemmend  
+b) Durchbruchhemmend  
+c) Durchschusshemmend  
+d) Sprengwirkungshemmend  
+9. Was ist der Zweck von Zutrittskontrollsystemen? (2P)  
+a) Durch den Einsatz einer ZKS soll en Personen identifiziert werden, sodass  
+b) Der Zutritt nur Personen das Betreten ermöglicht wird , die auch zutrittsberechtigt sind  
+10. Welche Arten von Gefahrenmeldeanlagen kennen Sie? (4P)  
+a) EMA  – Einbruchmeldeanlagen  
+b) ÜMA – Überfallmeldeanlagen  
+c) BMA - Brandmeldeanlagen  
+d) StMA - Störmeldeanlagen  
+11. Nennen Sie drei, für eine Einbruchmeldeanlage typische, Melder und ihren jeweiligen 
+Einsatzzweck! (6P)  
+a) Glasbruchmelder – Meldet das Einschlagen / zerbrechen einer Fenstersche ibe 
+b) Riegelkontakt – Meldet das eine Tür unverschlossen ist  
+c) Reed - / Magnetkontakt – Meldet die Öffnung eines Fenster s oder einer Tür  
+d) IR- Bewe gungsmelder – Detektiert die Wärmestrahlung von sich in einem Raum 
+befindlichen (bewegenden) Menschen  
+e) Körperschallmelder – Melden Erschütterungen potenziell angriffsgefährdete r 
+Gegenstände (Aufbohren eines Panzergeldschranks)  
+f) IR- Lichtschranke – Meldet das Durchfahren / Durchlaufen des überwachten Bereichs  
+g) Drucksensoren – Melden z. B. im A ußengelände  sich verändernde Gewichte, die auf 
+den Boden einwirken  
+12. Erklären Sie die Funktionsweise des Wärmemaximalmelders und des Wärme 
+Differenzialmelders! (4P)  
+a) Im Wärmemaximalmelder ist eine feste Auslöset emperatur  eingestellt  
+b) Sobald diese überschritten wird , geht eine Alarmmeldung an di e Brandmeldezentrale 
+raus 
+
+Prüfungsvorbereitung (mündlich)  
+c) Im Wärmedifferenzialmelder wird die Temperaturentwicklung in einem 
+voreingestellten Zeitraum gemessen und mit eine m „erlaubten “ Steigerungswert 
+abgeglichen  
+d) Wenn die Temperatur schneller ansteigt als „erlaubt “ wird der A larm ausgelöst  
+13. Nennen Sie drei Schwerpunkte, die Sie im Rahmen einer Brandschutzkontrolle 
+überprüfen! (3P)  
+a) Lager brennbarer / gefährlicher Materialien  (Füllmengen, Gefahrenhinweise, etc.)  
+b) Notausgänge frei und korrekt ausgeschildert  
+c) Einhaltung von Rauchverboten  
+d) Brandstiftung – Manipulation techn ischer Anlagen / A blage zündb arer Materialien  
+e) Elektrische Anlagen  – Funkenbildung,  Überhitzung, Warnmeldungen  
+f) Hydraulische Maschinen – Austritt von Betriebsstoffen (Ölen), Leckstellen an Ro hren 
+14. Nennen Sie für jede Brandklasse ein geeignetes Löschmittel! (5P)  
+a) Brandklasse A: Wasser, AB - Lösch schaum, ABC - Löschpulver  
+b) Brandklasse B: AB - Löschschaum, ABC- Löschpulver, CO² 
+c) Brandklasse C: ABC - Löschpulver, CO², Inergen  
+d) Brandklasse D: Metallbrandpulver, trockener Sand, Graugussspäne  
+e) Brandklasse F: spezielle Fettbrandlöscher  
+15. Nennen Sie vier Punkte, die Sie bei einer Brandschutzkontrolle an einem 
+Handfeuerlöscher überprüfen! (4P)  
+a) Letzte Prüfung (max. zwei Jahre alt) ? 
+b) Behälter frei von Beulen ? 
+c) Beschriftung / Nutzungshinweise lesbar?  
+d) Plombe in Ordnung ? 
+e) Schlauch porös oder brüchig?  
+f) Passt das Löschmittel  zum Einsatzort?  
+g) Ist der Feuerlöscher korrekt „ausgeschildert “? 
+
