@@ -39,6 +39,7 @@
         .minitoc{display:flex; flex-wrap:wrap; gap:6px}
         .minitoc a{color:var(--text); text-decoration:none; padding:4px 8px; border:1px solid rgba(255,255,255,.18); border-radius:4px; font-size:12px; background:rgba(255,255,255,.05)}
         .minitoc a:hover{background:var(--primary); color:#fff; border-color:var(--primary)}
+        .law-ref{display:inline-block; padding:2px 6px; border-radius:4px; font-size:11px; font-weight:600; border:1px solid rgba(96,165,250,.6); color:var(--primary); background:rgba(96,165,250,.12)}
         .formula{background:rgba(0,0,0,.3); padding:8px; border-radius:6px; border-left:3px solid var(--primary); margin:6px 0}
         .warning{background:rgba(245,158,11,.1); border:1px solid var(--warn); border-radius:6px; padding:8px; margin:6px 0}
         .success{background:rgba(52,211,153,.1); border:1px solid var(--ok); border-radius:6px; padding:8px; margin:6px 0}
@@ -1183,5 +1184,36 @@
         <strong>Vollversion:</strong> <a href="index.html" style="color:var(--primary)">index.html</a> • <strong>GitHub:</strong> <a href="https://github.com/DennoDhn/Lernmaterial-34a" style="color:var(--primary)">Repository</a>
     </p>
 </div>
+<script>
+    (function(){
+        const LAW_REGEX = /§\s*\d+[a-zA-Z]*(?:\s*(?:Abs\.?|S\.?|Nr\.?|Satz)\s*\d+)*(?:\s*(?:StGB|StPO|BGB|WaffG|GewO|DSGVO))?/g;
+        const SKIP_TAGS = new Set(['SCRIPT','STYLE','NOSCRIPT','IFRAME']);
+
+        function highlightInNode(node){
+            if(node.nodeType === Node.TEXT_NODE){
+                const text = node.nodeValue;
+                if(!text || !LAW_REGEX.test(text)) return;
+                const span = document.createElement('span');
+                span.innerHTML = text.replace(LAW_REGEX, m => '<span class="law-ref">'+m+'</span>');
+                node.parentNode.replaceChild(span, node);
+                return;
+            }
+            if(node.nodeType === Node.ELEMENT_NODE){
+                if(SKIP_TAGS.has(node.tagName)) return;
+                if(node.closest && node.closest('.law-ref')) return;
+                for(let i=0;i<node.childNodes.length;i++){
+                    const child = node.childNodes[i];
+                    highlightInNode(child);
+                }
+            }
+        }
+
+        document.addEventListener('DOMContentLoaded', function(){
+            // Begrenze auf Inhaltsbereich
+            const root = document.querySelector('.wrap') || document.body;
+            highlightInNode(root);
+        });
+    })();
+    </script>
 </body>
 </html>
