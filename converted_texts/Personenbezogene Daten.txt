@@ -1,0 +1,27 @@
+Personenbezogene 
+Daten Gem. BDSG 
+sind:
+Persönliche Daten
+„Normale“ personenbezogene 
+Daten
+Bsp.:
+Name / Vorname
+Geburtsdatum
+Kontonummer
+SozialversicherungsnummerBesondere Kategorien 
+personenbezogener Daten
+Bsp.:
+Sexuelle Orientierung
+Politische Einstellung
+Gewerkschaftszugehörigkeit
+Religion
+Biometrische DatenSachbezogene Daten
+Beispiele:
+KFZ -Kennzeichen
+Nr. der Kreditkarte
+Nr. der Krankenkassenkarte
+Name meiner FirmaDefinition: Personenbezogene Daten
+PD sind  alle  Einzelangaben  über  persönliche  oder  
+sachliche  Verhältnisse einer identifizierten oder 
+identifizierbaren natürlichen Person!
+
