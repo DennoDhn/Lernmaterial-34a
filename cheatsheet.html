@@ -45,7 +45,18 @@
         .warning{background:rgba(245,158,11,.1); border:1px solid var(--warn); border-radius:6px; padding:8px; margin:6px 0}
         .success{background:rgba(52,211,153,.1); border:1px solid var(--ok); border-radius:6px; padding:8px; margin:6px 0}
         .critical{background:rgba(248,113,113,.1); border:1px solid var(--danger); border-radius:6px; padding:8px; margin:6px 0}
-        @media print{.wrap{max-width:none; padding:8px} .card{break-inside:avoid; margin:4px 0} .quick-nav{display:none}}
+        @media print{
+            html,body{background:#fff!important; color:#000!important}
+            .wrap{max-width:none; padding:8px}
+            .card{break-inside:avoid; margin:6px 0; box-shadow:none; background:#fff; border:1px solid #ddd}
+            .section-header{color:#000; background:#f3f4f6!important; -webkit-print-color-adjust:exact; print-color-adjust:exact}
+            .quick-nav{display:none}
+            h1{font-size:22px}
+            h2{font-size:16px}
+            h3{font-size:13px}
+            body{font-size:12px; line-height:1.35}
+            .badge{border-color:#888!important; color:#000!important; background:#eee!important}
+        }
         /* Summary/Details – bessere Auffindbarkeit */
         details summary{list-style:none; cursor:pointer; padding:6px 8px; background:rgba(255,255,255,.05); border:1px solid rgba(255,255,255,.18); border-radius:6px}
         details[open] summary{background:rgba(96,165,250,.08); border-color:rgba(96,165,250,.35)}
@@ -1400,6 +1411,19 @@
                     </ul>
                 </div>
             </div>
+        </div>
+        <div class="details" style="margin-top:8px;">
+            <summary><span class="badge info">MC‑Übung</span> – 8 typische Fragen (mit Lösungen)</summary>
+            <ul class="tight">
+                <li><strong>1.</strong> § 127 StPO: Voraussetzungen? <em>Frische Tat; ID nicht feststellbar oder Fluchtverdacht.</em></li>
+                <li><strong>2.</strong> Notwehr vs. Notstand: Kernunterschied? <em>Angriff vs. Gefahr.</em></li>
+                <li><strong>3.</strong> § 243: Nenne drei Regelbeispiele. <em>Einbrechen/Einsteigen; Behältnis/Sicherungsgerät; gewerbsmäßig; Kirche; bedeutende Sache; Hilflosigkeit; Waffen/Sprengstoff.</em></li>
+                <li><strong>4.</strong> § 224: Nenne zwei Qualifikationen. <em>Waffe/Werkzeug; Gift/Stoffe; hinterlistig; gemeinschaftlich; lebensgefährdend.</em></li>
+                <li><strong>5.</strong> § 249 vs. § 255: Abgrenzung? <em>Wegnahme vs. Verfügung.</em></li>
+                <li><strong>6.</strong> Besitzdiener: eigenes Besitzschutzrecht? <em>Nein (§ 860 BGB).</em></li>
+                <li><strong>7.</strong> DSGVO Video: zwei Tabuzonen. <em>Umkleide; Sanitär; Sauna.</em></li>
+                <li><strong>8.</strong> § 269: Was wird geschützt? <em>Beweissicherheit im Rechtsverkehr durch beweiserhebliche Daten.</em></li>
+            </ul>
         </div>
     </div>
 
