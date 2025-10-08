@@ -50,6 +50,8 @@
         details summary{list-style:none; cursor:pointer; padding:6px 8px; background:rgba(255,255,255,.05); border:1px solid rgba(255,255,255,.18); border-radius:6px}
         details[open] summary{background:rgba(96,165,250,.08); border-color:rgba(96,165,250,.35)}
         details summary::-webkit-details-marker{display:none}
+        .warning strong::before{content:"⚠️ ";}
+        .success strong::before{content:"📌 ";}
     </style>
 </head>
 <body>
@@ -322,6 +324,13 @@
                         <li><strong>Rücktritt (§ 24)</strong>: freiwillig + Vollendung verhindert (Einzeltäter); bei mehreren: ernsthaftes Bemühen ausreichend</li>
                     </ul>
                 </div>
+                <div class="warning" style="margin-top:6px;">
+                    <strong>Prüfungsfallen – AT‑Spezialfälle</strong>
+                    <ul class="tight" style="margin-left:14px;">
+                        <li><strong>error in persona</strong> (Irrtum im Tatobjekt): bei Mittätern idR <em>zurechenbar</em>, wenn gleichwertige Objekte</li>
+                        <li><strong>aberratio ictus</strong> (Fehlgehen der Tat): Zurechnung differenziert; Teilnahmeprobleme beachten</li>
+                    </ul>
+                </div>
                 <div class="success" style="margin-top:6px;">
                     <strong>Zur Prüfung merken – Täterschaft/Teilnahme</strong>
                     <ul class="tight" style="margin-left:14px;">
@@ -502,6 +511,14 @@
                     </ul>
                 </div>
                 <div class="details" style="margin-top:6px;">
+                    <summary><span class="badge info">Datenfälschung</span> <span class="badge tb">Tatbestandsmerkmale</span> – § 269 StGB</summary>
+                    <ul class="tight">
+                        <li><strong>Objektiv</strong>: <em>beweiserhebliche Daten</em> speichern/verändern/gebrauchen, so dass bei visueller Wahrnehmung ein <strong>unechter/falscher</strong> Datenbeweis entsteht</li>
+                        <li><strong>Subjektiv</strong>: Vorsatz; <strong>zur Täuschung im Rechtsverkehr</strong></li>
+                        <li><strong>Bezug</strong>: funktionales Äquivalent zur Urkunde in digitaler Form</li>
+                    </ul>
+                </div>
+                <div class="details" style="margin-top:6px;">
                     <summary><span class="badge ok">Ausweispapiere</span> <span class="badge tb">Tatbestandsmerkmale</span> – § 281 StGB</summary>
                     <ul class="tight">
                         <li><strong>Gebrauch</strong> eines für einen anderen ausgestellten Ausweises</li>
@@ -514,7 +531,27 @@
                     <ul class="tight" style="margin-left:14px;">
                         <li>§ 267: drei Tathandlungen – Herstellen, Verfälschen, Gebrauchen</li>
                         <li>Urkunde = <strong>verkörperte Gedankenerklärung</strong>, die zum Beweis im Rechtsverkehr <strong>gedacht und geeignet</strong> ist und ihren <strong>Aussteller erkennen lässt</strong></li>
+                        <li>§ 269: digitale <em>beweiserhebliche Daten</em> – Äquivalent zur Urkunde</li>
                         <li>§ 281: echter Ausweis, aber <em>für einen anderen</em> – Gebrauch/Überlassen</li>
+                    </ul>
+                </div>
+                <div class="kicker" style="margin-top:6px;">E. Hausfriedensbruch</div>
+                <ul class="tight">
+                    <li><strong>§ 123 StGB</strong> Hausfriedensbruch: <em>Eindringen</em> in <strong>fremde</strong> Wohn-/Geschäfts-/befriedete Räume gegen den Willen des Berechtigten <em>oder</em> <em>Nicht‑Verlassen</em> nach Aufforderung</li>
+                </ul>
+                <div class="details" style="margin-top:6px;">
+                    <summary><span class="badge info">Hausrecht</span> <span class="badge tb">Tatbestandsmerkmale</span> – § 123 StGB</summary>
+                    <ul class="tight">
+                        <li><strong>Objektiv</strong>: Räumlichkeit i. S. d. Norm; <strong>Eindringen</strong> ohne/gegen Willen <em>oder</em> <strong>Verweilen</strong> trotz Aufforderung zu gehen</li>
+                        <li><strong>Subjektiv</strong>: Vorsatz</li>
+                        <li><strong>Abgrenzung</strong>: Berechtigung/Hausrecht; öffentlich zugängliche Bereiche</li>
+                    </ul>
+                </div>
+                <div class="success" style="margin-top:6px;">
+                    <strong>Zur Prüfung merken – § 123</strong>
+                    <ul class="tight" style="margin-left:14px;">
+                        <li>Eindringen <em>oder</em> Nicht‑Verlassen genügt</li>
+                        <li>Hausrecht klären (Berechtigter, Vertreter)</li>
                     </ul>
                 </div>
                 <div class="kicker" style="margin-top:6px;">D. Sonstiges</div>
@@ -795,6 +832,13 @@
                         <li>Schwere Körperverletzung zufügen</li>
                         <li>Lebensgefährdende Behandlung</li>
                         <li><em>Abs. 2</em>: Schusswaffe verwenden; besonders schwere Fälle</li>
+                    </ul>
+                </div>
+                <div class="warning" style="margin-top:6px;">
+                    <strong>Prüfungsfallen – Nötigung/Erpressung</strong>
+                    <ul class="tight" style="margin-left:14px;">
+                        <li>§ 255: <strong>Verfügung</strong> (Opfer gibt selbst heraus) vs. § 249: <strong>Wegnahme</strong></li>
+                        <li>Nötigung (§ 240): <strong>Verwerflichkeit</strong> (Abs. 2) als eigene Stufe prüfen</li>
                     </ul>
                 </div>
                 <div class="details" style="margin-top:6px;">
@@ -1416,31 +1460,27 @@
 <script>
     (function(){
         const LAW_REGEX = /§\s*\d+[a-zA-Z]*(?:\s*(?:Abs\.?|S\.?|Nr\.?|Satz)\s*\d+)*(?:\s*(?:StGB|StPO|BGB|WaffG|GewO|DSGVO))?/g;
-        const SKIP_TAGS = new Set(['SCRIPT','STYLE','NOSCRIPT','IFRAME']);
-
-        function highlightInNode(node){
-            if(node.nodeType === Node.TEXT_NODE){
-                const text = node.nodeValue;
-                if(!text || !LAW_REGEX.test(text)) return;
-                const span = document.createElement('span');
-                span.innerHTML = text.replace(LAW_REGEX, m => '<span class="law-ref">'+m+'</span>');
-                node.parentNode.replaceChild(span, node);
-                return;
-            }
-            if(node.nodeType === Node.ELEMENT_NODE){
-                if(SKIP_TAGS.has(node.tagName)) return;
-                if(node.closest && node.closest('.law-ref')) return;
-                for(let i=0;i<node.childNodes.length;i++){
-                    const child = node.childNodes[i];
-                    highlightInNode(child);
-                }
-            }
-        }
-
         document.addEventListener('DOMContentLoaded', function(){
-            // Begrenze auf Inhaltsbereich
             const root = document.querySelector('.wrap') || document.body;
-            highlightInNode(root);
+            const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT, {
+                acceptNode: (n) => {
+                    const t = n.nodeValue;
+                    if(!t || !LAW_REGEX.test(t)) return NodeFilter.FILTER_REJECT;
+                    const p = n.parentElement; if(!p) return NodeFilter.FILTER_REJECT;
+                    const tag = p.tagName;
+                    if(['SCRIPT','STYLE','NOSCRIPT','IFRAME'].includes(tag)) return NodeFilter.FILTER_REJECT;
+                    if(p.closest('.law-ref')) return NodeFilter.FILTER_REJECT;
+                    if(p.closest('a,button,input,textarea,select,summary')) return NodeFilter.FILTER_REJECT;
+                    return NodeFilter.FILTER_ACCEPT;
+                }
+            });
+            const nodes = [];
+            while(walker.nextNode()) nodes.push(walker.currentNode);
+            nodes.forEach(n => {
+                const span = document.createElement('span');
+                span.innerHTML = n.nodeValue.replace(LAW_REGEX, m => '<span class="law-ref">'+m+'</span>');
+                n.parentNode.replaceChild(span, n);
+            });
         });
     })();
     </script>
