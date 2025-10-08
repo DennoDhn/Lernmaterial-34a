@@ -44,6 +44,10 @@
         .success{background:rgba(52,211,153,.1); border:1px solid var(--ok); border-radius:6px; padding:8px; margin:6px 0}
         .critical{background:rgba(248,113,113,.1); border:1px solid var(--danger); border-radius:6px; padding:8px; margin:6px 0}
         @media print{.wrap{max-width:none; padding:8px} .card{break-inside:avoid; margin:4px 0} .quick-nav{display:none}}
+        /* Summary/Details – bessere Auffindbarkeit */
+        details summary{list-style:none; cursor:pointer; padding:6px 8px; background:rgba(255,255,255,.05); border:1px solid rgba(255,255,255,.18); border-radius:6px}
+        details[open] summary{background:rgba(96,165,250,.08); border-color:rgba(96,165,250,.35)}
+        details summary::-webkit-details-marker{display:none}
     </style>
 </head>
 <body>
@@ -320,7 +324,7 @@
                     </ul>
                 </div>
                 <div class="details" style="margin-top:6px;">
-                    <summary>Diebstahlsformen – geordnet (Auswahl)</summary>
+                    <summary><span class="badge info">Formen</span> – Diebstahlsformen (Auswahl)</summary>
                     <ul class="tight">
                         <li><strong>Ladendiebstahl</strong>: Entwendung im Verkaufsraum; <em>Gewahrsamsenklave</em> beachten (Umkleide ≠ Gewahrsamsbruch)</li>
                         <li><strong>Taschendiebstahl</strong>: Wegnahme aus Kleidung/Behältnissen einer Person</li>
@@ -334,7 +338,7 @@
                     </ul>
                 </div>
                 <div class="details" style="margin-top:6px;">
-                    <summary>§ 243 StGB – Besonders schwerer Fall des Diebstahls (Beispiele)</summary>
+                    <summary><span class="badge warn">Qualifikation</span> – § 243 StGB Besonders schwerer Fall (Beispiele)</summary>
                     <ul class="tight">
                         <li>Einbrechen/Einsteigen/Eindringen in umschlossene Räume</li>
                         <li>Diebstahl aus verschlossenem Behältnis/Sicherungsgerät</li>
@@ -384,7 +388,7 @@
                     </ul>
                 </div>
                 <div class="details" style="margin-top:6px;">
-                    <summary>§ 250 StGB – Schwerer Raub</summary>
+                    <summary><span class="badge warn">Qualifikation</span> – § 250 StGB Schwerer Raub</summary>
                     <ul class="tight">
                         <li>Führen einer Waffe oder eines gefährlichen Werkzeugs</li>
                         <li>Bandenraub</li>
