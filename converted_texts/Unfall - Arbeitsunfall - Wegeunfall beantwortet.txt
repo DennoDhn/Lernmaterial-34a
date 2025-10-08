@@ -1,8 +1,0 @@
-Unfall, Arbeitsunfall und Wegeunfall
-Wir unterscheiden in Deutschland Unfälle im Privatleben von Wegeunfällen und 
-Arbeitsunfällen.
-Grunddefinition „Unfall“: Ein ungewolltes, zeitlich befristetes, von außen auf den Körper 
-einwirkendes Ereignis, dass zu einem Gesundheitsschaden oder zum Tod führt.
-Definition „Arbeitsunfall“: Ein Unfall der einem oder einer Versicherten  bei einer 
-versicherten Tätigkeit  passiert.
-
