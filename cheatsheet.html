@@ -3,209 +3,411 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>34a Lernzettel – Kompakt</title>
-    <meta name="description" content="Kompakter Lernzettel für §34a: Schemata, Merksätze, Kernthemen.">
+    <title>34a Lernzettel – Prüfungsrelevant</title>
+    <meta name="description" content="Kompakter Lernzettel für §34a: Alle wichtigen Schemata, Paragraphen und Merksätze für die Prüfung.">
     <style>
         :root {
-            --bg: #0b1021; --panel:#0f172a; --text:#e5e7eb; --muted:#9aa4b1; --primary:#60a5fa;
+            --bg: #0b1021; --panel: #0f172a; --panel-2: #0b1220; --text: #e5e7eb; --muted: #94a3b8;
+            --primary: #60a5fa; --ok: #34d399; --warn: #f59e0b; --danger: #f87171;
+            --c-bgb: #22c55e; --c-straf: #f59e0b; --c-bewachv: #60a5fa; --c-dsgvo: #a78bfa;
+            --c-uvv: #ef4444; --c-waffen: #f97316; --c-tech: #06b6d4;
         }
         *{box-sizing:border-box}
-        html,body{height:100%}
-        body{margin:0; font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial; background:linear-gradient(180deg,var(--bg),#0a0f1f 60%); color:var(--text); line-height:1.45}
-        .wrap{max-width:1000px; margin:0 auto; padding:18px 16px 40px}
-        h1{margin:0 0 10px; font-size:22px; color:#fff}
-        h2{margin:18px 0 8px; font-size:18px; color:#fff}
-        h3{margin:12px 0 6px; font-size:15px; color:var(--muted)}
-        .card{background:linear-gradient(180deg,var(--panel),#0b1220); border:1px solid rgba(255,255,255,.08); border-radius:12px; padding:14px; margin-top:12px}
-        ul{margin:6px 0; padding-left:18px}
-        ul.tight li{margin:2px 0}
-        .grid{display:grid; grid-template-columns:1fr 1fr; gap:12px}
-        @media (max-width:800px){.grid{grid-template-columns:1fr}}
-        .small{font-size:13px; color:var(--muted)}
-        a{color:#bcd7ff}
+        html,body{height:100%; margin:0; font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial; background:linear-gradient(180deg,var(--bg),#0a0f1f 60%); color:var(--text); line-height:1.4}
+        .wrap{max-width:1200px; margin:0 auto; padding:16px; display:grid; grid-template-columns:1fr; gap:12px}
+        h1{margin:0 0 8px; font-size:24px; color:#fff; text-align:center}
+        h2{margin:12px 0 8px; font-size:18px; color:#fff; border-left:4px solid var(--primary); padding-left:8px}
+        h3{margin:8px 0 4px; font-size:14px; color:var(--muted); font-weight:600}
+        .card{background:linear-gradient(180deg,var(--panel),var(--panel-2)); border:1px solid rgba(255,255,255,.08); border-radius:10px; padding:12px; box-shadow:0 4px 12px rgba(0,0,0,.2)}
+        .grid{display:grid; grid-template-columns:repeat(auto-fit, minmax(300px, 1fr)); gap:12px}
+        .grid-2{display:grid; grid-template-columns:1fr 1fr; gap:12px}
+        .grid-3{display:grid; grid-template-columns:repeat(3, 1fr); gap:8px}
+        @media (max-width:800px){.grid,.grid-2,.grid-3{grid-template-columns:1fr}}
+        ul{margin:4px 0; padding-left:16px}
+        ul.tight li{margin:2px 0; font-size:13px}
+        .badge{display:inline-block; padding:2px 6px; border-radius:4px; font-size:11px; font-weight:600; margin:1px}
+        .badge.ok{background:rgba(52,211,153,.2); color:var(--ok); border:1px solid var(--ok)}
+        .badge.warn{background:rgba(245,158,11,.2); color:var(--warn); border:1px solid var(--warn)}
+        .badge.danger{background:rgba(248,113,113,.2); color:var(--danger); border:1px solid var(--danger)}
+        .badge.info{background:rgba(96,165,250,.2); color:var(--primary); border:1px solid var(--primary)}
+        .small{font-size:12px; color:var(--muted)}
+        .highlight{background:rgba(96,165,250,.1); padding:2px 4px; border-radius:3px; font-weight:600}
+        .section-header{background:linear-gradient(90deg,var(--primary),var(--c-bewachv)); color:#fff; padding:8px 12px; border-radius:6px; margin:-12px -12px 8px -12px; font-weight:600}
+        .quick-nav{display:flex; flex-wrap:wrap; gap:6px; margin:8px 0; justify-content:center}
+        .quick-nav a{color:var(--primary); text-decoration:none; padding:4px 8px; border:1px solid var(--primary); border-radius:4px; font-size:12px}
+        .quick-nav a:hover{background:var(--primary); color:#fff}
+        .formula{background:rgba(0,0,0,.3); padding:8px; border-radius:6px; border-left:3px solid var(--primary); margin:6px 0}
+        .warning{background:rgba(245,158,11,.1); border:1px solid var(--warn); border-radius:6px; padding:8px; margin:6px 0}
+        .success{background:rgba(52,211,153,.1); border:1px solid var(--ok); border-radius:6px; padding:8px; margin:6px 0}
+        .critical{background:rgba(248,113,113,.1); border:1px solid var(--danger); border-radius:6px; padding:8px; margin:6px 0}
+        @media print{.wrap{max-width:none; padding:8px} .card{break-inside:avoid; margin:4px 0} .quick-nav{display:none}}
     </style>
 </head>
 <body>
 <div class="wrap">
-    <h1>34a Lernzettel – Kompakt</h1>
-    <p class="small">Konzentration auf Kernwissen. Für Details nutze die Vollversion <strong>index.html</strong>.</p>
+    <h1>📋 34a Lernzettel – Prüfungsrelevant</h1>
+    <p class="small" style="text-align:center; margin-bottom:16px;">
+        <strong>Kompakte Zusammenfassung aller wichtigen Inhalte</strong> • Für Details: <a href="index.html" style="color:var(--primary)">Vollversion</a>
+    </p>
 
-    <div class="card">
-        <h2>0. Schemata – Schnell</h2>
-        <ul class="tight">
-            <li><strong>Notwehr (§ 32 StGB)</strong>: Angriff gegenwärtig + rechtswidrig → Verteidigung geeignet, erforderlich (mildestes Mittel), geboten.</li>
-            <li><strong>§ 127 Abs. 1 StPO</strong>: Straftat; auf frischer Tat betroffen/verfolgt; ID nicht feststellbar oder Fluchtverdacht.</li>
-            <li><strong>§ 34 StGB</strong> (rechtfert. Notstand): Gefahr; anders nicht abwendbar; Güterabwägung zugunsten des geschützten Rechtsguts.</li>
-            <li><strong>§ 35 StGB</strong> (entschuld. Notstand): Gefahr für Leben/Leib/Freiheit; mir/nahestehend; nicht selbst verschuldet.</li>
-            <li><strong>§ 228 BGB</strong> (defensiv): Gefahr von Sache; Eingriff in diese Sache zulässig.</li>
-            <li><strong>§ 904 BGB</strong> (aggressiv): Eingriff in fremde unbeteiligte Sache zur Abwehr; Interessenabwägung.</li>
-            <li><strong>Selbsthilfe § 229 BGB</strong>: Anspruch; Eilfall; keine rechtzeitige hoheitliche Hilfe.</li>
-        </ul>
+    <div class="quick-nav">
+        <a href="#schemata">Schemata</a>
+        <a href="#strafrecht">Strafrecht</a>
+        <a href="#bgb">BGB</a>
+        <a href="#bewachung">Bewachung</a>
+        <a href="#dsgvo">DSGVO</a>
+        <a href="#waffen">Waffen</a>
+        <a href="#uvv">UVV</a>
+        <a href="#merksaetze">Merksätze</a>
     </div>
 
-    <div class="card">
-        <h2>1. BGB – Besitz/Eigentum & Ansprüche</h2>
-        <div class="grid">
+    <div class="card" id="schemata">
+        <div class="section-header">🎯 0. Prüfungsschemata – Das Wichtigste</div>
+        <div class="grid-2">
             <div>
-                <h3>Kern</h3>
+                <h3>Notwehr (§ 32 StGB)</h3>
+                <div class="formula">
+                    <strong>Voraussetzungen:</strong><br>
+                    • Gegenwärtiger, rechtswidriger Angriff<br>
+                    • Verteidigung erforderlich (mildestes Mittel)<br>
+                    • Verteidigung angemessen (kein Rechtsgütervergleich!)
+                </div>
+                <div class="warning">
+                    <strong>§ 33 StGB:</strong> Entschuldigung bei Verwirrung/Furcht/Schrecken
+                </div>
+            </div>
+            <div>
+                <h3>Festnahme (§ 127 Abs. 1 StPO)</h3>
+                <div class="formula">
+                    <strong>Voraussetzungen:</strong><br>
+                    • Straftat begangen<br>
+                    • Auf frischer Tat betroffen/verfolgt<br>
+                    • ID nicht feststellbar ODER Fluchtverdacht
+                </div>
+                <div class="critical">
+                    <strong>Wichtig:</strong> Sofortige Vorführung bei Gericht/StA
+                </div>
+            </div>
+        </div>
+        
+        <div class="grid-2">
+            <div>
+                <h3>Notstand (§ 34 StGB)</h3>
+                <div class="formula">
+                    <strong>Rechtfertigender Notstand:</strong><br>
+                    • Gegenwärtige Gefahr<br>
+                    • Anders nicht abwendbar<br>
+                    • Rechtsgüterabwägung (geschütztes Gut überwiegt wesentlich)
+                </div>
+            </div>
+            <div>
+                <h3>Selbsthilfe (§ 229 BGB)</h3>
+                <div class="formula">
+                    <strong>Voraussetzungen:</strong><br>
+                    • Einklagbarer Anspruch<br>
+                    • Eilfall (Gefahr im Verzug)<br>
+                    • Keine rechtzeitige hoheitliche Hilfe
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card" id="strafrecht">
+        <div class="section-header" style="background:linear-gradient(90deg,var(--c-straf),#ff8c00)">⚖️ 1. Strafrecht (StGB/StPO)</div>
+        <div class="grid-2">
+            <div>
+                <h3>Dreistufiger Deliktsaufbau</h3>
+                <div class="formula">
+                    <span class="badge danger">1. Tatbestand</span> → <span class="badge warn">2. Rechtswidrigkeit</span> → <span class="badge ok">3. Schuld</span>
+                </div>
                 <ul class="tight">
-                    <li><strong>Besitz</strong> = tatsächliche Gewalt; <strong>Eigentum</strong> = rechtliche Herrschaft.</li>
-                    <li><strong>Besitzschutz</strong>: § 859 (Wehr/Kehr); §§ 861/862 (Wiedereinräumung/Unterlassung).</li>
-                    <li><strong>Ansprüche</strong>: § 985 Herausgabe; § 1004 Unterlassung/Beseitigung; § 823 SE; § 253 Schmerzensgeld.</li>
+                    <li><strong>TB:</strong> Objektive + subjektive Merkmale</li>
+                    <li><strong>RW:</strong> Rechtfertigungsgründe (Notwehr, Notstand)</li>
+                    <li><strong>Schuld:</strong> Vorwerfbarkeit, Schuldfähigkeit</li>
                 </ul>
             </div>
             <div>
-                <h3>Selbsthilfe/Notstände</h3>
+                <h3>Wichtige Delikte</h3>
                 <ul class="tight">
-                    <li>§ 229 Selbsthilfe: Anspruch sichern (Eilfall, keine Behördenhilfe).</li>
-                    <li>§ 228 defensiv: Gefahr von Sache → Eingriff in diese Sache.</li>
-                    <li>§ 904 aggressiv: fremde Sache zur Abwehr; Abwägung erforderlich.</li>
+                    <li><strong>§ 242 Diebstahl:</strong> Fremde bewegliche Sache, Zueignungsabsicht</li>
+                    <li><strong>§ 243 Schwerer Diebstahl:</strong> Katalog (Einbruch, Waffen, etc.)</li>
+                    <li><strong>§ 249 Raub:</strong> Gewalt/Drohung → Wegnahme</li>
+                    <li><strong>§ 252 Räuberischer Diebstahl:</strong> Wegnahme → Gewalt/Drohung</li>
+                    <li><strong>§ 201 StGB:</strong> Tonaufnahmen ohne Einwilligung</li>
                 </ul>
             </div>
         </div>
     </div>
 
-    <div class="card">
-        <h2>2. StGB/StPO – Kompakt</h2>
-        <div class="grid">
+    <div class="card" id="bgb">
+        <div class="section-header" style="background:linear-gradient(90deg,var(--c-bgb),#16a34a)">🏠 2. BGB – Zivilrecht</div>
+        <div class="grid-2">
             <div>
-                <h3>Grundlagen</h3>
+                <h3>Besitz vs. Eigentum</h3>
+                <div class="success">
+                    <strong>Besitz</strong> = tatsächliche Gewalt<br>
+                    <strong>Eigentum</strong> = rechtliche Herrschaft
+                </div>
+                <h3>Wichtige Ansprüche</h3>
                 <ul class="tight">
-                    <li>Deliktsaufbau: TB → RW → Schuld.</li>
-                    <li>Unterlassen: echt (jedermann) / unecht (Garantenpflicht).</li>
-                    <li>Versuch: Verbrechen immer; Vergehen nur, wenn normiert; Rücktritt § 24.</li>
+                    <li><strong>§ 985:</strong> Herausgabeanspruch (Eigentümer vs. Besitzer)</li>
+                    <li><strong>§ 1004:</strong> Unterlassung/Beseitigung (Störung)</li>
+                    <li><strong>§ 823:</strong> Schadensersatz (Vorsatz/Fahrlässigkeit)</li>
+                    <li><strong>§ 253:</strong> Schmerzensgeld</li>
                 </ul>
             </div>
             <div>
-                <h3>Delikte/Merker</h3>
+                <h3>Besitzschutz</h3>
                 <ul class="tight">
-                    <li>§ 243 Katalog: Einbruch/Einstieg/Eindringen/Verbergen; gesichert; gewerbsm.; Religion; bedeutend; Hilflosigkeit; Waffen/Sprengstoff.</li>
-                    <li>§ 249 vs. § 252: Raub (Hauen→Klauen) vs. räub. Diebstahl (Klauen→Hauen).</li>
-                    <li>§ 201 StGB: Tonaufnahmen tabu (DSGVO‑Bezug).</li>
+                    <li><strong>§ 859 BGB:</strong> Besitzwehr (frische Störung) / Besitzkehr (Entziehung)</li>
+                    <li><strong>§ 861 BGB:</strong> Wiedereinräumung des Besitzes</li>
+                    <li><strong>§ 862 BGB:</strong> Unterlassung der Besitzstörung</li>
                 </ul>
-            </div>
-        </div>
-    </div>
-
-    <div class="card">
-        <h2>3. BewachV/Gewerberecht</h2>
-        <ul class="tight">
-            <li>Erlaubnis: 18 J.; Zuverlässigkeit; Sachkunde; Haftpflicht; geordnete Verhältnisse; Liqui‑Reserve.</li>
-            <li>Nachschau: Geschäftszeiten; Gefahr im Verzug jederzeit; Auskunft/Unterlagen vorlegen.</li>
-            <li>Dienstausweis (min.): Name, Adresse Unternehmer, BR‑IDs, Unterschriften.</li>
-            <li>Namens-/Kennschild: Sachkunde‑Tätigkeiten; Asyl; Großveranstaltungen (Ausnahme: KHD).</li>
-            <li>Dienstanweisung: keine Hoheitsbefugnisse; Waffenführung; Vorgehen nach Waffengebrauch.</li>
-        </ul>
-    </div>
-
-    <div class="card">
-        <h2>4. DSGVO – Video & Praxis</h2>
-        <ul class="tight">
-            <li>Rechtsgrundlage: Art. 6 Abs. 1; § 4 BDSG (Video).</li>
-            <li>Transparenz: Schild vor Betreten; Verantwortlicher; Zweck; Kontakt; Speicher.</li>
-            <li>Verbotszonen: Umkleide, Sanitär, Sauna, Wellness.</li>
-            <li>Speicherdauer: zweckbezogen; kein starres 72h; Vorfall → Behörden, dann löschen.</li>
-            <li>DSB: ab 20 Personen DV oder DSFA‑Pflicht; beraten/überwachen/schulen/DSFA.</li>
-        </ul>
-    </div>
-
-    <div class="card">
-        <h2>5. UVV (DGUV V23)</h2>
-        <div class="grid">
-            <div>
-                <h3>Kern</h3>
+                <h3>Notstand BGB</h3>
                 <ul class="tight">
-                    <li>Wegeunfall: Kinderunterbringung; Fahrgemeinschaft → versichert.</li>
-                    <li>Berauschende Mittel: nüchtern antreten; kein Konsum im Dienst.</li>
-                    <li>Alleinarbeit: Totmann; Anrufe; Kontrollen (dokumentieren).</li>
-                </ul>
-            </div>
-            <div>
-                <h3>Hund/Waffe/GT</h3>
-                <ul class="tight">
-                    <li>Zwinger: Einzelhaltung; Schild; abschließen; Reinigung ohne Hund.</li>
-                    <li>Waffenaufbewahrung: entladen; getrennt; min. Stahlblechschrank; Schutz vor Abhandenkommen.</li>
-                    <li>Geldtransport: i. d. R. 3 Personen (Fahrer/Träger/Sicherer).</li>
+                    <li><strong>§ 228:</strong> Defensiv (Gefahr von eigener Sache)</li>
+                    <li><strong>§ 904:</strong> Aggressiv (Eingriff in fremde Sache)</li>
                 </ul>
             </div>
         </div>
     </div>
 
-    <div class="card">
-        <h2>6. Waffenrecht</h2>
-        <ul class="tight">
-            <li>Erlaubnisse: WBK (Besitz/Erwerb), Waffenschein (Führen), MES/Munitionseintrag.</li>
-            <li>Verbote: z. B. Stahlrute, Wurfstern, Butterfly, E‑Geräte ohne PTB, RSG ohne PTB.</li>
-            <li>Bedürfnisse: Beruf, Brauchtum, Sport, Sammler, SV, Hersteller/Händler, Jäger, Bewachungsunternehmer.</li>
-            <li>Transport: entladen; getrennt; verschlossen; Schießstand mit WBK‑Eintrag.</li>
-            <li>Personenschutz (bewaffnet): Waffenschein + Haftpflicht ≥ 1 Mio €.</li>
-        </ul>
+    <div class="card" id="bewachung">
+        <div class="section-header" style="background:linear-gradient(90deg,var(--c-bewachv),#3b82f6)">🛡️ 3. Bewachung (GewO/BewachV)</div>
+        <div class="grid-2">
+            <div>
+                <h3>Erlaubnisvoraussetzungen</h3>
+                <ul class="tight">
+                    <li><strong>Alter:</strong> 18 Jahre</li>
+                    <li><strong>Zuverlässigkeit:</strong> keine Vorstrafen, geordnete Verhältnisse</li>
+                    <li><strong>Sachkunde:</strong> IHK-Prüfung § 34a GewO</li>
+                    <li><strong>Persönliche Eignung:</strong> körperlich/geistig geeignet</li>
+                    <li><strong>Haftpflicht:</strong> mind. 1 Mio. €</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Pflichten</h3>
+                <ul class="tight">
+                    <li><strong>Ausweispflicht:</strong> Dienstausweis + Personalausweis</li>
+                    <li><strong>Dienstanweisung:</strong> Befolgung der Anweisungen</li>
+                    <li><strong>Wachbuch:</strong> Dokumentation aller Vorfälle</li>
+                    <li><strong>Kennschild:</strong> bei Sachkunde-Tätigkeiten</li>
+                </ul>
+            </div>
+        </div>
+        <div class="warning">
+            <strong>Nachschau (§ 144 GewO):</strong> Geschäftszeiten + Gefahr im Verzug jederzeit möglich
+        </div>
     </div>
 
-    <div class="card">
-        <h2>7. Umgang mit Menschen</h2>
-        <div class="grid">
+    <div class="card" id="dsgvo">
+        <div class="section-header" style="background:linear-gradient(90deg,var(--c-dsgvo),#8b5cf6)">🔒 4. DSGVO – Datenschutz</div>
+        <div class="grid-2">
+            <div>
+                <h3>Rechtsgrundlagen (Art. 6 DSGVO)</h3>
+                <ul class="tight">
+                    <li>Einwilligung der betroffenen Person</li>
+                    <li>Vertragserfüllung</li>
+                    <li>Rechtliche Verpflichtung</li>
+                    <li>Lebenswichtige Interessen</li>
+                    <li>Öffentliches Interesse</li>
+                    <li>Berechtigte Interessen (Abwägung!)</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Videoüberwachung</h3>
+                <ul class="tight">
+                    <li><strong>Transparenz:</strong> Schild vor Betreten</li>
+                    <li><strong>Verbotszonen:</strong> Umkleide, Sanitär, Sauna</li>
+                    <li><strong>Speicherdauer:</strong> zweckgebunden, keine starre 72h-Regel</li>
+                    <li><strong>Zweck:</strong> Schutz von Leben, Gesundheit, Eigentum</li>
+                </ul>
+            </div>
+        </div>
+        <div class="success">
+            <strong>DSB-Pflicht:</strong> ab 20 Personen DV oder bei DSFA-Pflicht
+        </div>
+    </div>
+
+    <div class="card" id="waffen">
+        <div class="section-header" style="background:linear-gradient(90deg,var(--c-waffen),#ea580c)">🔫 5. Waffenrecht</div>
+        <div class="grid-2">
+            <div>
+                <h3>WBK-Voraussetzungen</h3>
+                <ul class="tight">
+                    <li><strong>Alter:</strong> 18 Jahre</li>
+                    <li><strong>Zuverlässigkeit:</strong> keine Vorstrafen</li>
+                    <li><strong>Sachkunde:</strong> Waffensachkundeprüfung</li>
+                    <li><strong>Persönliche Eignung:</strong> körperlich/geistig</li>
+                    <li><strong>Behältnis:</strong> DIN-konformes Waffenschrank</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Verbotene Gegenstände (§ 42a WaffG)</h3>
+                <ul class="tight">
+                    <li>Stahlrute, Wurfstern, Butterfly</li>
+                    <li>E-Geräte ohne PTB-Prüfung</li>
+                    <li>RSG ohne PTB-Prüfung</li>
+                    <li>Teleskopschlagstock</li>
+                    <li>Messer > 12 cm Klinge</li>
+                </ul>
+            </div>
+        </div>
+        <div class="critical">
+            <strong>Transport:</strong> entladen, getrennt, verschlossen
+        </div>
+    </div>
+
+    <div class="card" id="uvv">
+        <div class="section-header" style="background:linear-gradient(90deg,var(--c-uvv),#dc2626)">⚠️ 6. UVV (DGUV V23)</div>
+        <div class="grid-2">
+            <div>
+                <h3>Grundsätze</h3>
+                <ul class="tight">
+                    <li><strong>Prävention:</strong> Gefahren vermeiden vor Abwehr</li>
+                    <li><strong>Unterweisung:</strong> vor Aufnahme + regelmäßig</li>
+                    <li><strong>PSA:</strong> Bereitstellung + Tragepflicht</li>
+                    <li><strong>Nüchternheit:</strong> nüchtern antreten, kein Konsum im Dienst</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Besondere Regelungen</h3>
+                <ul class="tight">
+                    <li><strong>Alleinarbeit:</strong> Totmann, Anrufe, Kontrollen</li>
+                    <li><strong>Hund:</strong> ständige Kontrolle, Zwinger abschließen</li>
+                    <li><strong>Waffenaufbewahrung:</strong> entladen, getrennt, Stahlblechschrank</li>
+                    <li><strong>Geldtransport:</strong> i.d.R. 3 Personen</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="card" id="umgang">
+        <div class="section-header" style="background:linear-gradient(90deg,#f472b6,#ec4899)">👥 7. Umgang mit Menschen</div>
+        <div class="grid-2">
             <div>
                 <h3>Deeskalation</h3>
-                <ul class="tight">
-                    <li>Kontakt → Beruhigen → Grenzen → Konsequenzen (verhältnismäßig).</li>
-                    <li>Umgang Betrunkene: kurz/klar; respektvoll; keine Diskussion; Motorik/Aggression beachten.</li>
-                    <li>Sicherheitsabstand: ≈ 1,5 m; so nah wie nötig, so weit wie möglich.</li>
-                </ul>
+                <div class="formula">
+                    <strong>4-Stufen:</strong><br>
+                    1. Kontakt herstellen<br>
+                    2. Beruhigen<br>
+                    3. Grenzen setzen<br>
+                    4. Konsequenzen (verhältnismäßig)
+                </div>
             </div>
             <div>
-                <h3>Modelle</h3>
+                <h3>Kommunikationsmodelle</h3>
                 <ul class="tight">
-                    <li>4‑Ohren: Sach; Beziehung; Appell; Selbstoffenbarung.</li>
-                    <li>Johari: öffentlich; blinder Fleck; geheim; unbekannt.</li>
-                    <li>Panik: Stimmung; Ereignis; Sturm; Starre – <em>nicht entgegenstellen</em>.</li>
+                    <li><strong>4-Ohren:</strong> Sach, Beziehung, Appell, Selbstoffenbarung</li>
+                    <li><strong>Johari-Fenster:</strong> öffentlich, blinder Fleck, geheim, unbekannt</li>
+                    <li><strong>Panik:</strong> Stimmung → Ereignis → Sturm → Starre</li>
                 </ul>
             </div>
         </div>
     </div>
 
-    <div class="card">
-        <h2>8. Sicherheitstechnik</h2>
-        <div class="grid">
+    <div class="card" id="tech">
+        <div class="section-header" style="background:linear-gradient(90deg,var(--c-tech),#0891b2)">🔧 8. Sicherheitstechnik</div>
+        <div class="grid-2">
             <div>
-                <h3>Säulen/Perimeter</h3>
+                <h3>Drei Säulen</h3>
                 <ul class="tight">
-                    <li>Drei Säulen: mechanisch – elektronisch – organisatorisch/personell.</li>
-                    <li>Zäune (Anforderungen): Übersteig‑/Durchreich‑/Unterkriech‑/Untergrabschutz; Standfestigkeit.</li>
-                    <li>Schließanlagen: GHS > HGS > OGS > GS > UGS > ES.</li>
+                    <li><strong>Mechanisch:</strong> Zäune, Türen, Schlösser</li>
+                    <li><strong>Elektronisch:</strong> GMA, Video, Zutritt</li>
+                    <li><strong>Organisatorisch:</strong> Personal, Verfahren, Dokumentation</li>
+                </ul>
+                <h3>Schließanlagen</h3>
+                <div class="formula">
+                    GHS > HGS > OGS > GS > UGS > ES
+                </div>
+            </div>
+            <div>
+                <h3>GMA-Typen</h3>
+                <ul class="tight">
+                    <li><strong>EMA:</strong> Einbruchmeldeanlage</li>
+                    <li><strong>BMA:</strong> Brandmeldeanlage</li>
+                    <li><strong>ÜMA:</strong> Überfallmeldeanlage</li>
+                    <li><strong>StMA:</strong> Störungsmeldeanlage</li>
+                </ul>
+                <h3>Brandklassen</h3>
+                <div class="formula">
+                    A (fest) • B (flüssig) • C (gasförmig) • D (Metall) • F (Fett)
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card" id="merksaetze">
+        <div class="section-header" style="background:linear-gradient(90deg,#10b981,#059669)">🎯 9. Top-Merksätze für die Prüfung</div>
+        <div class="grid-3">
+            <div>
+                <h3>Strafrecht</h3>
+                <ul class="tight">
+                    <li><span class="badge danger">TB → RW → Schuld</span> immer strikt prüfen</li>
+                    <li><span class="badge warn">Notwehr</span> braucht KEINEN Rechtsgütervergleich</li>
+                    <li><span class="badge info">§ 127</span> nur bei frischer Tat + ID/Flucht</li>
                 </ul>
             </div>
             <div>
-                <h3>GMA/Video/Brand</h3>
+                <h3>BGB</h3>
                 <ul class="tight">
-                    <li>GMA: EMA/BMA/ÜMA/StMA – Zweck & typische Melder.</li>
-                    <li>Video: Aufnahme, Übertragung, Wiedergabe, Aufzeichnung, Verteilung.</li>
-                    <li>Brandklassen: A/B/C/D/F; Taktik: Melden → Retten → Bekämpfen.</li>
+                    <li><span class="badge ok">Besitz ≠ Eigentum</span> sauber trennen</li>
+                    <li><span class="badge info">§ 985</span> vs. <span class="badge info">§ 1004</span> unterscheiden</li>
+                    <li><span class="badge warn">Selbsthilfe</span> nur bei Eilfall</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Praxis</h3>
+                <ul class="tight">
+                    <li><span class="badge ok">DSGVO</span> Video immer zweckgebunden</li>
+                    <li><span class="badge warn">BewachV</span> Ausweis/DA jederzeit prüffähig</li>
+                    <li><span class="badge danger">UVV</span> Nüchternheit + Dokumentation</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="critical" style="margin-top:12px;">
+            <h3>🚨 Kritische Prüfungspunkte</h3>
+            <ul class="tight">
+                <li><strong>Notwehr vs. Notstand:</strong> Notwehr = Angriff, Notstand = Gefahr</li>
+                <li><strong>§ 127 StPO:</strong> Nur bei Straftaten, nicht bei Ordnungswidrigkeiten</li>
+                <li><strong>Videoüberwachung:</strong> Immer Transparenz + Verbotszonen beachten</li>
+                <li><strong>Waffenrecht:</strong> Verbotene Gegenstände auswendig lernen</li>
+                <li><strong>Geldtransport:</strong> 3-Personen-Regel (Ausnahmen technisch abgesichert)</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="section-header" style="background:linear-gradient(90deg,#6366f1,#8b5cf6)">📚 10. Schnellzugriff – Wichtige Paragraphen</div>
+        <div class="grid-2">
+            <div>
+                <h3>Strafrecht</h3>
+                <ul class="tight">
+                    <li><strong>§ 32 StGB</strong> – Notwehr</li>
+                    <li><strong>§ 33 StGB</strong> – Notwehrexzess</li>
+                    <li><strong>§ 34 StGB</strong> – rechtfertigender Notstand</li>
+                    <li><strong>§ 35 StGB</strong> – entschuldigender Notstand</li>
+                    <li><strong>§ 127 Abs. 1 StPO</strong> – Jedermann-Festnahme</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Zivilrecht</h3>
+                <ul class="tight">
+                    <li><strong>§ 227 BGB</strong> – Notwehr</li>
+                    <li><strong>§ 228 BGB</strong> – Notstand (Eigentum)</li>
+                    <li><strong>§ 229 BGB</strong> – Selbsthilfe</li>
+                    <li><strong>§ 859 BGB</strong> – Besitzwehr/-kehr</li>
+                    <li><strong>§ 904 BGB</strong> – Notstand (höherwertiges Gut)</li>
                 </ul>
             </div>
         </div>
     </div>
 
-    <div class="card">
-        <h2>9. Top‑Merksätze (Exam Ready)</h2>
-        <ul class="tight">
-            <li>„TB → RW → Schuld“ immer strikt prüfen.</li>
-            <li>Notwehr braucht <em>keinen</em> Rechtsgütervergleich; § 34 schon.</li>
-            <li>§ 127 nur bei frischer Tat + ID ungeklärt/Fluchtverdacht.</li>
-            <li>DSGVO: Video immer zweckgebunden, transparent; Verbotszonen beachten.</li>
-            <li>BewachV: Ausweis/DA/Kennschild – jederzeit prüffähig.</li>
-            <li>UVV: Nüchternheit; Totmann/Alleinarbeit dokumentieren.</li>
-            <li>WaffG: Verbotene Gegenstände kennen; Transport entladen/getrennt.</li>
-            <li>Besitz ≠ Eigentum; § 985 vs. § 1004 sauber trennen.</li>
-            <li>Geldtransport i. d. R. 3 Personen – Ausnahmen nur technisch abgesichert.</li>
-            <li>Deeskalation: Kontakt→Beruhigen→Grenzen→Konsequenzen.</li>
-        </ul>
-        <p class="small">Quelle: Auszug und Kondensat aus index.html (Vollversion).</p>
-    </div>
-
-    <p class="small">© Lernmaterial 34a – Kompaktzettel. Keine Rechtsberatung; ohne Gewähr.</p>
+    <p class="small" style="text-align:center; margin-top:20px; padding-top:12px; border-top:1px solid rgba(255,255,255,.1)">
+        © Lernmaterial 34a – Kompakter Prüfungszettel • Keine Rechtsberatung • Ohne Gewähr<br>
+        <strong>Vollversion:</strong> <a href="index.html" style="color:var(--primary)">index.html</a> • <strong>GitHub:</strong> <a href="https://github.com/DennoDhn/Lernmaterial-34a" style="color:var(--primary)">Repository</a>
+    </p>
 </div>
 </body>
 </html>
-
-
