@@ -1,0 +1,19 @@
+{
+  "total_categories": 12,
+  "total_cards": 376,
+  "categories": {
+    "DS": 24,
+    "BGB": 40,
+    "Vorbereitung": 10,
+    "Unbekannt": 23,
+    "UmM": 49,
+    "GewO": 21,
+    "UVV": 31,
+    "RdöSO": 31,
+    "Rechtfertigungsgründe": 37,
+    "StGB": 56,
+    "UmV": 22,
+    "SiT": 32
+  },
+  "duplicates_found": 1
+}

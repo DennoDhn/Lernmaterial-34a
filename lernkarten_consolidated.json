@@ -1,0 +1,2906 @@
+{
+  "DS": [
+    {
+      "question": "Welches Ereignis führte 1983 dazu, dass BDSG und LDSG eingeführt wurden?",
+      "answer": "Das sogenannte Volkszählungsurteil!",
+      "page": 203
+    },
+    {
+      "question": "Welches Grundrecht wurde 1983 eingeführt?",
+      "answer": "Das Recht auf informationelle Selbstbestimmung",
+      "page": 205
+    },
+    {
+      "question": "Die informationelle Selbstbestimmung wird aus welchen beiden Grundrechten abgeleitet?",
+      "answer": "Aus Artikel 1 GG (Menschenwürde) & Artikel 2 GG (persönliche Freiheitsrechte)",
+      "page": 207
+    },
+    {
+      "question": "Welche Rechtsnormen sind die wichtigsten für den Datenschutz?",
+      "answer": "DSGVO, BDSG, LDSG Artikel 1, 2 & 10 des Grundgesetzes,",
+      "page": 209
+    },
+    {
+      "question": "Wann muss ein Datenschutzbeauftragter bestellt werden?",
+      "answer": "Nicht-öffentliche Stellen: 1. Wenn mindestens 20 Personen ständig mit der automatisierten Verarbeitung von Daten beschäftigt sind 2. Wenn die Daten der Datenschutzfolgeabschätzung unterliegen 3. Meinungs- und Marktforschungsweitergabe oder geschäftsmäßige Übermittlung von Daten Öffentliche Stellen: Unabhängig von der Mitarbeiteranzahl, sobald personenbezogene Daten automatisiert verarbeitet werden.",
+      "page": 211
+    },
+    {
+      "question": "Was darf ein Datenschutzbeauftragter mit personenbezogenen Daten nicht eigenwillig machen?",
+      "answer": "Nicht für eigene Zwecke verarbeiten, unbefugt weitergeben, löschen oder ändern.",
+      "page": 213
+    },
+    {
+      "question": "Wo darf keine Videoüberwachung öffentlich zugänglicher Räume erfolgen?",
+      "answer": "In höchstpersönlich geschützten Lebensbereichen, wie z.B. Umkleidekabinen, Toiletten, Untersuchungszimmer beim Arzt, Spielplätze und Pausenräume.",
+      "page": 215
+    },
+    {
+      "question": "Was sind personenbezogene Daten?",
+      "answer": "Einzelangaben über sachliche oder persönliche Verhältnisse einer natürlichen Person.",
+      "page": 217
+    },
+    {
+      "question": "Was ist Datenverarbeitung?",
+      "answer": "Der Umgang mit personenbezogenen Daten! Diese können erhoben, gespeichert, weitergeleitet, verändert und gelöscht werden.",
+      "page": 219
+    },
+    {
+      "question": "Was ist zum Datenschutz zu beachten?",
+      "answer": "Datenminimierung / Datensparsamkeit, Integrität und Vertraulichkeit, Rechtmäßigkeit und Transparenz, Zweckbindung, Richtigkeit",
+      "page": 221
+    },
+    {
+      "question": "Was ist bei der Bearbeitung mit den Daten anderer Personen zu beachten?",
+      "answer": "Nicht an Unbefugte weitergeben, Grundsätze der Datenverarbeitung einhalten.",
+      "page": 223
+    },
+    {
+      "question": "Was versteht man unter Recht auf informationelle Selbstbestimmung?",
+      "answer": "Jeder Mensch hat das Recht selbst zu entscheiden, welche Inhalte er preisgeben möchte sowie das Recht auf Auskunft und Löschung bestimmter personenbezogener Daten.",
+      "page": 225
+    },
+    {
+      "question": "Wann und wo ist eine Videoüberwachung rechtlich erlaubt?",
+      "answer": "Öffentlich zugängliche Räume dürfen videoüberwacht werden, wenn es der Aufgabenerfüllung öffentlicher Stellen, der Wahrung des Hausrechts oder für erforderliche Zwecke dient.",
+      "page": 227
+    },
+    {
+      "question": "Was ist eine nicht-öffentliche Stelle?",
+      "answer": "Nicht-öffentliche Stellen sind natürliche und juristische Personen des privaten Rechts.",
+      "page": 229
+    },
+    {
+      "question": "Was ist eine öffentliche Stelle?",
+      "answer": "Öffentliche Stellen sind Behörden des öffentlichen Rechts",
+      "page": 231
+    },
+    {
+      "question": "Wer ist eine natürliche Person?",
+      "answer": "Jeder Mensch gilt als „natürliche Person“ und ist Träger von Rechten und Pflichten.",
+      "page": 233
+    },
+    {
+      "question": "Von wem wird gesprochen, wenn es um eine juristische Person geht?",
+      "answer": "Eine juristische Person ist beispielsweise der Vorstand, der Geschäftsführer von einem Verein, eines Unternehmens, Firma oder einer Kapitalgesellschaft.",
+      "page": 235
+    },
+    {
+      "question": "Wie wird ein Verstoß gegen das BDSG geahndet ?",
+      "answer": "Grundsätzlich sind es Ordnungswidrigkeiten, allerdings enthält das BDSG auch Straftaten.",
+      "page": 237
+    },
+    {
+      "question": "Welche Rechte haben Betroffene gemäß der DSGVO?",
+      "answer": "Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Daten Übertragbarkeit, Widerspruch",
+      "page": 239
+    },
+    {
+      "question": "Was sind wichtige Begriffsbestimmungen aus dem Bereich Datenschutz?",
+      "answer": "Erheben, Verarbeiten, Speichern, Verändern, Übermitteln, Sperren, Löschen",
+      "page": 241
+    },
+    {
+      "question": "Welchen Zweck erfüllen die Datenschutzvorschriften?",
+      "answer": "Sie schützen den Einzelnen vor Missbrauch im Umgang mit seinen personenbezogenen Daten.",
+      "page": 243
+    },
+    {
+      "question": "Was ist eine Datenverarbeitungsanlage?",
+      "answer": "Ein System aus technischen und organisatorischen Komponenten, das zur automatisierten Verarbeitung von Daten dient. (Computer, Software und Netzwerke)",
+      "page": 245
+    },
+    {
+      "question": "Was sind besondere Kategorien personenbezogene Daten?",
+      "answer": "Besondere Kategorien personenbezogener Daten sind: • Gesundheitsdaten • Gewerkschaftszugehörigkeit • sexuelle Orientierung • Religiöse Überzeugung • Politische Meinungen • Genetische und Biometrische Daten • rassische oder ethnische Herkunft",
+      "page": 247
+    },
+    {
+      "question": "Nenne die Höhe des Bußgeldes bei Datenschutzverstößen aus der DSGVO!",
+      "answer": "Die DSGVO sieht für Datenschutzverstöße Geldbußen von bis zu 20 Millionen Euro oder 4% des weltweiten Jahresumsatzes vor, je nachdem, welcher Betrag höher ist.",
+      "page": 249
+    },
+    {
+      "question": "Welche Datenschutz Gesetze außer das BDSG gibt es noch?",
+      "answer": "EU DsgVO Europäische Datenschutzgrundverordnung",
+      "page": 0
+    },
+    {
+      "question": "Was sind die Folgen von Datenschutzverletzungen?",
+      "answer": "Datenschutzverletzungen können Ordnungswidrigkeiten sein (Geldbuße), Es gibt aber auch",
+      "page": 0
+    },
+    {
+      "question": "werden, um welche Daten geht es?",
+      "answer": "Um Personenbezogene Daten",
+      "page": 0
+    },
+    {
+      "question": "Wenn auf dem Dienstausweis ihre Daten stehe n, beginnt dort Datenschutz?",
+      "answer": "Ja, deshalb muss der Dienstausweis ja auch nicht offen getragen werden!",
+      "page": 0
+    },
+    {
+      "question": "Wie ist bei der Bearbeitung mit den Daten anderer umzugehen?",
+      "answer": "Nicht an Unbefugte weitergeben, Grundsätze der Datenverarbeitung einhalten.",
+      "page": 0
+    },
+    {
+      "question": "Was darf der Datenschutzbeauftragte mit personenbezogenen Daten nicht eigenwillig machen?",
+      "answer": "Nicht eigenmächtig (für eigene Zwecke) verarbeiten, unbefugt weitergeben, löschen oder ändern",
+      "page": 0
+    },
+    {
+      "question": "Was muss in einer Dienstanweisung stehen? 5x",
+      "answer": "SMA haben KEINE hoheitlichen Rechte! Ob und wenn ja welche Verteidigungswaffen im Dienst geführt werden sollen Wie soll nach einem Waffengebrauch verfahren werden Datenschutz Rechtliche Grundlagen",
+      "page": 0
+    },
+    {
+      "question": "Wen/Was schützt das BDSG? 6x",
+      "answer": "Es schützt natürliche Personen davor dass deren personenbezogene Daten missbraucht werden",
+      "page": 0
+    },
+    {
+      "question": "Wozu ist Datenschutz da? 3x",
+      "answer": "Bearbeitungsstand: TB 15.05.202 4 Was ist Datenschutz? Regeln zum Umgang mit personenbezogenen Daten und Gesetze gegen den Missbrauch personenbezogener Daten",
+      "page": 0
+    },
+    {
+      "question": "Was sind personenbezogene Daten? 9x",
+      "answer": "Alle Einzelangaben die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen , sowie sachbezogene Informationen, die eine natürliche Person identifizierbar machen",
+      "page": 0
+    },
+    {
+      "question": "Was sind besondere personenbezogene Daten? 4x",
+      "answer": "Daten, die im Falle ihrer Veröffentlichung große Nachteile für die Personen haben, denen die Daten zugeordnet werden können. Bsp .: Krankendaten, Religionszugehörigkeiten, Sexualpräferenz, Genetische - und Biometrische Daten.  Gewerkschafts - und Parteizugehörigkeiten Ein Datenschutzbeauftragter muss bestellt werden, wenn mindestens 20 Personen beschäftigt",
+      "page": 0
+    },
+    {
+      "question": "Was macht ein Datenschutzbeauftragter und worauf muss er achten? 2x",
+      "answer": "Er entwickelt die Datenschutz maßnahmen  für das Unternehmen Er kontrolliert und überwacht die Umsetzung der Datenschutzbestimmungen Er bildet die Mitarbeiter die Daten verarbeiten aus Er ist Ansprechpartner für Mitarbeiter, Unternehmer und Kunden in Belangen des Datenschutzes sowie Datenschutzbehörden",
+      "page": 0
+    }
+  ],
+  "BGB": [
+    {
+      "question": "Was ist das Privatrecht?",
+      "answer": "Das Privatrecht oder auch bürgerliches Recht regelt Rechtsbeziehungen der Bürger untereinander (Koordinationsprinzip).",
+      "page": 251
+    },
+    {
+      "question": "Was bedeutet verbotene Eigenmacht?",
+      "answer": "Widerrechtliche Besitzstörung oder Besitzentzug, ohne den Willen des Besitzers.",
+      "page": 253
+    },
+    {
+      "question": "Nenne die aus dem BGB!",
+      "answer": "• § 227 Notwehr • § 228 verteidigender Notstand • § 229 Selbsthilfe • § 859/860 Selbsthilfe des Besitzers/Besitzdieners • § 904 aggressiver Notstand",
+      "page": 255
+    },
+    {
+      "question": "Welcher Rechtfertigungsgrund darf auch Tage später angewendet werden?",
+      "answer": "§ 229 BGB Selbsthilfe",
+      "page": 257
+    },
+    {
+      "question": "Was versteht man unter Besitzwehr?",
+      "answer": "Die notfalls gewaltsame Verteidigung des Besitzes zur Beseitigung/Abwehr einer Besitzstörung.",
+      "page": 259
+    },
+    {
+      "question": "Was versteht man unter Besitzkehr?",
+      "answer": "Die notfalls gewaltsame Wiedererlangung des Besitzes, nachdem dieser auf frischer Tat durch Besitzentzug entzogen wurde.",
+      "page": 261
+    },
+    {
+      "question": "Was regelt das Schikaneverbot?",
+      "answer": "Das Schikaneverbot legt fest, dass ein Recht nicht gezielt ausgenutzt werden darf, um einem anderen Menschen Schaden zuzufügen.",
+      "page": 263
+    },
+    {
+      "question": "Definiere den Begriff „Eigentümer“?",
+      "answer": "Der Eigentümer einer Sache hat die rechtliche Verfügungsgewalt.",
+      "page": 265
+    },
+    {
+      "question": "Definiere den Begriff „Besitzer“?",
+      "answer": "Der Besitzer hat die tatsächliche Verfügungsgewalt über eine Sache.",
+      "page": 267
+    },
+    {
+      "question": "Was ist ein Besitzdiener?",
+      "answer": "Der Besitzdiener übt die tatsächliche Gewalt, im Auftrag des Besitzers, über eine Sache aus. Er ist dem Besitzer gegenüber weisungsgebunden/ untergeordnet (soziale Abhängigkeit).",
+      "page": 269
+    },
+    {
+      "question": "Was sind die Befugnisse eines Eigentümers?",
+      "answer": "Soweit nicht das Gesetz oder Rechte Dritter entgegenstehen, kann der Eigentümer mit der Sache nach Belieben verfahren und andere ausschließen.",
+      "page": 271
+    },
+    {
+      "question": "Was sind die Befugnisse eines Besitzers?",
+      "answer": "Dem Besitzer stehen Befugnisse des Besitzschutzrechtes zur Verfügung, er ist aber an die Vorgaben des Eigentümers gebunden und hat keine eigenen Rechte an der Sache.",
+      "page": 273
+    },
+    {
+      "question": "Was sind die Befugnisse eines Besitzdieners?",
+      "answer": "Der Besitzdiener erlangt seine Befugnisse vertraglich vom Besitzer. Er ist an die Weisungen des Besitzers gebunden.",
+      "page": 275
+    },
+    {
+      "question": "Was regelt § 823 BGB in Bezug auf die Schadenersatzpflicht nach unerlaubter Handlung?",
+      "answer": "Wer vorsätzlich oder fahrlässig das Rechtsgut eines anderen widerrechtlich verletzt, ist demjenigen zum Schadenersatz verpflichtet.",
+      "page": 277
+    },
+    {
+      "question": "Ab welchem Lebensjahr ist man in Deutschland schadenersatzpflichtig?",
+      "answer": "Ab dem vollendeten 7. Lebensjahr",
+      "page": 279
+    },
+    {
+      "question": "Was fällt unter den Begriff der Sache?",
+      "answer": "Sachen im Sinne des BGB sind nur körperliche Gegenstände (§ 90 BGB), die räumlich begrenzbar und beherrschbar sind.",
+      "page": 281
+    },
+    {
+      "question": "Sind Tiere Sachen?",
+      "answer": "Nein ! Tiere sind keine Sachen im Sinne des Gesetzes. Sie werden durch besondere Gesetze geschützt. Die für Sachen geltenden Vorschriften sind auf Tiere anzuwenden, sofern nichts anderes bestimmt ist.",
+      "page": 283
+    },
+    {
+      "question": "Was ist die sogenannte Gefährdungshaftung?",
+      "answer": "Bei einer Gefährdungshaftung ist allein die Schaffung einer Gefahr haftungsbegründend. Z.b. KFZ Halter oder Tierhalter (Luxustier)",
+      "page": 285
+    },
+    {
+      "question": "Was ist eine Verschuldenshaftung?",
+      "answer": "Haftung bei schuldhafter und widerrechtlicher Schädigung anderer",
+      "page": 287
+    },
+    {
+      "question": "Was bedeutet Vorsatz?",
+      "answer": "Vorsatz ist das Handeln mit Wissen und Wollen",
+      "page": 289
+    },
+    {
+      "question": "Was bedeutet Fahrlässigkeit?",
+      "answer": "Die im Verkehr gebotene Sorgfalt außer Acht lassen.",
+      "page": 291
+    },
+    {
+      "question": "Ab wann beginnt die Rechtsfähigkeit eines Menschen?",
+      "answer": "Die Rechtsfähigkeit beginnt mit Vollendung der Geburt.",
+      "page": 293
+    },
+    {
+      "question": "Wie lautet die Rechtsfolge der Notwehr aus dem BGB?",
+      "answer": "Schutz vor Schadenersatz- und Schmerzensgeldansprüchen",
+      "page": 295
+    },
+    {
+      "question": "Was ist ein fehlerhafter Besitz?",
+      "answer": "Wenn der Besitz unrechtmäßig erlangt wurde.",
+      "page": 297
+    },
+    {
+      "question": "Was sind die Pflichten des Finders einer Sache?",
+      "answer": "Pflicht zur Anzeige (entfällt unter 10€), Pflicht zur Aufbewahrung und Pflicht zu Abgabe (An Empfangsberechtigten oder Behörde)",
+      "page": 299
+    },
+    {
+      "question": "Wie hoch ist der gesetzlich festgelegte Finderlohn?",
+      "answer": "5% des Wertes einer Sache bei einem Sachwert bis zu 500€ 3% des Wertes bei einem Sachwert über 500€ 3% des Wertes eines Tieres",
+      "page": 301
+    },
+    {
+      "question": "Kann der Finder einer Sache Eigentum an dieser Sache erwerben?",
+      "answer": "Wenn der Eigentümer nicht ermittelbar/auffindbar ist, kann der Finder das Eigentum an der Sache nach Ablauf von 6 Monaten nach Anzeige bei der Behörde erwerben (Wert über 10€). Bei unter 10€ darf man den Fund sofort behalten.",
+      "page": 303
+    },
+    {
+      "question": "Was ist bei einem Fund in einer Behörde und in öffentlichen Verkehrsmitteln geregelt?",
+      "answer": "Es besteht nur ein Anspruch auf Finderlohn ab einem Sachwert von 50€ und auch nur in Höhe der Hälfte des sonst zustehenden Finderlohns. Der Fund muss unverzüglich an dortige Bedienstete abgegeben werden. (Bedienstete/SMA haben keinen Anspruch auf Finderlohn)",
+      "page": 305
+    },
+    {
+      "question": "Was bedeutet widerrechtlich?",
+      "answer": "Gegen gültige Gesetze verstoßen. (Privatrecht)",
+      "page": 307
+    },
+    {
+      "question": "Was sind zivilrechtliche Ansprüche aus dem BGB?",
+      "answer": "Handeln, Dulden, Unterlassen, Verträge einhalten, Schadenersatz und Herausgabeansprüche.",
+      "page": 309
+    },
+    {
+      "question": "Sind nur feste Gegenstände Sachen?",
+      "answer": "Der Aggregatzustand spielt keine Rolle. Ob fest, flüssig oder gasförmig.",
+      "page": 311
+    },
+    {
+      "question": "Was bedeutet Verhältnismäßigkeit der Mittel?",
+      "answer": "Es sollte das mildeste Mittel gewählt werden, was den geringsten Schaden verursacht um den Angriff schnellstmöglich abzuwenden",
+      "page": 313
+    },
+    {
+      "question": "Dürfen der Polizei oder dem Zoll der Zugang verwehrt werden?",
+      "answer": "Ja! Wenn kein Sonderzugangsrecht wie Gefahr im Verzuge oder ein Durchsuchungsbefehl vorliegt",
+      "page": 315
+    },
+    {
+      "question": "Darf man uneingeschränkt mit seinem Eigentum umgehen?",
+      "answer": "Grundsätzlich ja, solange kein Verstoß gegen Gesetze vorliegen oder die Rechte Dritter verletzt werden",
+      "page": 317
+    },
+    {
+      "question": "Was liegt vor, wenn der Besitzdiener mit einer Sache nicht nach den Weisungen des Besitzers umgeht?",
+      "answer": "Dann begeht der Besitzdiener eine verbotene Eigenmacht gem. § 858 BGB.",
+      "page": 321
+    },
+    {
+      "question": "Wer haftet für einen Schaden, den ein 6 jähriges Kind verursacht hat?",
+      "answer": "Haben aufsichtspflichtige Personen ihre  Aufsichtspflicht nachweislich missachtet, so haften diese für den Schaden.",
+      "page": 323
+    },
+    {
+      "question": "Was stellt eine fahrlässige Verletzung eines Rechtsgutes im Sinne des BGB dar?",
+      "answer": "Es stellt eine unerlaubte Handlung dar. Der Handelnde ist zum Schadenersatz verpflichtet.",
+      "page": 325
+    },
+    {
+      "question": "Ist ein Diensthundeführer für die Schäden, die sein Hund verursacht haftbar?",
+      "answer": "Nein, wenn die Sorgfaltspflicht beachtet wurde.",
+      "page": 327
+    },
+    {
+      "question": "Was ist der Unterschied zwischen der Gefährdungshaftung und der Verschuldenshaftung?",
+      "answer": "Bei der Verschuldungshaftung muss eine vorsätzliche oder fahrlässige und widerrechtliche Rechtsgutverletzung vorausgegangen sein. Bei der Gefährdungshaftung reicht die Schaffung einer Gefahr.",
+      "page": 329
+    },
+    {
+      "question": "Welchem Rechtsgebiet ist das BGB zuzuordnen?",
+      "answer": "Das bürgerliche Gesetzbuch BGB ist das Hauptgesetzwerk des bürgerlichen Rechts oder auch Privatrecht/Zivilrecht genannt.",
+      "page": 331
+    },
+    {
+      "question": "werden und wenn ja wie genau?  (3P)",
+      "answer": "Antwort: Es dürfen ungeprüfte Hunde eingesetzt werden, wenn der Einsatz ausschließlich zu Wahrnehm ungs - und Meldezwecken erfolgt und der Hundeführer den Hund jederzeit unter Kontrolle hat.",
+      "page": 0
+    },
+    {
+      "question": "Was ist das wichtigste Gesetz in Deutschland?",
+      "answer": "Das Grundgesetz… es ist unsere Verfassung!",
+      "page": 0
+    },
+    {
+      "question": "Was bedeutet Artikel 2?",
+      "answer": "Garantiert unser Freiheitsrecht, explizit das Recht auf Leben, körperliche Unversehrtheit und",
+      "page": 0
+    },
+    {
+      "question": "Welche Grundrechte sind veränderbar und welche nicht? Warum und auf welcher Grundlage?",
+      "answer": "Sie können nur mit einer 2/3 Mehrheit im Bundestag und Bundesrat geändert werden. Die Art. 1 und",
+      "page": 0
+    },
+    {
+      "question": "Warum gibt es Männliche und Weibliche SMA bei der Kontrolle?",
+      "answer": "Es geht darum die Persönlichkeitsrechte des Einzelnen zu schützen (der kontrollierten Person soll",
+      "page": 0
+    },
+    {
+      "question": "Wer darf Gewalt anwenden und wie nennt man es?",
+      "answer": "Grundsätzlich nur der Staat. Man spricht vom Gewaltmonopol.",
+      "page": 0
+    },
+    {
+      "question": "Warum gibt es die horizontale Gewaltenteilung?",
+      "answer": "Sie soll verhindern, dass eine Einzelperson die Macht insgesamt ausüben kann",
+      "page": 0
+    },
+    {
+      "question": "Was sind Grundrechte und welche Bedeutung haben die Rechtsgüter?",
+      "answer": "Die Grundrechte sind Abwehrrechte des Bürgers gegen den Staat. Sie binden alle staatliche Gewalt.",
+      "page": 0
+    },
+    {
+      "question": "und Wert Transport arbeiten möchten?",
+      "answer": "Mindestalter: 18 Jahre",
+      "page": 0
+    },
+    {
+      "question": "Sind versteckte Kameras erlaubt?",
+      "answer": "Bearbeitungsstand: TB 15.05.202 4",
+      "page": 0
+    },
+    {
+      "question": "Was muss ich beachten, wenn ich zu Hause eine Video -Kamera anbringe?",
+      "answer": "Grundsätzlich darf man sein eigenes befriedetes Besitztum videoüberwachen. Zu beachten ist, dass",
+      "page": 0
+    },
+    {
+      "question": "Was ist der Unterschied zwischen Eigentum, Besitz und Besitzdiener?",
+      "answer": "Eigentümer, Besitzer siehe oben, Besitzdiener: Ist diejenige Person, die die tatsächliche Gewalt über",
+      "page": 0
+    },
+    {
+      "question": "Wie erhält man Eigentum?",
+      "answer": "Bearbeitungsstand: TB 15.05.202 4",
+      "page": 0
+    },
+    {
+      "question": "Was ist Besitz? Wie erhält man Besitz?",
+      "answer": "Durch Erlangung der tatsächlichen Gewalt über eine Sache (Mieten, Finden, ausgehändigt",
+      "page": 0
+    },
+    {
+      "question": "Was ist ein Besitzdiener und wie hat er sich dem Eigentümer, Besitzer gegenüber zu verhalten?",
+      "answer": "Der Besitzdiener hat lediglich dem Besitzer gegenüber , bestimmte Verpflichtungen. Er muss die",
+      "page": 0
+    },
+    {
+      "question": "Was ist ein Luxustier?",
+      "answer": "Ein Luxustier ist ein Tier, dass nicht dem Beruf, der Erwerbstätigkeit oder dem Unterhalt des Besitzers",
+      "page": 0
+    },
+    {
+      "question": "Wie darf man bei verbotener Eigenmacht angebracht handeln? Wer darf handeln?",
+      "answer": "Der Besitzer darf sich verbotener Eigenmacht mit Gewalt erwehren. Auf eine Besitzstörung reagiert",
+      "page": 0
+    },
+    {
+      "question": "Wie nennt man Besitzstörung, Besitzentzug?",
+      "answer": "Verbotene Eigenmacht",
+      "page": 0
+    },
+    {
+      "question": "Wann kann ein Besitzer Besitzkehr anwenden?",
+      "answer": "Wenn ihm sein Besitz entzogen wird.",
+      "page": 0
+    },
+    {
+      "question": "Was ist die Garantenstellung und wie wird man ein Garant?",
+      "answer": "In eine Garantenstellung geraten wir durch Vertrag oder gesetzliche Regelungen. Als Garant",
+      "page": 0
+    },
+    {
+      "question": "was bedeutet “gegenwärtig?",
+      "answer": "Gegenwärtig: Steht unmittelbar bevor, hat bereits begonnen, dauert immer noch an",
+      "page": 0
+    },
+    {
+      "question": "Was ist eine Zueignungsabsicht?",
+      "answer": "Die Absicht sich selbst oder einem anderen eine bisher fremde Sache zu verschaffen",
+      "page": 0
+    },
+    {
+      "question": "Was ist versuchte Nötigung?",
+      "answer": "Von einer versuchten Nötigung ist die Rede, wenn sich das Opfer von der Drohung des Täters nicht",
+      "page": 0
+    },
+    {
+      "question": "Auf welche 3 Arten kann man Sachbeschädigung begehen?",
+      "answer": "Eine fremde Sache rechtswidrig:",
+      "page": 0
+    },
+    {
+      "question": "Fallbeispiel #2: Sie sitzen im Bus und ein 13 -Jähriger tritt ständig gegen ihre Beine, wie reagieren sie?",
+      "answer": "Ich fordere den 13 -jährigen zunächst auf das Treten zu unterlassen. Wenn dies nicht hilft drohe ich",
+      "page": 0
+    },
+    {
+      "question": "dem Vater gegenüber und erklären sich?",
+      "answer": "Ruhe bewahren, dem Vater das Baby übergeben, anschließend zur Eigensicherung den Abstand",
+      "page": 0
+    },
+    {
+      "question": "Was ist die Berufsgenossenschaft?",
+      "answer": "Die Berufsgenossenschaft ist eine berufsständische Vertretung und Träger der gesetzlichen",
+      "page": 0
+    },
+    {
+      "question": "Welche Voraussetzungen müssen SMA im Geld - und Werttransport haben?",
+      "answer": "40- Stündige Unterrichtung, Min. 18 Jahre, persönlich und körperlich geeignet, besonders",
+      "page": 0
+    },
+    {
+      "question": "Was müssen SMA tun, wenn sie eine Gefahrenstelle sehen?",
+      "answer": "So nicht zu beantworten!",
+      "page": 0
+    },
+    {
+      "question": "Welche Pflichten hat ein Unternehmer bei der Objekteinweisung?",
+      "answer": "Er ist verantwortlich dafür, dass die Mitarbeiter vor Beginn der Tätigkeit etc. (siehe oben)",
+      "page": 0
+    },
+    {
+      "question": "Wie ist die Mindestvorschrift zum Transport von Diensthunden?",
+      "answer": "Hunde dürfen sich im Transportfahrzeug befinden wenn der Transportraum baulich vom",
+      "page": 0
+    },
+    {
+      "question": "Darf ich als SMA, meinen eigenen nicht ausgebildeten Hund mit zum Dienst nehmen?",
+      "answer": "Ungeprüfte Hunde dürfen ausschließlich zu Wahrnehmungs - und Meldezwecken eingesetzt werden",
+      "page": 0
+    },
+    {
+      "question": "Wie viel Alkohol dürfen sie nach dem Dienst trinken?",
+      "answer": "Soviel wie wir wollen, Hauptsache wir sind zum nächsten Dienstbeginn wieder nüchtern",
+      "page": 0
+    },
+    {
+      "question": "Wozu dient eine Dienstanweisung?",
+      "answer": "Sie soll den Wachdienst regeln.",
+      "page": 0
+    },
+    {
+      "question": "Was muss ein Unternehmen bei gefährlichen Tätigkeiten beachten?",
+      "answer": "Der Unternehmer muss besondere Schutzmaßnahmen für SMA realisieren (sie bei Vorliegen",
+      "page": 0
+    },
+    {
+      "question": "Welche Waffen darf man besitzen aber nicht führen?",
+      "answer": "Anscheinswaffen und verbotene Waffen. Darüber hinaus dürfen bestimmte Waffen nur mit",
+      "page": 0
+    },
+    {
+      "question": "Welche Farbe hat die WBK?",
+      "answer": "Grün: Jägern & Sportschützen",
+      "page": 0
+    },
+    {
+      "question": "Was bedeutet „Führen“ im Bezug auf Waffen?",
+      "answer": "Ausübung der tatsächlichen Gewalt über die Waffe, außerhalb des eigenen befriedeten Besitztums",
+      "page": 0
+    },
+    {
+      "question": "Was benötigt man zur Selbstverwirklichung?",
+      "answer": "Selbstakzeptanz, Selbstbewusstsein, Unabhängigkeit . Man verfolgt zielstrebig den Weg zu dem, was",
+      "page": 0
+    },
+    {
+      "question": "Was spielt für die Beziehungsebene eine Rolle?",
+      "answer": "Emotionen (Wut, Angst, Liebe, Ekel, Freude), Wertschätzung, Vertrauen, persönliches Befinden",
+      "page": 0
+    },
+    {
+      "question": "Wie entstehen Vorurteile?",
+      "answer": "Durch ungeprüft übernommene Meinungen Anderer oder durch eigene Einzelerfahrungen, die dann",
+      "page": 0
+    },
+    {
+      "question": "Was für einen Sinn hat der erste Eindruck für SMA?",
+      "answer": "Er ist sehr wichtig für unser weiteres Vorgehen mit der Situation oder Person, über die wir uns den 1.",
+      "page": 0
+    },
+    {
+      "question": "Was ist der blinde Fleck?",
+      "answer": "Der Blinde Fleck gehört zu dem Modell „Johari Window“  und beschreibt den Bereich unserer",
+      "page": 0
+    },
+    {
+      "question": "Warum ist es wichtig, als SMA ein gutes Selbstwertgefühl zu haben?",
+      "answer": "Es hilft dabei sich durchzusetzen, es verleiht uns ein sicheres und überzeugendes Auftreten, es",
+      "page": 0
+    },
+    {
+      "question": "Was macht das Selbstbewusstsein aus und durch welche Faktoren wird es gebildet?",
+      "answer": "Das Selbstwertgefühl setzt sich zusammen aus Selbstvertrauen, aus Selbstbewusstsein und der",
+      "page": 0
+    },
+    {
+      "question": "Was ist kompetent sein?",
+      "answer": "Die Fähigkeit und das Fachwissen haben , um Aufgaben zielgerichtet erfolgreich zu bewältigen.",
+      "page": 0
+    },
+    {
+      "question": "Auf welcher Ebene kommunizieren sie als SMA?",
+      "answer": "Wir bemühen uns so viel wie möglich auf der Sachebene zu kommunizieren (Zahlen, Daten, Fakten)",
+      "page": 0
+    },
+    {
+      "question": "Was sind Suggestivfragen?",
+      "answer": "Dem Befragten wird die Antwort mit der Frage bereits vorgegeben und keine wirkliche",
+      "page": 0
+    },
+    {
+      "question": "Was sind offene Fragen?",
+      "answer": "W- Fragen! Diese lassen sich „frei“ beantworten und nicht nur mit Ja, Nein, oder bestimmten",
+      "page": 0
+    },
+    {
+      "question": "Was sind rhetorische Fragen?",
+      "answer": "Der Fragende will gar keine Antwort haben, sondern setzt die Frage nur ein um dem Gesagten",
+      "page": 0
+    },
+    {
+      "question": "Was müssen sie bei der Eigensicherung beachten?",
+      "answer": "Die Eigensicherung hat IMMER höchste Priorität! Abstand halten, frühzeitig Verstärkung hinzuziehen,",
+      "page": 0
+    },
+    {
+      "question": "Wie kann sie sich Aggression äußern und wie gehe ich als SMA damit um?",
+      "answer": "Äußern sich durch Gewalt, sowohl physischer, als auch psychischer Natur. Nicht provozieren lassen,",
+      "page": 0
+    },
+    {
+      "question": "Was kann man tun, damit keine Frustration entsteht?",
+      "answer": "Gutes Zeitmanagement, Verhalten und Handeln kontrollieren, ruhig bleiben, an sich selbst glauben,",
+      "page": 0
+    },
+    {
+      "question": "Was müssen Sie als Teamleiter berücksichtigen?",
+      "answer": "Die Mitarbeiter einbeziehen",
+      "page": 0
+    },
+    {
+      "question": "anfangen zu prügeln, welche Folge hat es und was tun sie dan n?",
+      "answer": "Verstärkung hinzuziehen, ruhig und sachlich auf die Kontrahenten zugehen und ansprechen; die",
+      "page": 0
+    },
+    {
+      "question": "Fallbeispiel #4: Wie bereit est Du deine Mitarbeiter auf den Einsatz bei einer Großveranstaltung vor?",
+      "answer": "Die Mitarbeiter in die Örtlichkeit einweisen (Notausgänge, Garderobenbereiche, 1. Hilfe Stellen,",
+      "page": 0
+    },
+    {
+      "question": "Zaun vor dem Einlassbereich. Was tun sie?",
+      "answer": "Meldung machen; Eigensicherung beachten; ggf. auf Anweisungen warten, Bereich absperren,",
+      "page": 0
+    },
+    {
+      "question": "Fallbeispiel #8: Wie erkenne ich Drogenabhängige?",
+      "answer": "Erweiterte oder verengte Pupillen; Hibbeliges, nervöses Verhalten; abwesender oder stechender",
+      "page": 0
+    },
+    {
+      "question": "Ereignisse können dadurch entstehen?",
+      "answer": "Ich rechne mit einem Brandausbruch; Ich rechne mit einem Panikausbruch und dementsprechend",
+      "page": 0
+    },
+    {
+      "question": "Sie die Person dort weg, also mit welcher Handlung?",
+      "answer": "Die Person laut und deutlich ansprechen, ggf. anschreien und wenn das nicht hilft eine Ohrfeige oder",
+      "page": 0
+    },
+    {
+      "question": "Tasche nicht vorzeigen und wird wütend, wie gehe ich als SMA vor?",
+      "answer": "Freundlich  aber bestimmt bleiben, sich nicht provozieren lassen, Ruhe bewahren, ggf. Verstärkung",
+      "page": 0
+    },
+    {
+      "question": "Was sind mechanische Schutzkonzepte?",
+      "answer": "Bearbeitungsstand: TB 15.05.202 4",
+      "page": 0
+    },
+    {
+      "question": "Welchen Zweck hat eine Personenvereinzelungsanlage?",
+      "answer": "PVA dienen der kontrollierten und geregelten Durchschleusung von Personen in",
+      "page": 0
+    },
+    {
+      "question": "Was sind Personenvereinzelungsanlagen? Was für welche gibt es zahlen sie 4 auf?",
+      "answer": "Drehkreuz, Dreiarmdrehsperre, Personenschleuse, Portaldrehkreuz",
+      "page": 0
+    },
+    {
+      "question": "Wie soll ein Zaun gebaut sein?",
+      "answer": "Er soll überwindungssicher sein, Bauhöhe min. 2,5m, Durchbrechen soll verhindert werden",
+      "page": 0
+    },
+    {
+      "question": "Was sind Kennzeichen von Zäunen und gegen was schützen sie?",
+      "answer": "Mindestbauhöhe, Durchreichschutz, Unterkriechschutz, Untergrabschutz, Übersteigschutz…",
+      "page": 0
+    },
+    {
+      "question": "Warum soll das Zaunfeldfundament mindestens 80cm tief sein?",
+      "answer": "Damit man den Zaun nicht untergraben kann",
+      "page": 0
+    },
+    {
+      "question": "Was ist der Widerstandszeitwert?",
+      "answer": "Die Zeit, die ein geübter Täter braucht um ALLE Barrieren bis zum Erreichen seines Ziels zu",
+      "page": 0
+    },
+    {
+      "question": "In welche Richtung  müssen Flucht türen  aufgehen?",
+      "answer": "Sie müssen immer in Fluchtrichtung (nach außen) aufgehen",
+      "page": 0
+    },
+    {
+      "question": "Was steht in einem Fluchtplan?",
+      "answer": "Der eigene Standort, sodass der jeweils schnellste Fluchtweg abgelesen werden kann, nächst",
+      "page": 0
+    },
+    {
+      "question": "Was ist ein unechter Schlüssel?",
+      "answer": "Ein Werkzeug, das nicht dazu bestimmt ist das Schloss zu öffnen, es aber dennoch ermöglicht",
+      "page": 0
+    },
+    {
+      "question": "Sie möchten eine n Schlüssel für die Zentralschließanlage nachmachen können Sie das einfach so?",
+      "answer": "Nein, dafür braucht man die Sicherungskarte",
+      "page": 0
+    },
+    {
+      "question": "Wie ist eine Brandschutzanlage aufgebaut?",
+      "answer": "Melder, optische und akustische Signalgeber, automatische Löschanlagen, automatische Meldung an",
+      "page": 0
+    },
+    {
+      "question": "Was brennt nach Klasse B und C?",
+      "answer": "Flüssigkeiten und flüssigwerdende Stoffe und Gase",
+      "page": 0
+    },
+    {
+      "question": "Welche Löschmittel für Brandklasse A, B, C?",
+      "answer": "Klasse A: Wasser, AB Schaumlöscher, ABC Pulverlöscher, Löschdecke",
+      "page": 0
+    },
+    {
+      "question": "Was ist Brandklasse D und welches Löschmittel ist geeignet?",
+      "answer": "Es handelt sich um Metallbrände, geeignete Löschmittel sind Metallbrandpulver, trockener Sand,",
+      "page": 0
+    },
+    {
+      "question": "Wie verhalte ich mich im Brandfall?",
+      "answer": "Melden geht vor Retten geht vor Bekämpfen!",
+      "page": 0
+    },
+    {
+      "question": "Was ist die richtige Reihenfolge bei der Brandbekämpfung?",
+      "answer": "Melden, Retten, Bekämpfen",
+      "page": 0
+    },
+    {
+      "question": "Welche taktischen Grundsätze muss man bei der Brandbekämpfung beachten?",
+      "answer": "Rettung von Leben geht vor Brandbekämpfung",
+      "page": 0
+    },
+    {
+      "question": "Wie erkenne ich, welcher Feuerlöscher für welchen Brand geeignet ist?",
+      "answer": "An der Bezeichnung auf dem Feuerlöscher (Brandklassen sind immer angegeben)",
+      "page": 0
+    },
+    {
+      "question": "Welche Löscharten gibt es?",
+      "answer": "Kühleffekt (Abkühlung des brennbaren Stoffs unter die Zündtemperatur), Stickeffekt (Abschirmung",
+      "page": 0
+    },
+    {
+      "question": "Welche Rauchmelder gibt es, was könnte einen falschen Alarm auslösen?",
+      "answer": "Streulichtmelder – Dämpfe vom Kochen oder heißen Duschen",
+      "page": 0
+    },
+    {
+      "question": "Was gehört zum organisatorischen Brandschutz?",
+      "answer": "Umfasst  alle Maßnahmen zur Planung und Vorbereitung und Prüfung von Maßnahmen zum",
+      "page": 0
+    },
+    {
+      "question": "Können Grundrechte geändert/eingeschränkt werden? 2x",
+      "answer": "Die Grundrechte können nur auf Grund eines Gesetzes eingeschränkt werden. Sie können nur mit einer 2/3 Mehrheit im Bundestag und Bundesrat geändert werden. Die Art. 1 und 20 unterliegen der Ewigkeitsklausel und sind absolut unveränderbar.",
+      "page": 0
+    },
+    {
+      "question": "Wozu dient das GG? 3x",
+      "answer": "Siehe „Erklärung GG“",
+      "page": 0
+    },
+    {
+      "question": "Was muss bei der Dienstkleidung beachtet werden und wann MUSS sie getragen werden? 2x",
+      "answer": "Sie muss immer getragen werden, wenn wir in Ausübung unseres Dienstes fremdes, befriedetes Besitztum betreten sollen.",
+      "page": 0
+    },
+    {
+      "question": "Wie darf ihr Dienstausweis nicht aussehen? 2x",
+      "answer": "Darf  keine Verwechselungsgefahr mit behördlichen Ausweisen bieten.",
+      "page": 0
+    },
+    {
+      "question": "Was ist Besitz, Eigentum (am Beispiel Mieter und Hauseigentümer)? 7x",
+      "answer": "Der Besitzer hat die tatsächliche Gewalt über eine Sache (der Mieter einer Wohnung, der die Wohnungsschlüssel hat). Der Eigentümer hat die rechtliche Gewalt über eine Sache (Der Vermieter der Wohnung, der frei entscheiden kann ob und wenn ja , wem er seine Wohnung vermietet)",
+      "page": 0
+    },
+    {
+      "question": "Was darf ein Eigentümer? Was darf ein Besitzer? 2x",
+      "answer": "Der Eigentümer kann frei über sein Eigentum verfügen und andere von der Nutzung ausschließen, solange nicht das Gesetz oder Rechte Dritter entgegenstehen. Der Besitzer kann sein en Besitz  gemäß der Vorgaben des Eigentümers nutzen. Besitzer und Eigentümer können, müssen aber nicht ein und dieselbe Person sein.",
+      "page": 0
+    },
+    {
+      "question": "Wie wird man Besitzdiener? 2x",
+      "answer": "Durch Erlangung der tatsächlichen Sachherrschaft. Diese ist jedoch weisungsgebunden, geschieht in einem sozialen Abhängigkeitsverhältnis und erfolgt in der Wohnung dem Erwerbsgeschäft oder ähnlichem Verhältnis des Besitzers",
+      "page": 0
+    }
+  ],
+  "Vorbereitung": [
+    {
+      "question": "Still alle deine Grundbedürfnisse vor der Prüfung (Schlaf, Essen und Trinken)",
+      "answer": "Lerne am Tag vor der Prüfung nicht mehr. Unternimm etwas, was dir Spaß macht, um am nächsten Tag entspannt und mit freiem Kopf zur Prüfung anzutreten.",
+      "page": 3
+    },
+    {
+      "question": "Lerne am Tag vor der Prüfung nicht mehr. Unternimm etwas, was dir Spaß macht, um am nächsten Tag entspannt und mit freiem Kopf zur Prüfung anzutreten.",
+      "answer": "Solltest du bei der Prüfung mal etwas nicht verstehen, dann frag den Prüfer in Ruhe, ob er die Frage anders formulieren kann.",
+      "page": 5
+    },
+    {
+      "question": "Solltest du bei der Prüfung mal etwas nicht verstehen, dann frag den Prüfer in Ruhe, ob er die Frage anders formulieren kann.",
+      "answer": "Beachte, dass die Reaktionen der Prüfer eher selten etwas mit der Qualität deiner Aussage zu tun haben. Manche Prüfer wollen testen, ob du dich aus der Fassung bringen lässt.",
+      "page": 7
+    },
+    {
+      "question": "Beachte, dass die Reaktionen der Prüfer eher selten etwas mit der Qualität deiner Aussage zu tun haben. Manche Prüfer wollen testen, ob du dich aus der Fassung bringen lässt.",
+      "answer": "Die Prüfungsordnung sieht eine Dauer von 15 Minuten je Prüfling vor. Hiervon kann aufgrund der Chancengleichheit geringfügig abgewichen werden. Simuliere diese Zeit bereits zu Übungszwecken vorher.",
+      "page": 9
+    },
+    {
+      "question": "Die Prüfungsordnung sieht eine Dauer von 15 Minuten je Prüfling vor. Hiervon kann aufgrund der Chancengleichheit geringfügig abgewichen werden. Simuliere diese Zeit bereits zu Übungszwecken vorher.",
+      "answer": "Sorge durch Pünktlichkeit, angemessene Kleidung, freundliche Begrüßung und respektvolles Zuhören für eine positive Beziehungsebene zum Prüfungsausschuss, um Dein Wissen optimal zu präsentieren.",
+      "page": 11
+    },
+    {
+      "question": "Sorge durch Pünktlichkeit, angemessene Kleidung, freundliche Begrüßung und respektvolles Zuhören für eine positive Beziehungsebene zum Prüfungsausschuss, um Dein Wissen optimal zu präsentieren.",
+      "answer": "Stell Verständnisfragen, wenn etwas unklar ist. Es ist kein Fehler nachzufragen. Dadurch zeigst du, dass du mitdenkst und nicht einfach losredest.",
+      "page": 13
+    },
+    {
+      "question": "Stell Verständnisfragen, wenn etwas unklar ist. Es ist kein Fehler nachzufragen. Dadurch zeigst du, dass du mitdenkst und nicht einfach losredest.",
+      "answer": "Nimm dir einen Kugelschreiber, einen Ring oder Sonstiges mit, mit dem du deine Hände etwas beschäftigen kannst.",
+      "page": 15
+    },
+    {
+      "question": "Nimm dir einen Kugelschreiber, einen Ring oder Sonstiges mit, mit dem du deine Hände etwas beschäftigen kannst.",
+      "answer": "Unterschätze deine Körpersprache nicht. Achte auf eine aufrechte Haltung, Blickkontakt und ruhige Gestik. Vermeide nervöse Bewegungen oder ständiges Umherwippen.",
+      "page": 17
+    },
+    {
+      "question": "Unterschätze deine Körpersprache nicht. Achte auf eine aufrechte Haltung, Blickkontakt und ruhige Gestik. Vermeide nervöse Bewegungen oder ständiges Umherwippen.",
+      "answer": "Achte auf deine Stimme und deine Atmung. Sprich deutlich, langsam und atme bewusst.",
+      "page": 19
+    },
+    {
+      "question": "Achte auf deine Stimme und deine Atmung. Sprich deutlich, langsam und atme bewusst.",
+      "answer": "Achte auf das Schlüsselsymbol oben rechts auf den Lernkarten – diese Fragen werden in der Prüfung besonders häufig gestellt. Dieses Lernkartenset bildet die Grundlagen ab. Ohne begleitenden Unterricht ist es jedoch nahezu unmöglich, die mündliche Prüfung erfolgreich zu bestehen. Dein Dozent wird dich dabei unterstützen, die Inhalte zu verstehen, zu verinnerlichen und in der Prüfung sicher anzuwenden.",
+      "page": 21
+    }
+  ],
+  "Unbekannt": [
+    {
+      "question": "Mit Sicherheit die beste Prüfungsvorbereitung",
+      "answer": "Herzlich Willkommen zur besten Vorbereitung auf die Sachkundeprüfung gem. § 34a GewO bei der DBA GmbH",
+      "page": 1
+    },
+    {
+      "question": "Warum verhält sich ein Mensch in einer Gruppe oder Menge anders, als er es als Einzelperson tun würde? UmMUmM",
+      "answer": "Wie sollte sich ein Sicherheitsdienstmitarbeiter grundsätzlich gegenüber Jugendlichen verhalten? UmMUmMUmM",
+      "page": 633
+    },
+    {
+      "question": "Wie sollte sich ein Sicherheitsdienstmitarbeiter grundsätzlich gegenüber Jugendlichen verhalten? UmMUmMUmM",
+      "answer": "1) Alkoholdieb Sie sind Kaufhausdetektiv und beobachten einen 13-Jährigen, der eine teure Flasche Alkohol entwendet, die Kassenzone verlässt und Richtung Ausgang geht. Frage 1: Wie bewerten Sie die rechtliche Situation? Fallbeispiel 1",
+      "page": 637
+    },
+    {
+      "question": "1) Alkoholdieb Sie sind Kaufhausdetektiv und beobachten einen 13-Jährigen, der eine teure Flasche Alkohol entwendet, die Kassenzone verlässt und Richtung Ausgang geht. Frage 1: Wie bewerten Sie die rechtliche Situation? Fallbeispiel 1",
+      "answer": "• Strafrecht • Diebstahl tatbestandsmäßig und rechtswidrig erfüllt. • Dieb unter 14, daher schuldunfähig, kann also nicht bestraft werden. • Notwehr (in Form der Nothilfe) möglich, um die Beendigung des Diebstahls zu verhindern. Vorläufige Festnahme §127 Abs. 1 StPO nicht anwendbar. •  Zivilrecht • Unerlaubte Eigenmacht in Form der Besitzentziehung liegt vor. • Besitzkehr durch den Kaufhausdetektiv als Besitzdiener möglich. Fallbeispiel 1",
+      "page": 717
+    },
+    {
+      "question": "1) Alkoholdieb Frage 2: Wie reagieren Sie? Fallbeispiel 2",
+      "answer": "• Ruhe bewahren und diskret handeln • Dieb mit angemessener Gewalt aufhalten • Alkohol Flasche sichern • Dieb über die rechtliche Situation aufklären und Hausverbot aussprechen • Vorfall dokumentieren Fallbeispiel 2",
+      "page": 719
+    },
+    {
+      "question": "2)  Baby im Auto Du bist  Parkplatz Streife und entdeckst in einem geparkten Auto ein allein gelassenes Baby, das droht, ohnmächtig zu werden. Wie bewerten Sie die rechtliche Situation? Fallbeispiel 3",
+      "answer": "• Strafrecht • Beschädigen des Fahrzeugs möglich ohne nachfolgende Bestrafung wegen Sachbeschädigung. Hier greift der rechtfertigende Notstand. • Zivilrecht • Beschädigung des Fahrzeugs möglich, ohne Schadensersatzforderungen zu befürchten. Hier greift der Defensive Notstand. • Fremde Mittel zu organisieren, um die Scheibe einzuschlagen, ist möglich, hier greift der aggressive Notstand. GGf. Schadensersatzansprüche zu befürchten, falls diese fremden Mittel beschädigt werden. Fallbeispiel 3",
+      "page": 721
+    },
+    {
+      "question": "2) Baby im Auto Wie reagieren Sie in der Situation? Fallbeispiel 4",
+      "answer": "• Ruhe bewahren • Prüfen,  ob Fahrzeug verschlossen ist • Einsatzleitung  informieren über Funk, Rettungswagen anfordern • Schreibe einschlagen, ggf. Werkzeug dafür organisieren • Baby in Schatten bringen und Erste Hilfe leisten • Baby dem Rettungsdienst übergeben • Vorfall dokumentieren Fallbeispiel 4",
+      "page": 723
+    },
+    {
+      "question": "2) Baby im Auto Nachdem Du die Scheibe eingeschlagen und gerade dabei bist, am Baby Erste Hilfe zu leisten, kommt der Vater des Babys und wirkt sehr wütend. Er bemerkt nicht einmal, dass Du sein Kind gerettet hast. Wie trittst Du dem Vater gegenüber und erklärst Dich? Fallbeispiel 5",
+      "answer": "• Erste Hilfe Maßnahmen weiterführen, bis Kind stabil ist • Erste Worte: „Ihr Kind war in akuter Lebensgefahr, ich habe sofort gehandelt.” • Danach kurz schildern, was Du gesehen und getan hast. • Ruhig und sachlich bleiben • Keinen Vorwurf formulieren, sondern deeskalieren • Verständigung von Polizei und Rettungskräfte erwähnen Fallbeispiel 5",
+      "page": 725
+    },
+    {
+      "question": "3) Arbeitsunfall Sie sind mit einem Kollegen auf Streife. Ihr Kollege rutscht aus und bricht sich den Arm. Wen müssen sie informieren und was müssen sie tun? Fallbeispiel 6",
+      "answer": "• Rettungsdienst und • Einsatzleitung informieren • Erste Hilfe leisten • Rettungsdienst vor Ort in • Situation einweisen • Dokumentation der Erste Hilfe Leistung • im Verbandbuch • Unfallhergang schriftlich festhalten • Absichern der Unfallstelle Fallbeispiel 6",
+      "page": 727
+    },
+    {
+      "question": "4) Türsteher volle Disko Du bist Türsteher vor einer komplett gefüllten Großraumdiskothek, eine Gruppe von 14 Menschen steht vor Dir und möchte rein. Wie gehst Du vor? Fallbeispiel 7",
+      "answer": "• Maximale Gästezahl nicht überschreiten. Verantwortung für die Gefahrenabwehr. • Ruhig und freundlich informieren • Begründen, dass die Maßnahme der Sicherheit dient • Keine Ausnahmen machen • Optionen anbieten z.B. Einlass im Verhältnis „Einer raus – einer rein“ • Kommunikation mit Kollegen im Innenbereich Fallbeispiel 7",
+      "page": 729
+    },
+    {
+      "question": "4) Türsteher volle Disko Die Gruppe wird jetzt aggressiv, wie verhältst Du Dich? Fallbeispiel 8",
+      "answer": "• Abstand halten, Rückzugswege im Blick haben • Unterstützung anfordern, • Kollegen über Funk informieren • Ruhe bewahren, keine provozierenden Gesten • Deutliche aber höfliche Ansage • Eigenschutz beachten, keine Allein Aktion gegen zahlenmäßig überlegene Gruppe • Falls erforderlich, Abwehr Handlungen im Rahmen der Notwehr durchführen • Wenn Aggression in Gewalt umschlägt, • Polizei rufen Fallbeispiel 8",
+      "page": 731
+    },
+    {
+      "question": "5) Zerplatzter Scheinwerfer Sie sind als SMA auf einem Festival. Sie bemerken einen Scheinwerfer, der plötzlich heller wird und letztlich mit einem lauten Knall zerplatzt und sich Rauch bildet. Welche Ereignisse können dadurch entstehen? Fallbeispiel 9",
+      "answer": "• Brandgefahr - Deko kann z.B.durch Funkenbildung in Brand geraten • Verletzungsgefahr durch Glassplitter • oder Trümmerteile • Einschränkung der Sicht durch Rauch, Gesundheitsschäden durch Atemwegsbeschwerden • Stromschlaggefahr • Panikreaktion im Publikum - Gedränge, Entstehung einer akuten Masse Fallbeispiel 9",
+      "page": 733
+    },
+    {
+      "question": "5) Zerplatzter Scheinwerfer Jetzt siehst Du, wie aus dem Rauch ein Brand entsteht und Panik ausbricht. Du siehst aber einen schweren Mann, der auf den Knien kauert und sich nicht rührt. Wie bekommst Du diese Person aus der Gefahrenzone weg? Fallbeispiel 10",
+      "answer": "• Offensichtlich Panikstarre beim Mann vorliegend • Deutliche, laute Ansprache mit körperlicher Aktivierung (Kneifen, leichte Ohrfeige), um Starre aufzulösen und Handlungsfähigkeit wiederherzustellen. • Alternativ Anwenden vom Rettungsgriff (Unter den Achseln von hinten greifen, einen Unterarm der Person vor die Brust nehmen, Mann mit Körpergewicht nach hinten ziehen und wegschleppen. Fallbeispiel 10",
+      "page": 735
+    },
+    {
+      "question": "6)  Zerbrochenes Gurkenglas Du bist Kaufhausdetektiv und beobachtest ein 8 jähriges Kind, wie es aus Versehen ein Glas Gurken runter schmeißt. Beurteile die rechtliche Lage! Fallbeispiel 11",
+      "answer": "• Verschuldenshaftung aus unerlaubter Handlung §823 BGB • Kind ist schadensersatzpflichtig. • Der Supermarktbetreiber kann Schadensersatzforderungen erheben. • Diese rechtliche Verpflichtung wird • aber in der Regel aus Kulanzgründen • nicht durchgesetzt. Fallbeispiel 11",
+      "page": 737
+    },
+    {
+      "question": "6)  Zerbrochenes Gurkenglas Wie reagierst Du in der Situation? Fallbeispiel 12",
+      "answer": "• Unfallstelle absichern • Andere Kunden warnen • Erziehungsberechtigte suchen und informieren • Kind bzw. Familie beruhigen und versichern, dass alles in Ordnung ist • Keine Vorwürfe, um Angst oder Schuldgefühle zu vermeiden • Personal zum Saubermachen der Scherben und Flüssigkeit rufen • Kurze, interne Notiz an den Supermarkt Fallbeispiel 12",
+      "page": 739
+    },
+    {
+      "question": "7) Fußballfans im Einkaufszentrum Auf einem Streifengang treffe ich in einem Einkaufszentrum eine Gruppe männlicher Fußballfans, die Alkohol konsumieren. Der Konsum von Alkohol ist dort verboten! Beurteile die rechtliche Lage! Fallbeispiel 13",
+      "answer": "• Strafrecht • Es liegt keine Straftat vor, solange keine Belästigungen, Pöbeleien oder Gewalt • Zivilrecht • Hausrecht des Betreibers • Kann Hausregeln aufstellen z.B. Alkoholverbot und bei Verstoß des Hausrechts Bereichs verwiesen werden. • SMA auf Streifengang ist Besitzdiener, kann Hausrecht für den Betreiber durchsetzen. Fallbeispiel 13",
+      "page": 741
+    },
+    {
+      "question": "7) Fußballfans im Einkaufszentrum Wie reagierst Du in dieser Situation? Fallbeispiel 14",
+      "answer": "• Kurze Meldung über Funk an Einsatzleitung • Anführer der Gruppe beiseite nehmen und mit ihm alleine sprechen • Freundlich aber bestimmt ansprechen und auf das Verbot hinweisen • Alkoholkonsum unterbinden, Flaschen außerhalb des EKZ trinken lassen • Bei Weigerung oder aggressivem Verhalten Verlassen des Gebäudes anordnen • Ggf Polizei hinzuziehen Fallbeispiel 14",
+      "page": 743
+    },
+    {
+      "question": "8) Sprayer im Baumarkt Du bist als Sicherheitsmitarbeiter in einem großen Baumarkt eingesetzt. Beim Rundgang durch die Gartenabteilung siehst du zwei junge Männer (ca. 17 Jahre alt), die eine Spraydose Lack öffnen und damit an einer Wand im Außenbereich des Marktes ein Graffiti anbringen. Beurteile die rechtliche Lage! Fallbeispiel 15",
+      "answer": "Strafrecht • Sachbeschädigung §303 StGB • Strafmündigkeit gegeben • Notwehr §32 StGB möglich • Vorläufige Festnahme §127 StPO möglich Zivilrecht • Unerlaubte Handlung §823 BGB • Schadensersatzpflicht • Notwehr §227 BGB möglich • Allgemeine Selbsthilfe §229 BGB möglich Fallbeispiel 15",
+      "page": 745
+    },
+    {
+      "question": "8) Sprayer im Baumarkt Wie reagierst Du in dieser Situation? Fallbeispiel 16",
+      "answer": "• Kurze Meldung über Funk an Einsatzleitung/Marktleitung • Auf Eigensicherung achten, Fluchtwege für Täter freihalten • Ruhige, bestimmte Ansage: „Stopp! Legen Sie die Spraydose weg.Sie beschädigen hier fremdes Eigentum.“ • Festhalten bei Flucht mit angemessener Gewalt. • Polizei rufen, Beweismittel sichern und übergeben • Hausverbot aussprechen und schriftlich dokumentieren • Vorfall Bericht erstellen und Schadensmeldung an die Marktleitung weiterleiten Fallbeispiel 16",
+      "page": 747
+    },
+    {
+      "question": "9) Schlägerei auf der Tanzfläche Du bist als Sicherheitsmitarbeiter in einer gut besuchten Großraumdiskothek eingesetzt. Auf der Tanzfläche kommt es zwischen zwei männlichen Gästen zu einer lautstarken Auseinandersetzung. Innerhalb von Sekunden fliegen die ersten Fäuste, weitere Personen mischen sich ein, und es entsteht eine Schlägerei mit mehreren Beteiligten. Beurteile die Situation strafrechtlich! Fallbeispiel 17",
+      "answer": "Straftaten • Körperverletzung (§ 223 StGB) • Gefährliche Körperverletzung (§ 224 StGB) möglich (z. B. durch Flaschen oder Gläser) • Beteiligung an einer Schlägerei (§ 231 StGB) Rechtsgrundlagen zum Eingreifen • Notwehr §32 StGB - Schutz von sich selbst und anderen • Vorläufige Festnahme §127 Abs. 1 StPO - Täter auf frischer Tat festhalten. • Besitzwehr - Selbsthilfe des Besitzers/Besitzdieners - Entfernung von Störern Fallbeispiel 17",
+      "page": 749
+    },
+    {
+      "question": "9) Schlägerei auf der Tanzfläche Wie reagierst Du? Fallbeispiel 18",
+      "answer": "• Über Funk Kollegen, ggf. Polizei anfordern • Deeskalation versuchen (nur wenn gefahrlos möglich) • Trennung der Beteiligten, auf Eigensicherung achten • Festhalten von Haupttätern, bis Polizei eintrifft • Erste Hilfe leisten, Rettungsdienst rufen • Tatmittel sichern, an Polizei übergeben • Zeugen benennen, Aussagen tätigen • Vorfallsbericht dokumentieren • Hausverbote aussprechen, sobald möglich Fallbeispiel 18",
+      "page": 751
+    },
+    {
+      "question": "10) Flüchtlingsunterkunft nachts Du bist als Sicherheitsmitarbeiter in einer Gemeinschaftsunterkunft für Geflüchtete eingesetzt. Gegen 22:30 Uhr, kurz nach Beginn der Nachtruhe, hörst du lautes Geschrei und das Klirren von Glas aus einem Aufenthaltsraum. Als du den Raum betrittst, siehst du zwei Bewohner, die sich gegenseitig anschreien. Einer hat eine abgebrochene Glasflasche in der Hand. Mehrere andere Bewohner stehen aufgeregt daneben, einige Kinder fangen an zu weinen. Beurteile die Situation strafrechtlich! Fallbeispiel 19",
+      "answer": "Straftaten • Bedrohung (§ 241 StGB) • Gefährliche Körperverletzung (§ 224 StGB) – falls es zu Angriffen kommt • Sachbeschädigung (§ 303 StGB) – z. B. beschädigtes Inventar Rechtsgrundlagen zum Eingreifen • Notwehr §32 StGB - Schutz von sich selbst und anderen • Vorläufige Festnahme §127 Abs. 1 StPO - Täter auf frischer Tat festhalten. • Besitzwehr - Selbsthilfe des Besitzers/Besitzdieners - Entfernung von Störern Fallbeispiel 19",
+      "page": 753
+    },
+    {
+      "question": "10) Flüchtlingsunterkunft nachts Wie reagierst Du? Fallbeispiel 20",
+      "answer": "• Kollegen und Wachleitung per Funk informieren, Polizei und Rettungsdienst rufen lassen • Eigensicherung - Keine direkte Annäherung an bewaffnete Person • Deeskalation aus der Distanz “Legen Sie bitte die Flasche weg, wir wollen reden!” • Kinder und andere Bewohner aus dem Gefahrenbereich bringen • Festnahme des Täters, wenn gefahrlos möglich • Erste Hilfe leisten falls erforderlich • Sicherung Beweismittel und Übergabe an Polizei • Vorfallsbericht für Betreiber und Ausländerbehörde anfertigen • Hausordnung durchsetzen - Verlegung, Hausverbot, weitere Sanktionen Fallbeispiel 20",
+      "page": 755
+    }
+  ],
+  "UmM": [
+    {
+      "question": "Was verstehen wir unter Frustration?",
+      "answer": "Frustration ist: - Wenn man seine Ziele nicht erreicht - Falsche Erwartungen hat - nie richtig gelernt hat mit Enttäuschungen umzugehen",
+      "page": 551
+    },
+    {
+      "question": "Zu was kann Frustration führen?",
+      "answer": "Frustration kann zu Depressionen, Angst und Agressionen führen",
+      "page": 553
+    },
+    {
+      "question": "Welche Methoden kennen Sie um Frustration abzubauen?",
+      "answer": "Bewegung und Sport, Atemübungen und Meditation, Schlaf, Gespräche mit Freunden oder Familie, Hobbys nachgehen",
+      "page": 555
+    },
+    {
+      "question": "Was ist „Aggression“?",
+      "answer": "Feindseeliges Verhalten gegenüber Menschen und Sachen",
+      "page": 557
+    },
+    {
+      "question": "Welche Arten der Aggression gibt es?",
+      "answer": "Innere - Spielt sich in unseren Gedanke gegen andere Person oder uns selbst ab Äußere - Verbal oder Körperlich gegen andere Personen oder Sachen verschobene - unbeteiligte Sachen oder Personen werden das Ziel",
+      "page": 559
+    },
+    {
+      "question": "Was ist Aggressionsverschiebung?",
+      "answer": "Wenn sich eine Aggression gegen Sachen oder Menschen richtet, die nicht der Auslöser ist. Der ursprüngliche Auslöser erscheint dem Aggressor zu übermächtig!",
+      "page": 561
+    },
+    {
+      "question": "Was verstehst du unter einem Konflikt?",
+      "answer": "Zusammenstoß unterschiedlicher Bedürfnisse, Erwartungen oder Werte",
+      "page": 563
+    },
+    {
+      "question": "Was bedeutet Eskalation eines Konflikts?",
+      "answer": "Zunehmende Verschärfung oder Intensivierung eines Konflikts oder einer Situation",
+      "page": 565
+    },
+    {
+      "question": "Was ist eine Eskalation eines Konfliktes ?",
+      "answer": "Ein Prozess, bei dem ein Konflikt immer weiter eskaliert, sich verschärft und intensiver wird, ohne dass eine Lösung in Sicht ist.",
+      "page": 567
+    },
+    {
+      "question": "Wie sollten Sicherheitsmitarbeiter nicht in Konfliktsituationen sein?",
+      "answer": "Arrogant, rechthaberisch, unhöflich, herablassend, alles persönlich nehmen, unbeherrscht und emotional",
+      "page": 569
+    },
+    {
+      "question": "Was ist ein Kompromiss?",
+      "answer": "Eine Übereinkunft, Einigung durch gegenseitige Zugeständnisse.",
+      "page": 571
+    },
+    {
+      "question": "Woran kann man Kompromissbereitschaft erkennen?",
+      "answer": "Interesse an einer Konfliktlösung wird bekundet Lösungsvorschläge werden angeboten Trotz unterschiedlicher Interessen werden Gemeinsamkeiten gefunden Einigung wird angeboten",
+      "page": 573
+    },
+    {
+      "question": "Was sind Motive?",
+      "answer": "Beweggründe unseres Handelns",
+      "page": 575
+    },
+    {
+      "question": "Welche Motivgruppen gibt es?",
+      "answer": "angeborene (primäre Motive) erworbene (Sekundäre Motive)",
+      "page": 577
+    },
+    {
+      "question": "Was sind Bedürfnisse?",
+      "answer": "Sind die Grundlage für unser Tun und Handeln",
+      "page": 579
+    },
+    {
+      "question": "Welche Bedürfnisgruppen gibt es?",
+      "answer": "Emotionsbasiert Triebgesteuert",
+      "page": 581
+    },
+    {
+      "question": "Was besagt die Bedürfnispyramide?",
+      "answer": "Die Bedürfnisspyramide zeigt eine Anordnung von den grundlegenden Bedürnissen bis hin zur Selbstverwirklichung.",
+      "page": 583
+    },
+    {
+      "question": "Nenne und Erläutere die fünf Stufen der Bedürfnispyramide nach Abraham Maslow",
+      "answer": "Stufe 1 Grundbedürfnisse (Schlaf, Nahrung, Wasser, Wärme) Stufe 2 Sicherheitsbedürfnisse (Schutz, Stabilität, Ordnung, Körperliches Wohlbefinden) Stufe 3 Soziale Bedürfnisse (Freundschaften, Zwischenmenschliche Kontakte) Stufe 4 Soziale Anerkennung (Achtung der Menschen in unserem Umfeld erlangen) Stufe 5 Selbstverwirklichung (Träume und Ziele werden verwirklicht)",
+      "page": 585
+    },
+    {
+      "question": "Wie wird das Vehalten eines Menschen gesteuert?",
+      "answer": "Verstand Gefühl Trieb",
+      "page": 587
+    },
+    {
+      "question": "Was ist das Selbstwertgefühl?",
+      "answer": "Das Gefühl des eigenen Wertes von sich Selbst",
+      "page": 589
+    },
+    {
+      "question": "Was ist „Wahrnehmung“?",
+      "answer": "Aufnahme aller Informationen oder Reize aus unserer Umwelt durch unsere Sinne",
+      "page": 591
+    },
+    {
+      "question": "Was kann unsere Wahrnehmung beeinflussen?",
+      "answer": "Persönliches Befinden (Schmerzen, Persönliche Probleme) Aufmerksamkeit (Ausgeschlafen oder nicht) Sachverständnis (Kenntnisse) Interesse (Überschneidung Hobby / Beruf)",
+      "page": 593
+    },
+    {
+      "question": "Was bezeichnet man als Menschenkenntnis?",
+      "answer": "Die Fähigkeit, das Verhalten oder den Charakter eines anderen Menschen richtig einzuschätzen und mit ihnen professionell umzugehen",
+      "page": 595
+    },
+    {
+      "question": "Wie kann Menschenkenntnis erworben werden?",
+      "answer": "Aufmerksames Beobachten von Körpersprache und Verhalten Aktives Zuhören und echtes Interesse Erfahrungen mit vielen Menschen sammeln Selbstreflexion – sich selbst besser verstehen",
+      "page": 597
+    },
+    {
+      "question": "Was ist aktives Zuhören?",
+      "answer": "Ausreden lassen, offene Körperhaltung, Verständisfragen stellen, Wiederholung mit eigenen Worten, zuhören und Interesse zeigen.",
+      "page": 599
+    },
+    {
+      "question": "Was sind Vorurteile?",
+      "answer": "Positive oder negative Einschätzung, die nicht auf Fakten basieren, sondern auf Hörensagen (Verallgemeinerung). Ungeprüfte Übernahme fremder Meinungen!",
+      "page": 601
+    },
+    {
+      "question": "Was ist Kommunikation?",
+      "answer": "Wechselseitiger Austausch von Informationen zwischen Sender und Empfänger",
+      "page": 603
+    },
+    {
+      "question": "Nenne die vier Kommunikationsarten und erläutere diese!",
+      "answer": "Verbal – Gesprochene und geschriebene Worte Nonverbal – Gestik, Mimik, Körperhaltung Paraverbal – Tonlage, Lautstärke, Sprechtempo Extraverbal – Äußere Einflüsse (z. B. Kleidung, Umgebung, Geruch, Frisur)",
+      "page": 605
+    },
+    {
+      "question": "Erkläre die vier Seiten einer Nachricht",
+      "answer": "Beziehungsebene - Wie stehe ich zu der anderen Person Appel - Was jemand machen soll Sachebene - Austausch der reinen Information Selbstoffenbarung - Wie stehe ich selbst zu der Sache",
+      "page": 607
+    },
+    {
+      "question": "Welche Fragearten unterscheiden wir?",
+      "answer": "Offene Fragen Offene Fragen lassen dem Befragten Spielraum in der Antwort. Sie beginnen oft mit Wie, Was, Warum oder Wodurch. Sie fördern ausführliche Antworten und Gespräche. Beispiel: „Wie geht es dir?“ Geschlossene Fragen Geschlossene Fragen geben klare Antwortmöglichkeiten vor. Sie können meist mit Ja oder Nein beantwortet werden. Sie dienen der schnellen und gezielten Informationsabfrage. Beispiel: „Magst du Kaffee?“",
+      "page": 609
+    },
+    {
+      "question": "Was ist das Eisbergmodell?",
+      "answer": "Veranschaulichung der Kommunkation 20% (Sachebene) 80% (Beziehungsebene)",
+      "page": 611
+    },
+    {
+      "question": "In der Kommunikation spricht man von Sachebene und Beziehungsebene. Was bedeuten diese Begriffe?",
+      "answer": "Sachebene - Austausch von Daten, Fakten und Informationen Beziehungsebene - Einfluss durch Gefühle, Empfindungen und Stimmung",
+      "page": 613
+    },
+    {
+      "question": "Was ist eine Menschengruppe?",
+      "answer": "Zusammenkunft von mindestens zwei Personen Gemeinsame Ziele - Ein Ziel wird verfolgt Zusammengehörigkeitsgefühl - ein „Wir“ Gefühl entsteht Gemeinsame Werte und Normen - Gruppenspezifische Werte, Normen und Verhaltensweisen.",
+      "page": 615
+    },
+    {
+      "question": "Wie unterscheiden sich Menschenmenge, Menschenmasse und akute Masse?",
+      "answer": "Menschenmenge: Im Freizeitpark stehen viele Besucher entspannt vor einem Imbiss oder einer Attraktion. Es ist voll, aber übersichtlich. Beispiel: Man wartet ruhig mit anderen in einer langen Schlange vor der Achterbahn. Menschenmasse: Die Menschenmenge wird dichter. Plötzlich versammeln sich viele neugierig um einen Clown oder Showact. Beispiel: Du wirst auf das Spektakel aufmerksam und gehst näher heran – es entsteht Gedränge, aber keine Panik. Akute Masse: Ein Feuerwerk wird gezündet, jemand ruft „Feuer!“, Panik bricht aus. Die Masse drückt in eine Richtung, manche stolpern. Beispiel: Du gerätst in Panik, wirst geschoben, kannst kaum noch atmen oder dich frei bewegen – akute Gefahr entsteht.",
+      "page": 617
+    },
+    {
+      "question": "Was verstehen wir unter Panik?",
+      "answer": "Intensive Todesangst vor einer realen oder eingebildeten Bedrohung",
+      "page": 619
+    },
+    {
+      "question": "Nenne und erläuter die vier Stufen einer Panik",
+      "answer": "Panikstimmung: Ungutes Gefühl breitet sich aus Panik Ereignis: Die Gefahr tritt ein Panikstarre: Körper erstarrt, für Kommunikation nicht empfänglich Paniksturm: Flucht vor der realen oder eingebildeten Gefahr",
+      "page": 621
+    },
+    {
+      "question": "Welche Maßnahmen sollten bei einer Großveranstaltung getroffen werden, um den Ausbruch einer Panik zu verhindern?",
+      "answer": "- Einlasskontrollen durchführen, Abnahme von gefährlichen Gegenständen, - Gliederung des Veranstaltungsraumes - Zustandskontrollen der Notausgänge, Notbeleuchtung, Fluchtwege, Beschilderung, Feuerlöscheinrichtungen, Geländer u.a. - Besucherzahl begrenzen - Ausbildung und Information der Sicherheitsmitarbeiter - Zusammenarbeit mit externen Rettungskräften (Polizei, Feuerwehr u.a.)",
+      "page": 623
+    },
+    {
+      "question": "Nenne die Distanzzonen!",
+      "answer": "Intimzone (0-0,5 m) nur sehr nahestehende Personen Private Zone  (0,5 - 1,2m) nur Freunde und gute Bekannte Gesellschaftliche Zone (1,2 - 3,6m) Arbeitskollegen oder Verkäufer Öffentliche Zone (über 3,6m) Einkaufsstraße, Bahnhof",
+      "page": 625
+    },
+    {
+      "question": "Was ist der erste Eindruck und was bewirkt er?",
+      "answer": "Der erste Eindruck formt sich innerhalb von wenigen Sekunden. Der erste Eindruck ist nicht immer richtig. Für den ersten Eindruck gibt es keine zweite Chance und er ist nur schwer zu korrigieren.",
+      "page": 627
+    },
+    {
+      "question": "Was ist Interkulturelle Kompetenz?",
+      "answer": "Die Kompetenz mit Menschen aus anderen Kulturkreisen sicher umzugehen.",
+      "page": 629
+    },
+    {
+      "question": "Welche Faktoren können die interkulturelle Kompetenz eines Sicherheitsmitarbeiters steigern?",
+      "answer": "Positives Menschenbild, Neugierde, Toleranz, Auslandserfahrungen, Sprachkenntnisse, Hilfsbereitschaft, Empathie, Kenntnisse von kulturellen Besonderheiten.",
+      "page": 631
+    },
+    {
+      "question": "Welches sind alterstypische Verhaltensweisen von Jugendlichen?",
+      "answer": "- Übersteigertes Geltungsbedürfnis - Rebellion gegen die Erwachsenenwelt - Übersensibilität - Unsicherheit - Mangelnde soziale Einordnung - Gruppenbildung - Niedrige Frustrationstoleranz",
+      "page": 635
+    },
+    {
+      "question": "Welche altersbedingten Auffälligkeiten können bei Senioren auftreten?",
+      "answer": "Unbeweglich (körperlich und geistig), starrsinnig, rechthaberisch, desorientiert, nachsichtig, tolerant, duldsam und freundlich.",
+      "page": 639
+    },
+    {
+      "question": "Welche Regeln sollten beim Umgang mit Senioren beachtet werden?",
+      "answer": "- besonders respektvoll und zuvorkommend begegnen - grundsätzlich nicht ungefragt helfen - bei Überwachungs- und Kontrollaufgaben anknüpfen an Werte, die von dieser Personengruppe besonders geachtet werden, wie Verantwortung, Pflichtbewusstsein, Zuverlässigkeit, Ordnung",
+      "page": 641
+    },
+    {
+      "question": "Welche Regeln sollten beim Umgang mit Betrunkenen beachtet werden?",
+      "answer": "Ernst nehmen: Geduld zeigen und aktiv zuhören. Distanzverhalten: Auf verminderten Abstand nicht sofort heftig reagieren. Gelassen bleiben: Provokationen und Beleidigungen nicht persönlich nehmen. Wachsamkeit: Trotz Geduld und Verständnis stets aufmerksam bleiben. Klare Ansagen: Anweisungen eindeutig und verständlich geben. Maßnahmen durchsetzen: Falls nötig, überraschend und entschlossen körperlich handeln – stets im Rahmen der Gesetze.",
+      "page": 643
+    },
+    {
+      "question": "Welche Grundsätze sind beim Umgang mit Drogenabhängigen zu beachten?",
+      "answer": "Menschenwürde achten: Respektvoller und wertschätzender Umgang. Eigensicherung erhöhen: Eigene Sicherheit stets im Blick behalten. Unberechenbarkeit einkalkulieren: Mit plötzlichen Verhaltensänderungen von Drogenabhängigen rechnen. Ernst nehmen: Geduld zeigen und aktiv zuhören. Distanzverhalten: Auf geringen Abstand nicht sofort heftig reagieren. Gelassen bleiben: Provokationen und Beleidigungen nicht persönlich nehmen.",
+      "page": 645
+    },
+    {
+      "question": "Nenne die 2 Arten von Stress!",
+      "answer": "positiver und negativer Stress bzw. Eustress und Disstress",
+      "page": 647
+    },
+    {
+      "question": "Welche 4 Fenster hat das Johari Window?",
+      "answer": "Feld A = Öffentlicher Bereich Feld B = Privater Bereich Feld C = blinder Fleck Feld D = Unbekannter Bereich",
+      "page": 649
+    },
+    {
+      "question": "Nenne 2 Arten von Gruppen!",
+      "answer": "1. die formelle Gruppe Hat klar definierte Ziele. Beispiel: Vereine, Parteien, Verbände, Schulklassen, gemeinsame Dienste (Bewachung) 2. die informelle Gruppe bildet sich meist spontan und hat keine festgelegten Ziele. Beispiel: ein Freundeskreis Tischgruppen in der Kantine Plaudergruppen, z.B. in der Raucherecke Anhänger von Fußballmannschaften",
+      "page": 651
+    },
+    {
+      "question": "Was bedeutet “Umgang mit Menschen”?",
+      "answer": "Es bedeutet die Art und Weise in der wir mit anderen Menschen interagieren und kommunizieren.",
+      "page": 0
+    },
+    {
+      "question": "Was besagt die Bedürfnispyramide und welchen Zweck hat sie?",
+      "answer": "Die Bedürfnisgruppen haben unterschiedliche Prioritäten. Die Bedürfnisse aus den oberen",
+      "page": 0
+    },
+    {
+      "question": "Was ist Menschenkenntnis?",
+      "answer": "Die Fähigkeit das Verhalten anderer Menschen einschätzen und im Optimalfall vorhersehen zu",
+      "page": 0
+    },
+    {
+      "question": "Beispiele nonverbale Kommunikation?",
+      "answer": "Körpersprache, Gestik, Mimik",
+      "page": 0
+    },
+    {
+      "question": "Was ist nonverbale Kommunikation?",
+      "answer": "Körpersprache, Gestik, Mimik",
+      "page": 0
+    },
+    {
+      "question": "Was ist bei einer Gruppe zu beachten?",
+      "answer": "Versuchen den Anführer zu erkennen, ruhig bleiben, respektvoller, sachlicher Umgang, gezielt den",
+      "page": 0
+    },
+    {
+      "question": "Wie löst Du einen Konflikt unter Mitarbeitern?",
+      "answer": "Konfliktprävention: Maßnahmen im Vorfeld verhindern die Konfliktentstehung.",
+      "page": 0
+    },
+    {
+      "question": "Wie können Konflikte entstehen?",
+      "answer": "Durch unterschiedliche Meinungen, Ziele und Interessen",
+      "page": 0
+    },
+    {
+      "question": "Fallbeispiel #3: Wie verhält sich ein SMA am besten, wenn er mit einer Gruppe interagieren muss?",
+      "answer": "Versuchen den Anführer zu identifizieren; diesen direkt und am besten „unter 4 Augen“ ansprechen",
+      "page": 0
+    },
+    {
+      "question": "Fallbeispiel #7: Wie verhalte ich mich gegenüber einem aggressiven Menschen?",
+      "answer": "Bearbeitungsstand: TB 15.05.202 4",
+      "page": 0
+    },
+    {
+      "question": "wollen, aber die Diskothek voll ist?",
+      "answer": "Anführer der Gruppe identifizieren, ihm die Situation erklären, dabei höflich und sachlich bleiben;",
+      "page": 0
+    },
+    {
+      "question": "Die Gruppe wird aggressiv wie verhält du dich da?",
+      "answer": "bei weiteren Versuchen konsequent und selbstbewusst, das „nein“ wiederholen ; Eigensicherung",
+      "page": 0
+    },
+    {
+      "question": "Fussballfans, die Alkohol konsumieren. Der Konsum von Alkohol ist dort verboten! Wie gehe ich vor?",
+      "answer": "Verstärkung hinzuziehen, versuchen den Anführer der Gruppe zu ermitteln und diesen sachlich auf",
+      "page": 0
+    },
+    {
+      "question": "Fallbeispiel #14: Sie sehen eine Gruppe Jugendlicher, die randalieren, wie gehen sie vor?",
+      "answer": "Unbedingt Verstärkung hinzuziehen, Meldung absetzen (Polizei bzw. Vorgesetzte), erst danach",
+      "page": 0
+    },
+    {
+      "question": "Was ist Sicherheitstechnik?",
+      "answer": "Elektrische und mechanische Einrichtungen zum Schutz von Menschen und Sachwerten",
+      "page": 0
+    },
+    {
+      "question": "Was ist die mechanische Grundsicherheit?",
+      "answer": "Bezeichnet physische Barrieren (nicht elektronisch gesteuert), zum Schutz von Menschen und",
+      "page": 0
+    },
+    {
+      "question": "Welche Gruppen und Rechte gibt es im GG? 2x",
+      "answer": "Wir unterscheiden Bürgerrechte und Menschenrechte. Die Bürgerrechte stehen Deutschen Staatsbürgern zu, die Menschenrechte stehen allen Menschen auf dem Hoheitsgebiet der BRD zu.",
+      "page": 0
+    }
+  ],
+  "GewO": [
+    {
+      "question": "Welche Voraussetzungen müssen erfüllt werden, um ein Bewachungsgewerbe zu eröffnen?",
+      "answer": "• Zuverlässigkeit, • geordnete Vermögensverhältnisse, • Sachkundeprüfung nach § 34a GewO, • Betriebshaftpflichtversicherung • Auskunft Gewerbezentralregister",
+      "page": 161
+    },
+    {
+      "question": "Wer muss einen Dienstausweis mit sich führen?",
+      "answer": "Jeder Beschäftigte mit Bewachungsaufgaben muss einen Dienstausweis mitführen. Jeder Beschäftigte in Sachkundepflichtigen Tätigkeiten außer der Kaufhausdetektiv muss ein Schild mit Namen oder einer Kennnummer sowie des Namens und der Adresse des Gewerbebetriebs sichtbar tragen.",
+      "page": 163
+    },
+    {
+      "question": "Was muss der Wachperson vom Gewerbetreibenden gegen Empfangsbescheinigung bzw. vor Beginn der Tätigkeit ausgehändigt werden?",
+      "answer": "Die Dienstanweisung gegen Empfangsbestätigung und den Dienstausweis vor Beginn des ersten Auftrages!",
+      "page": 165
+    },
+    {
+      "question": "Nenne die Mindestvoraussetzungen, um im Sicherheitsgewerbe beschäftigt zu werden!",
+      "answer": "• Mindestens die Unterrichtung nach § 34a (U40) oder die höherwertige Sachkunde nach § 34a GewO • min. 18 Jahre, • Zuverlässigkeit, • persönliche Eignung",
+      "page": 167
+    },
+    {
+      "question": "Was muss auf dem Dienstausweis stehen?",
+      "answer": "• Name und Anschrift des Gewerbetreibenden, • Name und Vorname des SMA, • Bewacherregister-ID des SMA und vom Gewerbetreibenden, • Unterschrift des SMA und vom Gewerbetreibenden",
+      "page": 169
+    },
+    {
+      "question": "Wie muss die Arbeitskleidung beschaffen sein?",
+      "answer": "Sie darf nicht mit behördlichen Uniformen oder Abzeichen verwechselt werden können.",
+      "page": 171
+    },
+    {
+      "question": "Wann und wo muss eine Dienstkleidung getragen werden?",
+      "answer": "Immer, wenn wir in Ausübung unseres Dienstes befriedetes Besitztum betreten, abgesehen von Ladendetektiven.",
+      "page": 173
+    },
+    {
+      "question": "Was muss in einer Dienstanweisung stehen?",
+      "answer": "• Sicherheitsmitarbeiter haben keine hoheitlichen Rechte • Ausrüstung mit Waffen ist nur mit ausdrücklicher Zustimmung des Gewerbetreibenden gestattet • Jeglicher Waffengebrauch ist unverzüglich der zuständigen Polizeidienststelle sowie dem Gewerbetreibenden anzuzeigen",
+      "page": 175
+    },
+    {
+      "question": "Was regelt § 34a der Gewerbeordnung (GewO) im Sicherheitsgewerbe?",
+      "answer": "Wer gewerbsmäßig Leben oder Eigentum fremder Personen bewachen will, benötigt eine Erlaubnis der zuständigen Behörde",
+      "page": 177
+    },
+    {
+      "question": "In welcher Rechtsnorm steht, wer bewachen darf?",
+      "answer": "In der BewachV (Bewachungsverordnung) und der GewO (Gewerbeordnung).",
+      "page": 179
+    },
+    {
+      "question": "Wer ist befreit davon, die Sachkundeprüfung zu absolvieren?",
+      "answer": "1. Bundeswehr – Feldjäger 2. Polizei Laufbahnprüfung mind. mittlerer Dienst in: Polizei (Bund/Land) Bundesgrenzschutz / Bundespolizei Justizvollzugsdienst Zolldienst mit Waffenbefähigung 3. Anerkannte Berufsabschlüsse Fachkraft für Schutz und Sicherheit (FSS) Servicekraft für Schutz und Sicherheit (SSS) Geprüfte Schutz- und Sicherheitskraft Meister für Schutz und Sicherheit 4. Bestandsschutz Am 01.01.2003 bereits mind. 3 Jahre ununterbrochen im Bewachungsgewerbe tätig",
+      "page": 181
+    },
+    {
+      "question": "Für welche Tätigkeiten benötigst du eine Sachkundeprüfung gem. § 34a GewO?",
+      "answer": "• Schutz vor Ladendieben (Kaufhausdetektiv) • Bewachungen im Einlassbereich von gastgewerblichen Diskotheken (Türsteher) • Kontrollgänge im öffentlichen Verkehrsraum oder in Hausrechtsbereichen mit tatsächlich öffentlichem Verkehr (Citystreife) • Bewachungen von zugangsgeschützten Großveranstaltungen in leitender Funktion • Bewachung von Flüchtlingsunterkünfte in leitender Funktion",
+      "page": 183
+    },
+    {
+      "question": "Was sind die Mindestdeckungssummen einer Haftpflichtversicherung für das Bewachungsgewerbe?",
+      "answer": "• Personenschäden: 1.000.000 € • Sachschäden: 250.000 € • Abhandenkommen bewachter Sachen: 15.000 € • Reine Vermögensschäden: 12.500 €",
+      "page": 185
+    },
+    {
+      "question": "Weshalb wird die Sachkundeprüfung nach § 34a GewO für bestimmte Tätigkeiten gesetzlich gefordert?",
+      "answer": "Weil es sich um konfliktträchtige Tätigkeitsfelder handelt.",
+      "page": 187
+    },
+    {
+      "question": "Was ist die Anzeigepflicht § 14 GewO?",
+      "answer": "Meldung an die zustäbndige Behörde • Aufnahme eines Gewerbes • Eröffnung von Zweigstellen • Namensänderungen • Sitzverlegung • Aufgabe des Betriebes",
+      "page": 189
+    },
+    {
+      "question": "Welche Pflichten hat ein Gewerbetreibender laut GewO gegenüber seinen Wachpersonen?",
+      "answer": "• Anmeldung im Bewacherregister • Prüfung der Unterlagen • Aushändigen der Dienstanweisung • Wachpersonen zur Verschwiegenheit verpflichten • Einarbeitung",
+      "page": 191
+    },
+    {
+      "question": "Was heißt „Bewachung“ ?",
+      "answer": "• x",
+      "page": 193
+    },
+    {
+      "question": "Was ist das Bewacherregister?",
+      "answer": "Eine behördliche Datenbank, durch die man die Zuverlässigkeit und die fachliche Eignung einer Wachperson sowie des Gewerbetreibenden überprüfen kann.",
+      "page": 195
+    },
+    {
+      "question": "Was ist eine Bewacherregisteridentifikationsnummer?",
+      "answer": "Eine Nummer, die jede Wachperson erhält mit der man eine Wachperson eindeutig im Bewacherregister zuordnen kann. Sie ermöglicht die effektive Kontrolle durch Behörden.",
+      "page": 197
+    },
+    {
+      "question": "Was bedeutet ‘Auskunft’ und ‘Nachschau’ nach § 29 GewO?",
+      "answer": "Auskunft: Der Unternehmer muss der zuständigen Behörde alle Tatsachen die für die Überwachung des Gewerbes relevant sind nennen. Nachschau: Die zuständige Behörde kann während der üblichen Geschäftszeiten eine Nachschau vor Ort über Dokumente usw. durchführen.",
+      "page": 199
+    },
+    {
+      "question": "Welche Pflichten hat der Gewerbetreibende bei Handhabung und Waffengebrauch nach § 20 BewachV?",
+      "answer": "Der Gewerbetreibende ist für die sichere Aufbewahrung der Waffen und der Munition verantwortlich. Waffengebrauch ist unverzüglich vom Gewerbetreibenden der zuständigen Behörde, sowie der zuständigen Polizeidienststelle anzuzeigen",
+      "page": 201
+    },
+    {
+      "question": "Bewachungsgewerbe eine Schusswaffe führen zu dürfen?  (5P)",
+      "answer": "Antwort: Der Sicherheitsmitarbeiter muss mindestens 18 Jahre alt (1), persönlich und körperlich geeignet  (2), zuverlässig  (3) und sachkundig (4) sein. Außerdem muss er mindestens 4 x pro Jahr im Abstand von drei Monaten mit der Waffe trainieren (5). 13. Welche Voraussetzungen muss ein Sic herheitsmitarbeiter Erfüllen, der",
+      "page": 0
+    },
+    {
+      "question": "für Geld - und Werttransporte eingesetzt werden soll?  (4P)",
+      "answer": "Antwort: 1. Mindestens 1 8 Jahre alt, 2. Mindestqualifikation: Unte rrichtung gem. §34a GewO, 3. Besonders in die Aufgabe eingewiesen und daf ür ausgebildet , 4. persönlich zuverlässig und 14. Wie viele Sicherheitsmitarbeiter sind für einen offensichtlichen Geldtransport erforderlich und welche Aufgaben übernehmen diese.  (4P) Antwort: 1. Es sind min. drei Personen notwendig. 2. 1  Person bleibt im Transportfahrzeug, 3. 1 Person trägt das Geld. 4. 1 Person begleitet den Träger zur Absicherung. 15. Was müssen Sicherheitsmitarbeiter die eine Sehhilfe brauchen im Dienst beachten?  (1P) Antwort: Er muss seine Sehhilfe gegen Verlieren sichern oder eine Ersatzbrille mitführen. 16.  Beim Thema Arbeits - und Gesundheitsschutz spricht man von einem Dualen System. Wer trifft neben den Berufsgenossenschaften noch Regelungen zu diesem Thema. Bennen Sie ein entsprechendes Regelwerk Antwort: Der Staat. Er erlässt Gesetze wie beispielsweise das Arbeitsschutzgesetz . 17.  Welche Gruppen Sicherheits - und Gesundheitsschutzkennzeichen kennen Sie?  (5P) Antwort: 1. Verbotszeichen, 2. Gebotszeichen, 3. Warnzeichen, 4. Rettungszeichen, 5. Brandschutzzeichen 18. Beschreiben Sie je ein Gebots -, Verbots - und Warnzeichen (Form, Farbe, Inhalt)!  (3P) 19. Wie viele Ersthelfer müssen in einem Chemiewerk, mit 135 Versicherten anwesend sein?  (1P) Antwort: 14 Ersthelfer 20. Nennen Sie drei organisatorische Aufgaben des Unternehmers im Bezug auf den Arbeitsschutz.  (3P) Antwort: 1. Erstellung von Flucht - und Rettungsplänen , 2. Bestellung und Lagerung von PSA und Hilfsmitteln in ausreichender Menge und Größe , 3. Sicherstellung von Ersthelfern in ausreichender Menge. Gesamt: ____________ von 53 P",
+      "page": 0
+    },
+    {
+      "question": "Wie wird das Grundgesetz der freien Berufswahl eingeschränkt im Sicherheitsbereich?",
+      "answer": "Im Sicherheitsgewerbe sind besondere Qualifikationen und Anforderungen zu erfüllen, damit einer",
+      "page": 0
+    },
+    {
+      "question": "Was ist der §34a GewO?",
+      "answer": "Der §34a GewO sagt aus, dass man nur mit einer Erlaubnis der zuständigen Behörde gewerblich",
+      "page": 0
+    },
+    {
+      "question": "Wie heißt die für den Sicherheitsbereich wichtige Verordnung?",
+      "answer": "Die Bewachungsverordnung (BewachV)",
+      "page": 0
+    },
+    {
+      "question": "Verstoß gegen Gewerberecht, was dann?",
+      "answer": "Ist eine Ordnungswidrigkeit, für die es ein Bußgeld gibt. Bei wiederholten Verstößen kann das",
+      "page": 0
+    },
+    {
+      "question": "Wozu sind Sie verpflichtet nach Schusswaffengebrauch?",
+      "answer": "Unverzügliche Meldung an den Gewerbetreibenden und die Polizei",
+      "page": 0
+    },
+    {
+      "question": "Eigensicherung in einem Park Streife zu laufen ist das laut DGUV erlaubt?",
+      "answer": "Nein, der Einsatz von SRS Waffen ist im Bewachungsgewerbe generell untersagt.",
+      "page": 0
+    },
+    {
+      "question": "Was muss der Gewerbetreibende laut DGUV23 tun?",
+      "answer": "Er muss dafür sorgen, dass das Wachpersonal vor Beginn der Tätigkeit anhand der Dienstanweisung",
+      "page": 0
+    },
+    {
+      "question": "Was ist die Gewaltenteilung? 3x",
+      "answer": "Wir unterscheiden die horizontale und die vertikale Gewaltenteilung. Sie soll verhindern, dass eine Einzelperson, allein alle Macht ausüben kann. Horizontale Gewaltenteilung 14x Sie besteht aus Legislative (gesetzgebende Gewalt – Bundestag und Bundesrat), Exekutive (ausführende Gewalt – Polizei, Zoll, Gewerbeaufsichtsamt) und Judikative (rechtsprechende Gewalt – alle Gerichte).",
+      "page": 0
+    },
+    {
+      "question": "Was braucht man, um ein Gewerbe zu eröffnen? 9x",
+      "answer": "Zuverlässigkeit Geordnete wirtschaftliche Verhältnisse Sachkundeprüfung gem. §34a GewO als Mindestqualifikation Haftpflichtversicherung Liquiditätsnachweis für die Geschäftskosten der ersten 6 Monate Mindestalter 18 Jahre Bearbeitungsstand: TB 15.05.202 4",
+      "page": 0
+    },
+    {
+      "question": "§34a SKP – für welche Tätigkeiten erforderlich? 10x",
+      "answer": "Schutz vor Ladendieben Kontrollgänge im öffentlichen Verkehrsraum (inkl. private Hausrechtsbereiche mit tatsächlich öffentlichem Verkehr) Türsteher im gastgewerblichen Discothekenbereich Zugangsgeschützte Großveranstaltungen in leitender Funktion Flüchtlingsunterkünfte in leitender Funktion Als Unternehmer im Bewachungsgewerbe",
+      "page": 0
+    },
+    {
+      "question": "Welche Voraussetzungen braucht man, um im Bewachungsgewerbe zu arbeiten? 2x",
+      "answer": "Mindestqualifikation Unterrichtung gem. §34a GewO Mindestalter: 18 Jahre Zuverlässigkeit (Bundeszentralregisterauszug ohne relevanten Eintrag)",
+      "page": 0
+    },
+    {
+      "question": "Was muss auf dem Dienstausweis stehen? 15x",
+      "answer": "1. Name und Anschrift des Gewerbetreibenden (sowie Firmenname falls abweichend) / Name und Vorname des Sicherheitsmitarbeiters 2. Bewacherregisteridentifikationsnummer des Gewerbetreibenden und des Sicherheitsmitarbeiters 3. Die Unterschrift des Gewerbetreibenden und des Sicherheitsmitarbeiters",
+      "page": 0
+    }
+  ],
+  "UVV": [
+    {
+      "question": "Was ist eine versicherte Tätigkeit?",
+      "answer": "Jede Arbeits-/Betriebstätigkeit einschließlich direkte Dienstwege und Dienstfahrten von und zur Firma.",
+      "page": 445
+    },
+    {
+      "question": "Was sind Wegeunfälle und wie bist du versichert?",
+      "answer": "Wegeunfälle sind wie Arbeitsunfälle versichert. Bedingung ist der direkte Weg von der Wohnung zur Arbeitsstätte. Erlaubte Umwege sind die Abholung von Kollegen im Rahmen einer Fahrgemeinschaft oder der Weg zur Kita/Schule zur Unterbringung von den Kindern.",
+      "page": 447
+    },
+    {
+      "question": "Welche Berufsgenossenschaft ist für das Sicherheitsgewerbe zuständig?",
+      "answer": "Die Verwaltungsberufsgenossenschaft (VBG)",
+      "page": 449
+    },
+    {
+      "question": "Welche Unfallverhütungsvorschriften sind für das Sicherheitsgewerbe relevant?",
+      "answer": "DGUV Vorschrift 1: Grundsätze der Prävention, DGUV Vorschrift 23: Wach- und Sicherungsdienste, ASR  A1.3: Sicherheits- und Gesundheitsschutzkennzeichnungen",
+      "page": 451
+    },
+    {
+      "question": "Welche Verbote regelt die DGUV Vorschrift 23: Wach- und Sicherungsdienste für Wachpersonen?",
+      "answer": "1. Verbot von Gas- und Schreckschusswaffen. 2. Verbot des Konsums berauschender Mittel während der Dienstzeit sowie zu einem angemessenen Zeitraum davor.",
+      "page": 453
+    },
+    {
+      "question": "Wie verhält man sich nach einem Arbeitsunfall?",
+      "answer": "1. Unfallstelle sichern 2. Erste Hilfe leisten 3. Unfall dem Arbeitgeber melden 4. Unfallanzeige durch den Arbeitgeber an die zuständige Berufsgenossenschaft 5. Vorstellung bei einem Durchgangsarzt wenn erforderlich 6. Dokumentation des Unfallhergangs",
+      "page": 455
+    },
+    {
+      "question": "Worauf müssen Wachpersonen im Umgang mit ihrer persönlichen Schutzausrüstung achten?",
+      "answer": "Nur bestimmungsgemäß nutzen Zustand der PSA überprüfen Mängel sind dem Unternehmer zu melden",
+      "page": 457
+    },
+    {
+      "question": "Was müssen Brillenträger gem. DGUV Vorschrift 23: Wach- und Sicherungsdienste beachten?",
+      "answer": "Die Brille muss gegen Verlust gesichert sein oder man muss eine Ersatzbrille mitführen.",
+      "page": 459
+    },
+    {
+      "question": "Was ist ein Durchgangsarzt?",
+      "answer": "Ein Arzt, der von der Berufsgenossenschaft bestellt wurde und nach einem Arbeitsunfall mit Behandlungsbedarf aufgesucht werden muss.",
+      "page": 461
+    },
+    {
+      "question": "Um was geht es in der ASR A1.3 Sicherheits- und Gesundheitsschutzkennzeichnung?",
+      "answer": "In dieser Vorschrift wird die Sicherheits- und Gesundheitsschutzkennzeichnung am Arbeitsplatz sowie die Gestaltung von Flucht- und Rettungsplänen beschrieben.",
+      "page": 463
+    },
+    {
+      "question": "Was beinhaltet die DGUV Vorschrift 23: Wach- und Sicherungsdienste?",
+      "answer": "Sie ist die wichtigste UVV für Sicherheitsunternehmen und regelt die Unfallverhütung und die Vermeidung von Gesundheitsgefahren für Beschäftigte in der Sicherheitswirtschaft!",
+      "page": 465
+    },
+    {
+      "question": "Wann muss man spätestens eine Sicherheitseinweisung erhalten und wie oft muss sie wiederholt werden?",
+      "answer": "Sie muss VOR dem ersten Dienstantritt durchgeführt worden sein und wird regelmäßig wiederholt, mindestens aber einmal jährlich!",
+      "page": 467
+    },
+    {
+      "question": "Was sind Nebentätigkeiten im Dienst?",
+      "answer": "Nebentätigkeiten sind alle Aufgaben, die nicht zum direkten Bewachungsauftrag gehören. Diese dürfen, wenn sie schriftlich in der Dienstanweisung festgehalten sind, auch durchgeführt werden.",
+      "page": 469
+    },
+    {
+      "question": "Welche Pflicht hat ein Unternehmer, wenn sich bei Sicherungstätigkeiten besondere Gefahren ergeben?",
+      "answer": "Bei einer Wachaufgabe mit besonderen Gefahren muss der Unternehmer sicherstellen, dass die Versicherten zu ihrem Schutz überwacht werden.",
+      "page": 471
+    },
+    {
+      "question": "Zu welcher Zeit muss eine Objekteinweisung durchgeführt werden?",
+      "answer": "Die Einweisung muss zu den Zeiten durchgeführt werden, in denen die Sicherungstätigkeit ausgeübt wird. Zusätzlich soll bei Nacht eingesetztes Personal einmal tagsüber eingewiesen werden.",
+      "page": 473
+    },
+    {
+      "question": "Dürfen private Hunde im Dienst eingesetzt werden?",
+      "answer": "Grundsätzlich nein. In Ausnahmefällen dürfen ungeprüfte Hunde ausschließlich zu Wahrnehmungs- und Meldezwecken eingesetzt werden.",
+      "page": 475
+    },
+    {
+      "question": "Wie müssen Schusswaffen und Munition laut UVV aufbewahrt werden?",
+      "answer": "Schusswaffen und Munition müssen gegen Abhandenkommen und unbefugten Zugriff geschützt sein. Die Aufbewahrung hat in einem für Schusswaffen geeigneten Stahlblechschrank mit Schwenkriegelschloss oder einer anderen Sicherheitseinrichtung zu erfolgen. Waffe und Munition müssen getrennt voneinander im Schrank untergebracht sein. Die Aufbewahrung darf nur im entladenen Sicherheitszustand erfolgen.",
+      "page": 477
+    },
+    {
+      "question": "Wie sieht ein Brandschutzzeichen aus?",
+      "answer": "Quadratisch, Rot / Weiß, Flammensymbol rechts",
+      "page": 479
+    },
+    {
+      "question": "Wie sieht ein Rettungszeichenzeichen aus?",
+      "answer": "Quadratisch, Grün / Weiß",
+      "page": 481
+    },
+    {
+      "question": "Wie sieht ein Verbotszeichen aus?",
+      "answer": "Durchgestrichener Kreis, Rot / Weiß / Schwarz",
+      "page": 483
+    },
+    {
+      "question": "Wie sieht ein Gebotszeichen aus?",
+      "answer": "Rund, Blau / Weiß",
+      "page": 485
+    },
+    {
+      "question": "Wie sieht ein Warnzeichen aus?",
+      "answer": "Dreieck Gelb / Schwarz",
+      "page": 487
+    },
+    {
+      "question": "Was sind Flucht- und Rettungspläne?",
+      "answer": "Sie ermöglichen eindeutige Anweisungen über das Verhalten der Versicherten im Gefahr- und Katastrophenfall, die schnellste Möglichkeit, sich in Sicherheit zu bringen.",
+      "page": 489
+    },
+    {
+      "question": "Welche Pflichten hat der Unternehmer hinsichtlich der persönlichen Schutzausrüstung?",
+      "answer": "Bereitstellung von geeigneter PSA und die Gewährleistung der Tragezeitbegrenzung und Nutzungsdauer",
+      "page": 491
+    },
+    {
+      "question": "Was steht in einer Dienstanweisung nach der UVV?",
+      "answer": "1. Weiterleitung von Mängeln 2. Unterstützung der Arbeitssicherheit 3. Verbot des Befolgens sicherheitswidriger Weisungen 4. Üben des sicherheitsgerechten Verhaltens",
+      "page": 493
+    },
+    {
+      "question": "Wie dürfen Diensthunde transportiert werden?",
+      "answer": "Hunde dürfen sich im Transportfahrzeug befinden, wenn der Transportraum baulich vom Fahrgastraum getrennt ist. Alternativ kann ein Hundeanhänger zum Einsatz kommen.",
+      "page": 495
+    },
+    {
+      "question": "Was gehört zur Standardausrüstung im Sicherheitsgewerbe?",
+      "answer": "Der Tätigkeit angemessenes Schuhwerk, leistungsfähige Handleuchten, Kommunikationsmittel",
+      "page": 497
+    },
+    {
+      "question": "Was bedeudet DGUV?",
+      "answer": "Deutsche Gesetzliche Unfallversicherung",
+      "page": 499
+    },
+    {
+      "question": "In welchem Gesetzbuch sind die Grundlagen für die Berufsgenossenschaften?",
+      "answer": "im Sozialgesetzbuch VII",
+      "page": 501
+    },
+    {
+      "question": "Für welche Hindernisse und Gefahrstellen benutzt man das gelb-schwarze Flatterband?",
+      "answer": "Gelb-schwarze Streifen sind vorzugsweise für ständige Hindernisse und Gefahrstellen zu verwenden (z. B. Stellen, an denen besondere Gefahren des Anstoßens, Quetschens, Stürzens bestehen)",
+      "page": 503
+    },
+    {
+      "question": "Für welche Hindernisse und Gefahrstellen benutzt man das rot-weiße Flatterband?",
+      "answer": "Rot-weiße Streifen sind vorzugsweise für zeitlich begrenzte Hindernisse und Gefahrstellen zu verwenden (z. B. Baugruben).",
+      "page": 505
+    },
+    {
+      "question": "2. Was ist ein Arbeitsunfall?  (3P)",
+      "answer": "Antwort: ein AU ist ein zeitlich befristet , auf den Körper einwirkendes Ereignis, dass zu einem Gesundheitsschaden oder zum Tod eine s Menschen führt und das einem Versicherten bei ei ner versicherten Tätigkeit passiert. 3. Welche Umwege vom direkten Weg zur / von der Arbeit sind über die BG mitversichert?  (3P) Antwort: 1. Umwege zum Zwec ke von Fahrgemeinschaften; 2. Umwege zum Zwecke der Kinderbetreuung  – die nur auf Grund der Arbeitstätigkeit notwendig wird (Wege zum / vom Kindergarten , NICHT Schulweg  – weil Schulpflicht ) 4. Wie lautet der Name der Unfallverhütungsvorschriften für Wach - & Sicherungsdienste?  (1P) Antwort: DGUV Vorschrift 23 5. Welche Pflichten hat der Sicherheitsunternehmer gem. DGUV Vorschrift Antwort: 1. Vor Auftragsannahme Inspektion des zu sichernden Objekts und Aufforderung an Auftraggeber, festgestellte Gefahren und Mängel zu beseitigen oder abzusichern. 2. Erstellung einer Dienstanweisung für die Sicherheitsmitarbeiter inkl. Regelungen zur Weitermeldung von Mängeln und G efahren und Auflistung aller Nebentätigkeiten. 3. Einweisung der Sicherheitsmitarbeiter vor Aufnahme der Tätigkeit - zu den Zeiten,  zu den auch die S icherheitsdienstleistung erbracht werden soll . 4. 6. Welche Pflichten hat der Sicherheitsmitarbeiter im Bezug auf die DGUV Vorschrift 23?  (3P) Antwort: 1. Mitwirkung bei der Umsetzung von Maßnahmen zur Arbeitssicherheit , 2. Verwendung der Bereitgestellten Ausrüstung und Hilfsmittel, 3. Im Dienst festgestellte Mängel und Gefahren unverzüglich an den Unternehmer melden.  Weitere Möglichkeiten: Keine Anweisungen befolgen, die dem Sicherungsauftrag entgegenstehen ; Dienstanweisung befolgen.",
+      "page": 0
+    },
+    {
+      "question": "10. Wie sind Schusswaffen  gem. UVV aufzubewahren?  (3P)",
+      "answer": "Antwort: 1. Schu sswaffen dürfen nur in Entladenem Zustand aufbewahrt werden, 2. Schuss waffen müssen immer getrennt von der Munition aufbewahrt werden, 3. Schusswaffen müssen während der Aufbewahrung mindestens durch einen Stahlblechschrank mit Sicherheitsschloss gegen Abhandenkommen und unbefugten Zugriff gesichert werden .",
+      "page": 0
+    },
+    {
+      "question": "11. Welche Aussage trifft die UVV über das Mitführen von Munition?  (1P)",
+      "answer": "Antwort: Sie darf nicht „lose“ mitgeführt werden. 12. Welche Voraussetzungen müssen Sicherheitsmitarbeiter erfüllen, um im",
+      "page": 0
+    },
+    {
+      "question": "Für wen gilt die DGUV V1?",
+      "answer": "Für Versicherte  unter Unternehmer  aus allen Branchen und Gewerken",
+      "page": 0
+    },
+    {
+      "question": "Was steht in der DGUV V1 zur Unterweisung von Versicherten?",
+      "answer": "Die Unterweisung in den DGUVVen hat vor Beginn der Tätigkeit und danach regelmäßig (jährlich) zu",
+      "page": 0
+    },
+    {
+      "question": "Was muss ein SMA machen, wenn er eine Unfallstelle sieht?",
+      "answer": "So nicht zu beantworten!",
+      "page": 0
+    },
+    {
+      "question": "Bei welchen Tätigkeiten greift die DGUV V23?",
+      "answer": "Bei gewerbsmäßigen Bewachungstätigkeiten",
+      "page": 0
+    },
+    {
+      "question": "Was steht in der DGUV V23 über Hundezwinger?",
+      "answer": "Die Zwinger müssen so ausgelegt sein, dass eine Einzelhaltung aller Hunde möglich wird.",
+      "page": 0
+    }
+  ],
+  "RdöSO": [
+    {
+      "question": "Welche Rechte hat die Polizei und welche Rechte haben Sicherheitsmitarbeiter?",
+      "answer": "Polizei Merkwort DSV (Durchsuchen, Sicherstellen/Beschlagnahmen, Verhören), SMA Merkwort NAB (Nachschau, Aufbewahren, Befragen)",
+      "page": 99
+    },
+    {
+      "question": "Wo sind Sicherheitsmitarbeiter tätig?",
+      "answer": "Überwiegend im privaten Hausrechtsbereich. In Einzelfällen auch im öffentlichen Bereich (Public Private Partnership)",
+      "page": 101
+    },
+    {
+      "question": "Was ist Hausrecht?",
+      "answer": "Befugnis zu entscheiden, wer Gebäude und Grundstücke betreten darf, in diesen verweilen oder diese verlassen muss.",
+      "page": 103
+    },
+    {
+      "question": "Wer hat das Hausrecht?",
+      "answer": "Der rechtmäßige Besitzer der Immobilie, kann an SMA vertraglich übertragen werden",
+      "page": 105
+    },
+    {
+      "question": "Was ist das Grundgesetz?",
+      "answer": "Das Grundgesetz gilt als Verfassung der BRD.",
+      "page": 107
+    },
+    {
+      "question": "Was besagt die Ewigkeitsklausel?",
+      "answer": "Änderungen von Art. 1 & Art. 20 sowie der Mitbestimmung der Länder bei der Gesetzgebung sind nach Art. 79 (3) GG nicht möglich",
+      "page": 109
+    },
+    {
+      "question": "Was ist Recht?",
+      "answer": "1.  Die Gesamtheit aller geltenden Rechtsvorschriften 2. Recht gilt immer für einen Personenkreis oder ein Gebiet 3. Recht drückt aus, welche „Werte und Normen zu beachten sind„",
+      "page": 111
+    },
+    {
+      "question": "Was sind Rechtsnormen?",
+      "answer": "Es sind vom Staat aufgestellte Regelungen. (Gesetze, Verordnungen, Satzungen etc.)",
+      "page": 113
+    },
+    {
+      "question": "Was ist die Horizontale Gewaltenteilung?",
+      "answer": "Horizontale Gewaltenteilung: Legislative = Gesetzgebung (Bundestag, Landtag) Judikative = Rechtsprechung (Gerichte, Bundesverfassungsgericht) Exekutive = Ausführung der Gesetze (Regierung, Polizei, Gerichtsvollzieher)",
+      "page": 115
+    },
+    {
+      "question": "Warum gibt es die Gewaltenteilung?",
+      "answer": "Verhinderung von Machtmissbrauch (Willkür), die Gewalten kontrollieren sich gegenseitig",
+      "page": 117
+    },
+    {
+      "question": "Was bedeutet Föderalismus?",
+      "answer": "Machtverteilung zwischen Bund und Länder, (unterschiedliche Gesetze innerhalb der Länder) Merke: Beide Ebenen besitzen eigene Kompetenzen und sind unabhängig voneinander.",
+      "page": 119
+    },
+    {
+      "question": "Wie lauten die Verfassungsprinzipien der BRD?",
+      "answer": "Bundesstaat, Republik, Demokratie, Sozialstaat und Rechtsstaat",
+      "page": 121
+    },
+    {
+      "question": "Wozu dienen die Grundrechte?",
+      "answer": "In erster Linie Abwehrrechte der Bürger gegenüber dem Staat, schützen aber auch gegen rechtswidrige Eingriffe anderer Menschen.",
+      "page": 123
+    },
+    {
+      "question": "Was ist das Bundesstaatsprinzip?",
+      "answer": "Besagt, dass die Staatsgewalt zwischen Bund und mehreren, teils eigenständigen Ländern, aufgeteilt ist. (Föderalismus)",
+      "page": 125
+    },
+    {
+      "question": "Was versteht man unter „Republik“?",
+      "answer": "Staatsoberhaupt nicht aufgrund von Geburt oder Erbe, sondern durch Wahlen.",
+      "page": 127
+    },
+    {
+      "question": "Was bedeutet Demokratie?",
+      "answer": "Jegliche Macht geht vom Volke aus (Volk wählt demokratisch)",
+      "page": 129
+    },
+    {
+      "question": "Was bedeutet, dass Deutschland ein Sozialstaat ist?",
+      "answer": "Verpflichtet den Staat, für soziale Gerechtigkeit, Sicherheit und Chancengleichheit zu sorgen.",
+      "page": 131
+    },
+    {
+      "question": "Was ist das Rechtsstaatsprinzip?",
+      "answer": "Staatliches Handeln ist an Recht und Gesetz gebunden (keine Strafe ohne Gesetz, Rückwirkungsverbot)",
+      "page": 133
+    },
+    {
+      "question": "Wer hat das Sicherheitsmonopol?",
+      "answer": "Niemand. Jeder ist für seine eigene Sicherheit zuständig. Deswegen können private Sicherheitsfirmen Sicherheitsdienstleistungen anbieten.",
+      "page": 135
+    },
+    {
+      "question": "Was ist unter „Gewaltmonopol“ zu verstehen und wer hat das Gewaltmonopol?",
+      "answer": "Das Gewaltmonopol ist das Vorrecht, Gewalt auszuüben. Es hat grundsätzlich nur der Staat. Der Bürger darf nur in Ausnahmefällen (Notwehr, Notstand etc.) Gewalt anwenden.",
+      "page": 137
+    },
+    {
+      "question": "Was sind hoheitliche Rechte?",
+      "answer": "Hoheitliche Rechte stehen grundsätzlich nur staatlichen Organen zur Verfügung. Jedoch können diese auch auf Sicherheitsmitarbeiter übertragen werden (staatliche Beleihung).",
+      "page": 139
+    },
+    {
+      "question": "Wofür steht die Abkürzung P-P-P?",
+      "answer": "PUBLIC PRIVATE PARTNERSHIP Zusammenarbeit von öffentlichen (Polizei, Ordnungsamt etc.) & privaten Dienstleistern (privater Sicherheitsdienst) (Kooperationsvereinbarung)",
+      "page": 141
+    },
+    {
+      "question": "Was bedeutet das Opportunitätsprinzip?",
+      "answer": "Staatsanwaltschaft kann bei Vergehen von Verfolgung absehen → geringe Schuld oder kein öffentliches Interesse. Rechtsgrundlage: § 153 StPO – Einstellung § 153a StPO – Einstellung mit Auflagen Besonderheit: Ausnahme vom Legalitätsprinzip (§ 152 Abs. 2 StPO). Merke: engl. opportunity = Gelegenheit, Möglichkeit",
+      "page": 143
+    },
+    {
+      "question": "In welche Rechtsgebiete teilt sich das Rechtssystem und was regeln diese?",
+      "answer": "Öffentliches Recht – Staat gegen Bürger - Der Bürger ist dem Staat untergeordnet (Subordinationsprinzip), Privates Recht – „Bürger gegen Bürger“ - Die Parteien sind gleichgestellt (Koordinationsprinzip)",
+      "page": 145
+    },
+    {
+      "question": "Woraus besteht ein Staat?",
+      "answer": "Staatsgebiet, Staatsvolk, Staatsgewalt",
+      "page": 147
+    },
+    {
+      "question": "Für wen gelten die Menschenrechte?",
+      "answer": "Für ALLE Menschen auf deutschem Staatsgebiet",
+      "page": 149
+    },
+    {
+      "question": "Für wen gelten die Bürgerrechte?",
+      "answer": "Für Menschen mit deutscher Staatsangehörigkeit auf deutschem Staatsgebiet.",
+      "page": 151
+    },
+    {
+      "question": "Nenne Menschenrechte!",
+      "answer": "Art. 1 GG – Menschenwürde Art. 2 Abs. 2 GG – Recht auf Leben und körperlicheUnversehrtheit / Freiheit der Person Art. 3 GG – Gleichheitsgrundsatz / Diskriminierungsverbot Art. 5 GG – Meinungsfreiheit Art. 13 GG – Unverletzlichkeit der Wohnung Art. 14 GG – Recht auf Eigentum(Art. 104 GG)",
+      "page": 153
+    },
+    {
+      "question": "Nenne Bürgerrechte!",
+      "answer": "Art. 8 GG – Versammlungsfreiheit Art. 9 GG – Vereinigungsfreiheit Art. 11 GG – Freizügigkeit Art. 12 GG – Berufsfreiheit",
+      "page": 155
+    },
+    {
+      "question": "Nenne die wichtigsten Rechtsgüter.",
+      "answer": "Leben, Leib, Freiheit, Eigentum, Ehre",
+      "page": 157
+    },
+    {
+      "question": "Was ist befriedetes/ eingefriedetes Besitztum?",
+      "answer": "Ein Grundstück, das durch Zäune, Mauern oder andere Barrieren klar abgegrenzt ist",
+      "page": 159
+    },
+    {
+      "question": "Was darf man mit welcher Ausbildung?",
+      "answer": "GSSK / FKSS: Leitende Funktion bei Sicherheitsdienstleistungen nach DIN 77200, sowie",
+      "page": 0
+    },
+    {
+      "question": "Was ist der zivile Rechtsweg?",
+      "answer": "Der zivile Rechtsweg beschreibt, die Situation in der (min.) zwei Bürger ein öffentliches Gericht in",
+      "page": 0
+    },
+    {
+      "question": "Was bedeutet Legalitätsprinzip?",
+      "answer": "Die Verpflichtung für Polizei / Staatsanwaltschaft ein Ermittlungsverfahren einzuleiten, sobald ihnen",
+      "page": 0
+    },
+    {
+      "question": "Missachtung der Vorschriften, Folgen?",
+      "answer": "Ordnungswidrigkeiten, Geldbuße",
+      "page": 0
+    },
+    {
+      "question": "Was sind Sicherheitstüren?",
+      "answer": "Sicherheitstüren sind Türen, mit erhöhter Schutzfunktion und Widerstandswert, die eingesetzt",
+      "page": 0
+    },
+    {
+      "question": "Mit was kann ich große Glasfronten sichern?",
+      "answer": "Durch einbruchhemmende Sicherheitsfolien, Gitter, Rollläden",
+      "page": 0
+    },
+    {
+      "question": "Was ist Hausrecht? 2x",
+      "answer": "Ein Rechtsgut, dass wir nicht von Geburt an haben, sondern im Laufe unseres Leben erwerben können (durch Unterschrift des Mitvertrages, oder den Kauf einer Immobilie). Als Hausrechtsinhaber können wir Regeln für das Verhalten in unserem Hausrechtsbereich a ufstellen und darüber bestimmen, wer sich in unserem Hausrechtsbereich aufhalten darf.",
+      "page": 0
+    },
+    {
+      "question": "Was ist PPP? Welche Behörden sind Teil der PPP? 2x",
+      "answer": "Public Private Partnership – Eine Kooperation zwischen Polizei / Ordnungsamt und privaten Sicherheitsdienstleistern",
+      "page": 0
+    }
+  ],
+  "Rechtfertigungsgründe": [
+    {
+      "question": "Erkläre die Notwehr gem. § 32 StGB.",
+      "answer": "Notwehr ist die Verteidigung, die erforderlich ist, um einen gegenwärtigen rechtswidrigen Angriff von sich oder einem anderen abzuwenden. Schutz vor Geld- und Freiheitsstrafe.",
+      "page": 25
+    },
+    {
+      "question": "Erkläre die Putativnotwehr!",
+      "answer": "Die Putativnotwehr ist eine irrtümlich angenommene Notwehrlage.",
+      "page": 27
+    },
+    {
+      "question": "Welche Voraussetzungen müssen für die allgemeine Selbsthilfe gem. § 229 BGB erfüllt sein?",
+      "answer": "1. Einklagbarer Rechtsanspruch, 2. Obrigkeitliche Hilfe nicht rechtzeitig zu erlangen, 3. Ohne sofortiges Eingreifen besteht die Gefahr, dass die Durchsetzung des Anspruchs wesentlich erschwert oder vereitelt wird.",
+      "page": 29
+    },
+    {
+      "question": "Nenne die Voraussetzungen der vorläufigen Festnahme!",
+      "answer": "1. Auf frischer Tat (Straftat muss vorliegen) betroffen oder verfolgt 2. Fluchtverdacht oder Identität nicht feststellbar 3. Strafmündig (min. 14 Jahre alt)",
+      "page": 31
+    },
+    {
+      "question": "Nenne mir alle 8 Rechtfertigungsgründe!",
+      "answer": "§ 32  StGB  Notwehr, § 34  StGB  rechtfertigender Notstand, § 127 (1)  StPO  vorläufige Festnahme, § 227  BGB  Notwehr, § 228  BGB  Notstand (Defensivnotstand), § 229  BGB  Selbsthilfe, § 859/ BGB  Selbsthilfe des Besitzers/Besitzdieners, § 860 § 904 BGB  Notstand (Aggressivnotstand)",
+      "page": 33
+    },
+    {
+      "question": "Was darf man gem. des Verteidigungsnotstandes beziehungsweise Defensivnotstandes tun?",
+      "answer": "Ich darf eine Sache beschädigen oder zerstören, um eine durch diese Sache drohende Gefahr abzuwenden.",
+      "page": 35
+    },
+    {
+      "question": "Erkläre mir den Unterschied zwischen Defensivnotstand und Aggressivnotstand!",
+      "answer": "Der Defensivnotstand gestattet die Beschädigung oder Zerstörung einer Sache, um eine durch sie drohende Gefahr abzuwenden. Der Aggressivnotstand gestattet den Eingriff in das Rechtsgut „Eigentum“ eines unbeteiligten Dritten, um eine gegenwärtige Gefahr abzuwenden.",
+      "page": 37
+    },
+    {
+      "question": "Darfst du dich mit der Notwehr gegen den gegenwärtigen Angriff eines Tieres verteidigen?",
+      "answer": "Nein, denn die Notwehr ist bestimmt, um sich gegen gegenwärtige und rechtswidrige Angriffe anderer Menschen zu erwehren.",
+      "page": 39
+    },
+    {
+      "question": "Darfst du dich gegen den gegenwärtigen Angriff eines auf dich gehetzten Hundes mittels Notwehr erwehren?",
+      "answer": "Ja! Wenn ein Hund absichtlich von einem Menschen aufgehetzt wird, ist er als Waffe / gefährliches Werkzeug des Menschen anzusehen. (Ja, wenn ein menschlicher Wille dahinter steht)",
+      "page": 41
+    },
+    {
+      "question": "Wann ist ein Angriff „gegenwärtig“?",
+      "answer": "Wenn der Angriff unmittelbar bevorsteht oder bereits begonnen hat und noch nicht beendet ist. - steht unmittelbar bevor - findet statt - dauert an",
+      "page": 43
+    },
+    {
+      "question": "Wann ist ein Angriff „rechtswidrig“?",
+      "answer": "Grundsätzlich ist jeder Angriff rechtswidrig, es sei denn, der Angreifer hat einen Rechtfertigungsgrund. (z.B. aggressiv Notstand)",
+      "page": 45
+    },
+    {
+      "question": "Bist du als Sicherheitsmitarbeiter immer dazu verpflichtet, einen Täter nach einer Straftat vorläufig festzunehmen?",
+      "answer": "Nein, denn ich muss mich als Sicherheitsmitarbeiter nicht in erhebliche, eigene Gefahr begeben.",
+      "page": 47
+    },
+    {
+      "question": "Wie lautet das Verteidigungsmittel gegen eine gegenwärtige Besitzstörung?",
+      "answer": "Besitzwehr im Rahmen der Selbsthilfe des Besitzers.",
+      "page": 49
+    },
+    {
+      "question": "Wie lautet das Verteidigungsmittel gegen einen Besitzentzug?",
+      "answer": "Besitzkehr im Rahmen der Selbsthilfe des Besitzers.",
+      "page": 51
+    },
+    {
+      "question": "Was besagt die Selbsthilfe des Besitzers?",
+      "answer": "Der Besitzer darf sich gegen verbotene Eigenmacht mit Gewalt erwehren.",
+      "page": 53
+    },
+    {
+      "question": "Was besagt die Selbsthilfe des Besitzdieners ?",
+      "answer": "Der Besitzdiener darf sich im Auftrag des Besitzers bei verbotener Eigenmacht mit Gewalt erwehren.",
+      "page": 55
+    },
+    {
+      "question": "Was sind Jedermannsrechte/ Ausnahmerechte?",
+      "answer": "Rechte, die allen Menschen in der BRD in Ausnahmefällen zur Verfügung stehen, um das eigene Recht durchzusetzen, wenn andere Abhilfe nicht möglich ist.",
+      "page": 57
+    },
+    {
+      "question": "Was bedeutet „geboten“ im Sinne der Notwehr?",
+      "answer": "Gebotenheit = rechtliche und sittliche also sozial erträgliche Grenzen der Notwehr.",
+      "page": 59
+    },
+    {
+      "question": "Was bedeutet „Verteidigung“ im Sinne der Notwehr?",
+      "answer": "Die Handlung im Rahmen der Notwehr muss mit dem Willen zur Abwehr erfolgen und nicht aus Rache oder dergleichen stattfinden.",
+      "page": 61
+    },
+    {
+      "question": "Was bedeutet „erforderlich“ im Sinne der Notwehr?",
+      "answer": "Die Handlung muss objektiv dazu geeignet sein, den Angriff zu beenden oder zumindest abzuschwächen. Zugleich muss es das mildeste unter allen wirksamen Mitteln darstellen, welches am wenigsten Schaden verursacht.",
+      "page": 63
+    },
+    {
+      "question": "Wann ist eine Nothilfehandlung zulässig?",
+      "answer": "Bei der Nothilfe muss der Angegriffene klar zu erkennen geben, dass die Nothilfe erwünscht und erforderlich ist.",
+      "page": 65
+    },
+    {
+      "question": "Darfst du ein 12 jähriges Kind nach einem Ladendiebstahl gem. § 127 (1) StPO vorläufig festnehmen?",
+      "answer": "Nein! Das Kind ist gemäß § 19 StGB schuldunfähig und kann wegen begangener Straftaten nicht bestraft werden.",
+      "page": 67
+    },
+    {
+      "question": "Welche Rechtsgüter sind notwehrfähig?",
+      "answer": "Notwehrfähig ist jedes sogenannte Individualrechtsgut.",
+      "page": 69
+    },
+    {
+      "question": "Was musst Du beachten, wenn Du einen Täter vorläufig festnehmen?",
+      "answer": "Eine vorläufige Festnahme nach § 127 Abs. 1 StPO ist nur zulässig, wenn der Täter auf frischer Tat betroffen oder verfolgt wird, Fluchtgefahr besteht oder seine Identität nicht feststellbar ist.",
+      "page": 71
+    },
+    {
+      "question": "Darfst du einen Kunden mit Hausverbot gewaltsam des Hausrechtsbereiches verweisen?",
+      "answer": "Ja! Du darfst den Kunden notfalls mit angemessener Gewalt vor die Tür begleiten. (§§ 855, 859, 860 BGB – Selbsthilfe des Besitzdieners).",
+      "page": 73
+    },
+    {
+      "question": "Für wen gelten die Jedermannsrechte in der Bundesrepublik Deutschland?",
+      "answer": "Für alle Menschen uneingeschränkt gleich, daher werden sie Jedermannsrechte genannt.",
+      "page": 75
+    },
+    {
+      "question": "Gibt es Spezialgesetze für das private Sicherheitsgewerbe?",
+      "answer": "Nein, nur die Ausnahmerechte/ Jedermannrechte und die vertraglich übertragenen Selbsthilferechte.",
+      "page": 77
+    },
+    {
+      "question": "Dürfen Sicherheitsmitarbeiter von Bürgern vorläufig festgenommen werden?",
+      "answer": "Ja, wenn alle Voraussetzungen für eine vorläufige Festnahme gegeben sind.",
+      "page": 79
+    },
+    {
+      "question": "In welchen gesetzlichen Grundlagen sind die Rechtfertigungsgründe aufgeführt?",
+      "answer": "StPO, StGB, BGB, OWiG",
+      "page": 81
+    },
+    {
+      "question": "Wann spricht man von einem Notwehrexzess?",
+      "answer": "Wenn der Täter die Grenzen der Notwehr aus Verwirrung, Furcht oder Schrecken überschritten hat, handelt er ohne Schuld.",
+      "page": 83
+    },
+    {
+      "question": "Auf welcher Rechtsgrundlage kannst du in das Eigentum eines anderen einwirken, ohne das es dir verwehrt werden kann?",
+      "answer": "Der Notstand (Aggressivnotstand) nach § 904 BGB.",
+      "page": 85
+    },
+    {
+      "question": "Musst du nach dem Aggressivnotstand und Defensivnotstand nach §§ 228, 904 BGB Schadenersatz leisten?",
+      "answer": "Bei dem Defensivnotstand ist man nur zum Schadenersatz verpflichtet, wenn der Schaden außer Verhältnis zur Gefahr stand oder man die Gefahr selbst verschuldet hat. Beim Aggressivnotstand ist man generell zum Schadenersatz verpflichtet.",
+      "page": 87
+    },
+    {
+      "question": "Was ist der Unterschied zwischen einer drohenden und einer gegenwärtigen Gefahr?",
+      "answer": "Der Faktor Zeit ist der Unterschied. Bei einer drohenden Gefahr besteht ein größerer zeitlicher Abstand zwischen „es könnte etwas passieren“ und „es wird etwas passieren“/ Der Eintritt eines Schadens ist ernstlich zu befürchten. Bei einer gegenwärtigen Gefahr wird ohne Eingreifen in kürzester Zeit ein Schaden entstehen.",
+      "page": 89
+    },
+    {
+      "question": "Was musst du bei einer Handlung im Rahmen des rechtfertigenden Notstandes nach § 34 beachten?",
+      "answer": "Du darfst ein Rechtsgut verletzen, um ein höherwertiges Rechtsgut zu schützen. Es muss sich um eine gegenwärtige nicht anders abwendbare Gefahr handeln. (Rechtsgüterabwägung)",
+      "page": 91
+    },
+    {
+      "question": "Was ist der Unterschied zwischen Rechtfertigungsgründen und Entschuldigungsgründen?",
+      "answer": "Rechtfertigungsgründe: Rechtfertigen das eigene Handeln (keine Rechtswidrigkeit/ Widerrechtlichkeit), Entschuldigungsgründe entschuldigen das eigene Handeln. (Die Schuld entfällt beim Deliktaufbau)",
+      "page": 93
+    },
+    {
+      "question": "Was ist der Unterschied zwischen Notwehr und Notstand?",
+      "answer": "Notwehr: Angriff = durch einen Menschen, Notstand (StGB): Gefahr = Sachen, Tiere, ggf. Menschen, Notstand (BGB): Gefahr = Sachen und Tiere",
+      "page": 95
+    },
+    {
+      "question": "In welchen gesetzlichen Grundlagen ist das Notwehrrecht aufgeführt?",
+      "answer": "§ 32 StGB Notwehr, § 15 OWiG Notwehr, § 227 BGB Notwehr",
+      "page": 97
+    },
+    {
+      "question": "Wo ist der Unterschied Notwehr BGB/STGB?",
+      "answer": "Notwehr BGB schützt von S chadenersatz und Schmerzensgeld, Notwehr im StGB schützt vor",
+      "page": 0
+    },
+    {
+      "question": "Was wird uns SMA übertragen?",
+      "answer": "Übertragen werden können die Selbsthilferechte der Kunden, sowie das Hausrecht des Kunden . Im",
+      "page": 0
+    },
+    {
+      "question": "Welches Recht wird dem Besitzdiener übertragen?",
+      "answer": "Die Selbsthilfe des Besitzer dieners  (§860 BGB) erlaubt auch dem Besitzdiener sich gegen verbotene",
+      "page": 0
+    },
+    {
+      "question": "Warum gibt es die Notwehr im §227?",
+      "answer": "Dieser § schützt uns vor Schadenersatz - & Schmerzensgeldforderugnen des Angreifers, gegen den wir",
+      "page": 0
+    },
+    {
+      "question": "Was sind  Selbsthilferechte? Darf die jeder anwenden?",
+      "answer": "Die Selbsthilferechte sind Ausnahmerechte im BGB, die es dem Handelnden ermöglichen",
+      "page": 0
+    },
+    {
+      "question": "Was ist der Unterschied zwischen Angriffsnotstand und Verteidigungsnotstand?",
+      "answer": "Verteidigungsnotstand: Gefahrenabwehr mit EIGENEN Mitteln",
+      "page": 0
+    },
+    {
+      "question": "welche m zivilem Recht dürfen Sie die beiden Kinder aufhalten?",
+      "answer": "§859 BGB Selbsthilfe des Besitzers (Wenn die Wand in meinem Besitz steht)",
+      "page": 0
+    },
+    {
+      "question": "Was versteht man unter geeignete Mittel bei der Notwehr wählen?",
+      "answer": "Einsatz des mildesten, erfolgversprechenden Mittels – das mildeste Mittel ist das, welches die Rechte",
+      "page": 0
+    },
+    {
+      "question": "Was für einen Notstand gibt es im StGB?",
+      "answer": "Rechtfertigender Notstand gem. §34 StGB",
+      "page": 0
+    },
+    {
+      "question": "Rechtfertigungsgrund?",
+      "answer": "Der entschuldigende Notstand entschuldigt ein rechtswidriges – also nicht gerechtfertigtes Handeln.",
+      "page": 0
+    },
+    {
+      "question": "Fallbeispiel #1: Sie erwischen eine 13 -jährige beim Diebstahl im Kaufhaus. Was dürfen Sie machen?",
+      "answer": "Ich darf das Rechtsgut Eigentum des Kaufhausbetreibers im Rahmen der Notwehr gem. §32 StGB",
+      "page": 0
+    },
+    {
+      "question": "Ist Notwehr zulässig?",
+      "answer": "Ja, allerdings unter Beachtung der besonderen Situation, dass ein Kind mich mit Tritten vor mein",
+      "page": 0
+    },
+    {
+      "question": "Fallbeispiel #6: Ein Jugendlicher zerkratzt ihr Auto, was machen Sie?",
+      "answer": "Ich verteidige mein Rechtsgut Eigentum im Rahmen der Notwehr  gem. §32 StGB. Wenn der",
+      "page": 0
+    },
+    {
+      "question": "Welche rechtliche Grundlage haben SMA, um in Rechtsgüter anderer einzugreifen? 7x",
+      "answer": "SMA haben KEINE hoheitlichen Rechte! Sie verfügen über die Ausnahmerechte, die ihnen persönlich zustehen und darüber hinaus ggf. über übertragene Selbsthilferechte der Kunden. Im Falle einer PPP (Public Private Partnership) können SMA einzelne hoheitliche Rechte ausnahmsweise für ihren Dienst „verliehen“ werden. Überblick Rechtfertigungsgründe mit Paragrafen 6x §227 BGB Notwehr §228 BGB verteidigender / defensiver Notstand §229 BGB (allgemeine) Selbsthilfe §859 BGB Selbsthilfe des Besitzers §860 BGB Selbsthilfe des Besitzdieners §904 BGB angreifender / aggressiver Notstand §32 StGB Notwehr §34 StGB rechtfertigender Notstand §127 Abs. 1 StPO vorläufige Festnahme Bearbeitungsstand: TB 15.05.202 4 Jedermanns -Rechte aufzählen 2x §227 BGB Notwehr §228 BGB verteidigender / defensiver Notstand (§229 BGB (allgemeine) Selbsthilfe  – Jeder darf helfen; aber nur sich selbst ) (§859 BGB Selbsthilfe des Besitzers  – Jeder darf helfen; aber nur wenn er selbst Besitzer ist) §904 BGB angreifender / aggressiver Notstand §32 StGB Notwehr §34 StGB rechtfertigender Notstand §127 Abs. 1 StPO vorläufige Festnahme",
+      "page": 0
+    },
+    {
+      "question": "Warum steht die Notwehr in verschiedenen Rechtsnormen? 5x",
+      "answer": "Die Notwehr im StGB brauchen wir, damit wir nicht bestraft werden, wenn wir in Notwehr jemand anderen verletzen und die Notwehr im BGB schützt uns von Schadenersatz und Schmerzensgeldansprüchen, wenn wir in Notwehr jemanden verletzen.",
+      "page": 0
+    },
+    {
+      "question": "Welche Notstände kennen Sie? Mit Angabe der §Nummern",
+      "answer": "§228 BGB verteidigender / defensiver Notstand §904 BGB angreifender / aggressiver Notstand §34 StGB rechtfertigender Notstand §35 StGB entschuldigender Notstand",
+      "page": 0
+    }
+  ],
+  "StGB": [
+    {
+      "question": "Welche Rechtsnormen sind für das Straf- und Strafverfahrensrecht relevant?",
+      "answer": "Strafgesetzbuch (StGB) und Strafprozessordnung (StPO) sowie strafrechtlich relevante Nebengesetze Waffengesetz (WaffG), Betäubungsmittelgesetz (BtMG), Bundesdatenschutzgesetz (BDSG) Gewerbeordnung (GewO)",
+      "page": 333
+    },
+    {
+      "question": "Was besagt § 1 im Strafgesetzbuch?",
+      "answer": "Keine Strafe ohne Gesetz! Niemand darf ohne bestehendes Gesetz für eine Handlung bestraft werden. Niemand darf rückwirkend bestraft werden!",
+      "page": 335
+    },
+    {
+      "question": "Wie lautet der dreistufige Deliktsaufbau?",
+      "answer": "Tatbestandsmäßigkeit, Rechtswidrigkeit Schuld",
+      "page": 337
+    },
+    {
+      "question": "Was ist Tatbestandsmäßigkeit?",
+      "answer": "Die Tatbestandsmäßigkeit wird in objektiven und subjektiven Tatbestand unterteilt. Es geht um eine Handlung, welche per Gesetz unter Strafe gestellt ist.",
+      "page": 339
+    },
+    {
+      "question": "Aus welchen 2 Teilen besteht das Strafgesetzbuch (StGB)?",
+      "answer": "Aus dem allgemeinen Teil und dem besonderen Teil.",
+      "page": 341
+    },
+    {
+      "question": "Was befindet sich im allgemeinen Teil des Strafgesetzbuches (StGB)?",
+      "answer": "Im Allgemeinen Teil des Strafgesetzbuches (§§ 1–79b StGB) stehen die grundlegenden Regeln, die für alle Straftaten gelten: Voraussetzungen der Strafbarkeit (z. B. Tatbestand, Rechtswidrigkeit, Schuld) Arten von Strafen (Freiheitsstrafe, Geldstrafe) und deren Bemessung Regelungen zu Versuch, Teilnahme und Täterschaft Kurz gesagt: Der Allgemeine Teil liefert die Grundstruktur des Strafrechts – der Besondere Teil listet dann die einzelnen Straftatbestände.",
+      "page": 343
+    },
+    {
+      "question": "Wann ist ein erfüllter Tatbestand rechtswidrig?",
+      "answer": "Grundsatz: Jeder erfüllte Tatbestand ist rechtswidrig Ausnahme: Der Täter hat einen Rechtfertigungsgrund",
+      "page": 345
+    },
+    {
+      "question": "Ab welchem Alter ist ein Mensch schuldfähig?",
+      "answer": "Jede natürliche Person ist ab dem vollendeten 14. Lebensjahr schuldfähig.",
+      "page": 347
+    },
+    {
+      "question": "Was ist ein Antragsdelikt?",
+      "answer": "Nur der Geschädigte oder eine bevollmächtigte Person kann den Strafantrag einreichen. Der Strafantrag muss innerhalb von 3 Monaten gestellt werden.",
+      "page": 349
+    },
+    {
+      "question": "Was ist die Schuld?",
+      "answer": "Die Schuld ist die persönliche Vorwerfbarkeit des Unrechts.",
+      "page": 351
+    },
+    {
+      "question": "Was können Schuldausschließungsgründe sein?",
+      "answer": "Wenn der Täter das 14. Lebensjahr noch nicht vollendet hat. Wenn ein Entschuldigungsgrund vorliegt. Wenn der Täter z.B. eine krankhafte seelische Störung hat.",
+      "page": 353
+    },
+    {
+      "question": "Was ist der objektive Tatbestand?",
+      "answer": "Der objektive Tatbestand beschreibt alles, was beobachtet werden kann. Wer hat die Tat begangen, wie wurde die Tat begangen, womit wurde die Tat begangen usw.",
+      "page": 355
+    },
+    {
+      "question": "Was ist der subjektive Tatbestand?",
+      "answer": "Der subjektive Tatbestand : „Die Seele der Tat“ behandelt die innere Motivation des Täters - Grundsätzlich wird hier in Vorsatz oder Fahrlässigkeit unterschieden.",
+      "page": 357
+    },
+    {
+      "question": "Was ist ein Vergehen?",
+      "answer": "Vergehen sind Straftaten, die mit Mindestfreiheitsstrafe unter einem Jahr oder Geldstrafe bestraft werden.",
+      "page": 359
+    },
+    {
+      "question": "Was ist ein Verbrechen?",
+      "answer": "Verbrechen sind Straftaten, die mit Mindestfreiheitsstrafe ab einem Jahr bestraft werden.",
+      "page": 361
+    },
+    {
+      "question": "Welche Unterschiede gibt es zwischen Verbrechen und Vergehen?",
+      "answer": "Verbrechen = Mindestfreiheitsstrafe ab 1 Jahr, immer Offizialdelikte, Versuch immer strafbar Vergehen = Mindestfreiheitsstrafe unter 1 Jahr oder Geldstrafe, meistens Offizialdelikte, Ausnahmen sind Antragsdelikte",
+      "page": 363
+    },
+    {
+      "question": "Wann spricht man von dem Versuch einer Straftat?",
+      "answer": "Wenn jemand von der Vorstellung der Tat unmittelbar zur Verwirklichung des Tatbestandes unmittelbar ansetzt. (z.B. Anlegen der Waffe)",
+      "page": 365
+    },
+    {
+      "question": "Was ist Absicht?",
+      "answer": "Wenn der Täter mit einer bestimmten Absicht handelt. Das ist der Vorsatz in gesteigerter Form. Zum Beispiel die rechtswidrige Zueignungsabsicht bei einem Diebstahl.",
+      "page": 367
+    },
+    {
+      "question": "Was ist ein echtes Unterlassungsdelikt?",
+      "answer": "Das Unterlassen einer Handlung wird bestraft! 1. Unterlassene Hilfeleistung § 323c StGB 2. Nichtanzeige geplanter Straftaten § 138 StGB 3. Hausfriedensbruch § 123 StGB",
+      "page": 369
+    },
+    {
+      "question": "Was ist ein unechtes Unterlassungsdelikt?",
+      "answer": "Wenn jemand dafür verantwortlich ist, einen Taterfolg zu verhindern (Garantenpflicht), dies jedoch unterlässt. (§ 13 StGB)",
+      "page": 371
+    },
+    {
+      "question": "Was bedeutet das Legalitätsprinzip?",
+      "answer": "Verpflichtung der Behörden zur Strafverfolgung bei Offizialdelikten.",
+      "page": 373
+    },
+    {
+      "question": "Was ist „Beihilfe“?",
+      "answer": "Beihilfe heißt, dass man dem Täter vorsätzlich bei seiner begangenen Tat Hilfe leistet durch Rat oder Tat ohne eigenes Interesse am Taterfolg.",
+      "page": 375
+    },
+    {
+      "question": "Was versteht man unter „Täterschaft“?",
+      "answer": "Als Täter wird bestraft, wer die Straftat selbst oder durch einen anderen begeht.",
+      "page": 377
+    },
+    {
+      "question": "Was ist „mittelbare“ Täterschaft?",
+      "answer": "Wer jemand anderen als „Werkzeug“ nutzt, um eine Straftat zu begehen.",
+      "page": 379
+    },
+    {
+      "question": "Was ist „Mittäterschaft“?",
+      "answer": "Mittäter ist, wer eine Straftat gemeinschaftlich aufgrund bewussten und gewollten Zusammenwirken begeht. (Mehrere Straftäter gemeinsam)",
+      "page": 381
+    },
+    {
+      "question": "Ein Dieb wurde vorläufig festgenommen. Im Büro des Ladendedektives legt er neben der Beute auch ein Einhandmesser auf den Tisch. Wonach hat sich der Täter strafbar gemacht?",
+      "answer": "§ 244 StGB – Diebstahl mit Waffen",
+      "page": 383
+    },
+    {
+      "question": "Was ist eine „Unterschlagung“?",
+      "answer": "Eine Unterschlagung begeht, wer eine fremde bewegliche Sache rechtswidrig einbehält, obwohl er zur Herausgabe verpflichtet ist.",
+      "page": 385
+    },
+    {
+      "question": "Was ist „Diebstahl“?",
+      "answer": "Die Wegnahme einer fremden beweglichen Sache in rechtswidriger Zueignungsabsicht für sich oder Dritte.",
+      "page": 387
+    },
+    {
+      "question": "Was ist der Unterschied zwischen Diebstahl und Unterschlagung?",
+      "answer": "Bei der Unterschlagung ist der Täter zuvor rechtsmäßig in den Besitz der Sache gekommen, ergo entfällt die Wegnahme.",
+      "page": 389
+    },
+    {
+      "question": "Was ist „Raub“?",
+      "answer": "Raub ist die Wegnahme einer fremden, beweglichen Sache in rechtswidriger Zueignungsabsicht und unter Anwendung von Gewalt oder Androhung einer gegenwärtigen Gefahr für Leben oder Leib.",
+      "page": 391
+    },
+    {
+      "question": "Was ist „räuberischer Diebstahl“?",
+      "answer": "Bei einem räuberischen Diebstahl wird der Täter auf frischer Tat beim Diebstahl betroffen oder verfolgt. Er nutzt das Nötigungsmittel aus dem Raub, um gezielt im Besitz des Diebesgutes zu bleiben.",
+      "page": 393
+    },
+    {
+      "question": "Was ist der besonders schwere Fall des Diebstahls?",
+      "answer": "• Diebstahl aus verschlossenen Räumen • Besonders gegen Wegnahme gesicherte Gegenstände, • Gewerbsmäßig, • Hilflosigkeit einer Person ausnutzen, • Diebstahl aus Religionsgebäuden • Diebstahl aus Museen, • stehlen von Waffen/Munition/Sprengstoff",
+      "page": 395
+    },
+    {
+      "question": "Was ist Diebstahl geringwertiger Güter?",
+      "answer": "Diebstahl von Sachen im Wert von unter 50€.",
+      "page": 397
+    },
+    {
+      "question": "Erkläre Amtsanmaßung § 132 StGB!",
+      "answer": "Amtsanmaßung (§ 132 StGB) Wer unbefugt ein öffentliches Amt ausübt oder eine Handlung vornimmt, die nur kraft eines öffentlichen Amtes vorgenommen werden darf, macht sich strafbar. Beispiel: Sich als Polizist ausgeben und Personenkontrollen durchführen. Eine Uniform oder Amtsbezeichnung führen, um amtlich zu wirken.",
+      "page": 399
+    },
+    {
+      "question": "„Auf welche Weise kann eine Beleidigung gemäß § 185 StGB begangen werden?“",
+      "answer": "• durch Wort • durch Geste • durch Bild • durch Schrift • anspucken nennt man eine tätliche Beleidigung",
+      "page": 401
+    },
+    {
+      "question": "Was ist eine fahrlässige Körperverletzung?",
+      "answer": "Wenn jemand die körperliche Unversehrtheit oder Gesundheit eines anderen verletzt, indem er die im Verkehr gebotene Sorgfalt außer Acht lässt.",
+      "page": 403
+    },
+    {
+      "question": "Erläutere den Straftatbestand der Hehlerei gem. § 259 StGB.",
+      "answer": "Hehlerei ist eine Straftat, bei der jemand gestohlene, unterschlagene oder durch Raub oder Erpressung erlangte Sachen kauft, sich verschafft, absetzt oder beim Absatz hilft, um sich oder eine andere Person zu bereichern.",
+      "page": 405
+    },
+    {
+      "question": "Was ist eine Körperverletzung?",
+      "answer": "Wer eine andere Person körperlich misshandelt oder an der Gesundheit schädigt.",
+      "page": 407
+    },
+    {
+      "question": "Was ist eine gefährliche Körperverletzung?",
+      "answer": "Körperverletzung mittels: • durch Beibringung von Gift oder anderen gesundheitsschädlichen Stoffen, • mittels einer Waffe oder eines anderen gefährlichen Werkzeugs, • mittels eines hinterlistigen Überfalls • mit einem anderen Beteiligten gemeinschaftlich • oder mittels einer das Leben gefährdenden Behandlung",
+      "page": 409
+    },
+    {
+      "question": "Was ist eine schwere Körperverletzung?",
+      "answer": "Hat die Körperverletzung zur Folge, daß die verletzte Person 1. das Sehvermögen auf einem Auge oder beiden Augen, das Gehör, das Sprechvermögen oder die Fortpflanzungsfähigkeit verliert, 2. ein wichtiges Glied des Körpers verliert oder dauernd nicht mehr gebrauchen kann oder 3. in erheblicher Weise dauernd entstellt wird oder in Siechtum, Lähmung oder geistige Krankheit oder Behinderung verfällt.",
+      "page": 411
+    },
+    {
+      "question": "Was ist der Unterschied zwischen einer gefährlichen und einer schweren Körperverletzung?",
+      "answer": "Gefährliche Körperverletzung (§ 224 StGB) → Besonders riskante Ausführung (z. B. Waffe, gefährliches Werkzeug, gemeinschaftlich). Schwere Körperverletzung (§ 226 StGB) → Dauerhafte Folgen (z. B. Verlust von Sinnesorganen, Gliedmaßen, Entstellung). Merke: Gefährlich = Wie Schwer = Die Folgen",
+      "page": 413
+    },
+    {
+      "question": "Was ist eine körperliche Misshandlung?",
+      "answer": "Beeinträchtigung der körperlichen Unversehrtheit (z.B. Beibringen einer Wunde,  Ausschlagen von Zähnen, dem Abschneiden von Haaren)",
+      "page": 415
+    },
+    {
+      "question": "Was gilt als Gesundheitsschädigung?",
+      "answer": "Das vorsätzliche Schädigen oder Verschlechtern der Gesundheit eines anderen Menschen. (z.B. Herbeiführung eines Schockzustandes)",
+      "page": 417
+    },
+    {
+      "question": "Was ist Betrug?",
+      "answer": "„Betrug ist das vorsätzliche Täuschen zur Erlangung eines rechtswidrigen Vermögensvorteils durch Schädigung eines Irrenden.“",
+      "page": 419
+    },
+    {
+      "question": "Was bedeutet Hausfriedensbruch?",
+      "answer": "Das rechtswidrige Eindringen oder Verweilen in eine Wohnung oder einem befriedeten Besitztum.",
+      "page": 421
+    },
+    {
+      "question": "Was ist Urkundenfälschung?",
+      "answer": "Zur Täuschung im Rechtsverkehr: 1. Unechte Urkunde herstellen 2. Echte Urkunde verfälschen 3. Echte/Unechte Urkunde benutzen Beispiel: Zeugnisnoten auf bessere ändern, um im Bewerbungsgespräch bessere Chancen zu erhalten",
+      "page": 423
+    },
+    {
+      "question": "Was ist das Erschleichen von Leistungen?",
+      "answer": "Wenn du heimlich eine Leistung nutzt, für die du eigentlich bezahlen müsstest, das aber nicht tust. z.B. Person schleicht auf das Festivalgelände Person fährt bewusst ohne Ticket im Zug/Bus",
+      "page": 425
+    },
+    {
+      "question": "Was ist eine Bedrohung?",
+      "answer": "Bedrohung (§ 241 StGB) → Wer einem anderen mit der Begehung eines Verbrechens droht, macht sich strafbar. → Auch strafbar: Drohung mit einer rechtswidrigen Tat gegen Leben, körperliche Unversehrtheit, persönliche Freiheit oder bedeutende Sachen. Merke: Nicht die Tat selbst, sondern schon die Ankündigung kann strafbar sein.",
+      "page": 427
+    },
+    {
+      "question": "Was ist Nötigung?",
+      "answer": "Es ist eine Straftat, bei dem eine Person einen anderen rechtswidrig mit Gewalt oder durch Drohung mit einem empfindlichen Übel zu einer Handlung, Duldung oder Unterlassung zwingt. Der Zweck muss verwerflich sein",
+      "page": 429
+    },
+    {
+      "question": "Was ist eine Durchsuchung?",
+      "answer": "Eine Durchsuchung ist eine staatliche Zwangsmaßnahme, bei der gezielt nach Personen, Beweismitteln oder Gegenständen gesucht wird, die im Zusammenhang mit einer Straftat stehen.",
+      "page": 431
+    },
+    {
+      "question": "Was ist ein absolutes Antragsdelikt?",
+      "answer": "Eine Straftat, die nur verfolgt werden darf, wenn ein Strafantrag vom Antragsberechtigten gestellt wird.",
+      "page": 433
+    },
+    {
+      "question": "Sachbeschädigung § 303 StGB, nenne die Begehungsarten!",
+      "answer": "Mit Absicht eine fremde Sache beschädigen, zerstören oder verunstalten. Den Seitenspiegel an einem Auto abtreten. Eine Fensterscheibe mit einem Stein einschmeißen. Plakate auf Wände kleben. Eine fremde Wand mit Graffiti besprühen.",
+      "page": 435
+    },
+    {
+      "question": "Was ist ein relatives Antragsdelikt?",
+      "answer": "Eine Straftat, die normalerweise nur verfolgt wird, wenn das Opfer einen Strafantrag stellt, aber auch ohne Antrag verfolgt werden kann, wenn ein „besonderes öffentliches Interesse“ besteht.",
+      "page": 437
+    },
+    {
+      "question": "Was ist ein Offizialdelikt?",
+      "answer": "Eine Straftat, die nachdem Legalitätsprinzip verfolgt werden muss.",
+      "page": 439
+    },
+    {
+      "question": "Was ist der Unterschied zwischen Raub und räuberischer Erpressung ?",
+      "answer": "Beim Raub nimmt der Täter eine Sache unter Anwendung von Gewalt oder Androhung einer gegenwärtigen Gefahr für Leben oder Leib weg. „Erst hauen, dann klauen“ Bei einer räuberischen Erpressung hat man bereits etwas geklaut und verteidigt seine Beute um sie zu behalten. „Erst klauen, dann hauen“",
+      "page": 441
+    },
+    {
+      "question": "Unterlassene Hilfeleistung § 323c StGB, nenne Beispiele!",
+      "answer": "Bei einem Unglücksfall (Autounfall) einfach weiterfahren, obwohl man, ohne sich selbst zu gefährden, hätte helfen können. Einem Ertrinkenden in keinster Weise zu helfen, z. B. keinen Stock reichen, kein Seil oder Rettungsring zuwerfen, keinen Notruf wählen.",
+      "page": 443
+    },
+    {
+      "question": "Tatbestand Deliktart Deliktcharakter Versuch strafbar? Fahrlässigkeit strafbar?",
+      "answer": "§123 StGB Hausfriedensbruch Vergehen absolutes Antragsdelikt nein nein",
+      "page": 0
+    },
+    {
+      "question": "i. Um welche Deliktart handelt es sich?",
+      "answer": "ii. Um welchen Deliktcharakter handelt es sich?",
+      "page": 0
+    },
+    {
+      "question": "iii. Wird auch fahrlässiges Handeln bestraft?",
+      "answer": "iv. Ist der Versuch strafbar?",
+      "page": 0
+    },
+    {
+      "question": "ii. Um welchen Deliktcharakter handelt es sich?",
+      "answer": "iii. Wird auch fahrlässiges Handeln bestraft? iv. Ist der Versuch strafbar? b. Liste wichtiger Straftatbestände i. §123 StGB – Hausfriedensbruch ii. §223 StGB – Körperverletzung iii. §224 StGB – gefährliche Körperverletzung iv. §226 StGB – schwere Körperverletzung v. §229 StGB – fahrlässige Körperverletzung vi. §239 StGB – Freiheitsberaubung vii. §240 StGB – Nötigung viii. §242 StGB – Diebstahl ix. §243 StGB – Besonders schwerer Diebstahl x. §246 StGB – Unterschlagung xi. §249 StGB – Raub xii. §252 StGB – räuberischer Diebstahl xiii. §259 StGB – Hehlerei xiv. §263 StGB – Betrug xv. §267 StGB – Urkundenfälschung xvi. §303 StGB – Sachbeschädigung xvii. §323c StGB – Unterlassene Hilfeleistung xviii. $185 StGB – Beleidigung xix. §132 StG B – Amtsanmaßung xx. §265a St GB – Erschleichen von Leistungen",
+      "page": 0
+    },
+    {
+      "question": "- Hat die Tat überhaupt stattgefunden oder wurde sie womöglich fingiert?",
+      "answer": "- Wurde die Tat vom Beschuldigten ausgeführt?",
+      "page": 0
+    },
+    {
+      "question": "Welches Verhalten ist laut §823 BGB nicht entschuldbar?",
+      "answer": "Jedes Verhalten, dass einen widerrechtlichen Eingriff in ein fremdes Rechtsgut darstellt",
+      "page": 0
+    },
+    {
+      "question": "Welche Täterschaft und Teilnahme Formen gibt es?",
+      "answer": "Haupt - / Alleintäter (Begeht aus eigenem Antrieb selbständig Straftaten)",
+      "page": 0
+    },
+    {
+      "question": "Welch Merkmale muss eine Straftat haben?",
+      "answer": "Die Tat muss tatbestandsmäßig, rechtswidrig und schuldhaft sein",
+      "page": 0
+    },
+    {
+      "question": "Wie nennen sich Delikte aktiven Tuns und der Untätigkeit?",
+      "answer": "Unterlassungsdelikte und Begehungsdelikte  wobei die Unterlassungsdelikte noch einmal unterteilt",
+      "page": 0
+    },
+    {
+      "question": "Was sind echte Unterlassungsdelikte?",
+      "answer": "Nichtanzeige geplanter Straftaten",
+      "page": 0
+    },
+    {
+      "question": "Darf man ein 10jähriges Kind vorläufig festnehmen?",
+      "answer": "Nein, das ist gem. §19 StGB nicht schuldfähig",
+      "page": 0
+    },
+    {
+      "question": "Welche Voraussetzungen müssen gegeben sein, um jemanden vorläufig festzunehmen ?",
+      "answer": "Es muss eine Straftat vorliegen",
+      "page": 0
+    },
+    {
+      "question": "Habe ich als SMA die Pflicht, strafbare Handlungen zu melden und einzuschreiten?",
+      "answer": "Bearbeitungsstand: TB 15.05.202 4",
+      "page": 0
+    },
+    {
+      "question": "Ist Diebstahl ein Antragsdelikt oder ein Offizialdelikt?",
+      "answer": "Der „einfache“ Diebstahl ist ein Offizi aldelikt",
+      "page": 0
+    },
+    {
+      "question": "Gibt es einen Unterschied zwischen einem normalen Diebstahl und einem geringfügigen Diebstahl?",
+      "answer": "Im Gegensatz zum „einfachen“ Diebstahl ist der Diebstahl / Unterschlagung geringwertiger Sachen",
+      "page": 0
+    },
+    {
+      "question": "er sich dann strafbar gemacht?",
+      "answer": "Ja, dies erfüllt den Straftatbestand der Unterschlagung gem. §246 StGB.",
+      "page": 0
+    },
+    {
+      "question": "reagieren sie? Was müssen sie beachten? Kann er bestraft werden?",
+      "answer": "Zunächst gehe ich davon aus, d ass er den Laden nur verlassen, nicht entfernen möchte!",
+      "page": 0
+    },
+    {
+      "question": "Welche 2 großen Rechtsbereiche gibt es? 10x",
+      "answer": "Öffentliches Recht und Privatrecht (Zivilrecht) Bearbeitungsstand: TB 15.05.202 4 Unterschied zwischen den beiden Rechtsbereichen mit Beispielen erklären! Öffentliches Recht  Privatrecht Rechtsverhältnisse zwischen Staat und Bürgern  Rechtsverhältnisse zwischen Bürgern Über -/ Unterordnungsverhältnis  Gleichstellungsverhältnis Subordinationsprinzip  Koordinationsprinzip Strafen für Übeltäter  Schadenersatz, Schmerzensgeld, Handlungsansprüche (Herausgabeansprüche) StGB, StPO, WaffG  BGB, HGB, ArbZG Erklären Sie das Über -Unterordnungsprinzip! Der Staat ist dem Bürger übergeordnet, er kann Bestimmungen erlassen, an die sich jeder Bürger halten muss!",
+      "page": 0
+    },
+    {
+      "question": "Für was gibt es das OwiG? 2x",
+      "answer": "Das Ordnungswidrigkeitsgesetz regelt , wann und wie Bürger für Ordnungswidrigkeiten zur Rechenschaft gezogen werden können. Ordnungswidrigkeiten gelten als „Straftaten minderer Qualität“. Im Ordnungswidrigkeitengesetz gilt das Opportunitätsprinzip  (einen Ermessensspielraum) . Es gibt keine Strafen, sondern nur Bußgelder.",
+      "page": 0
+    }
+  ],
+  "UmV": [
+    {
+      "question": "Wann hat man Umgang mit einer Waffe?",
+      "answer": "Wenn man eine Waffe erwirbt, besitzt, überlässt, führt, verbringt, mitnimmt, herstellt, bearbeitet, instand setzt oder damit Handel treibt.",
+      "page": 507
+    },
+    {
+      "question": "Was sind Schusswaffen?",
+      "answer": "Schusswaffen sind Gegenstände, bei denen Geschosse durch einen Lauf getrieben werden. Sie werden zum Angriff oder zur Verteidigung, zur Signalgebung, zur Jagd, zur Distanzinjektion, zur Markierung, zum Spiel und Sport benutzt.",
+      "page": 509
+    },
+    {
+      "question": "Was sind tragbare Gegenstände laut WaffG?",
+      "answer": "Sie sind ihrem Wesen nach dazu bestimmt oder ohne dazu bestimmt zu sein, aber wegen ihrer Beschaffenheit, Handhabung oder Wirkungsweise dazu geeignet, die Angriffs- oder Abwehrfähigkeit von Menschen zu beseitigen oder herabzusetzen.",
+      "page": 511
+    },
+    {
+      "question": "Wann ist eine Schusswaffe „schussbereit“?",
+      "answer": "Eine Schusswaffe ist schussbereit, wenn sie geladen oder teilgeladen ist.",
+      "page": 513
+    },
+    {
+      "question": "Wann ist eine Schusswaffe „zugriffsbereit“?",
+      "answer": "Zugriffsbereit ist eine Schusswaffe, wenn sie mit wenigen schnellen Handgriffen in Anschlag gebracht werden kann. (Weniger als 3 Handgriffe)",
+      "page": 515
+    },
+    {
+      "question": "Was ist ein Bedürfnis im Sinne des WaffG?",
+      "answer": "Ein Bedürfnis zum Besitz einer Waffe kann sich aus einem besonderen persönlichen oder wirtschaftlichen Interesse ergeben, etwa als Jäger, Sportschütze , Sammler, Erbe oder bei Unternehmen (Waffenherstellung, Waffenhandel, Bewachung).",
+      "page": 517
+    },
+    {
+      "question": "Wozu braucht man eine WBK (Waffenbesitzkarte)?",
+      "answer": "Eine WBK erlaubt den Erwerb, Besitz und Transport einer Schusswaffe.",
+      "page": 519
+    },
+    {
+      "question": "Wozu braucht man einen Waffenschein?",
+      "answer": "Ein Waffenschein erlaubt das Führen einer Schusswaffe.",
+      "page": 521
+    },
+    {
+      "question": "Wie darf eine Waffe transportiert werden?",
+      "answer": "Eine Schusswaffe darf nicht schussbereit und nicht zugriffsbereit transportiert werden. Also ungeladen in einem verschlossenen Behältnis. Getrennt von der Munition.",
+      "page": 523
+    },
+    {
+      "question": "Wozu braucht man einen kleinen Waffenschein?",
+      "answer": "Der kleine Waffenschein erlaubt das Führen von einer SRS-Waffe (im zugriffs- und schussbereiten Zustand). ACHTUNG: Komplettes Führverbot von Schreckschusswaffen im Sicherheitsgewerbe (siehe §19 DGUV V23)",
+      "page": 525
+    },
+    {
+      "question": "Was sind Anscheinswaffen?",
+      "answer": "Anscheinswaffen sind Gegenstände, die aufgrund ihres Aussehens wie echte Schusswaffen wirken, aber keine sind, z.B. Softairwaffen oder unbrauchbar gemachte Schusswaffen. Das Führen dieser Waffen ist in der Öffentlichkeit verboten!",
+      "page": 527
+    },
+    {
+      "question": "Erklären Sie den Begriff  “führen” im Sinne des Waffengesetzes.",
+      "answer": "Im Waffenrecht bedeutet „Führen“, wenn eine Person eine Waffe außerhalb der eigenen Wohnung, Geschäftsräume, des eigenen befriedeten Besitztums oder einer Schießstätte zugriffsbereit oder schussbereit hat.",
+      "page": 529
+    },
+    {
+      "question": "Welche Gegenstände darfst Du besitzen aber nicht führen?",
+      "answer": "Gegenstände wie ein Teleskopschlagstock, Tonfa, Degen, Dolche, Säbel, Messer mit Klingenlänge über 12cm oder Schwerter dürfen ab 18 erworben und besessen werden. Das Führen in der Öffentlichkeit ist jedoch verboten.",
+      "page": 531
+    },
+    {
+      "question": "Was z.B. sind nach dem Waffengesetz verbotene Gegenstände ?",
+      "answer": "• Totschläger • Schlagringe • Wurfsterne, Molotowcocktails • Reizstoffsprühgeräte ohne Prüfzeichen • Faltmesser (Butterfly) • Springmesser • Präzisionsschleuder (ohne Armstütze kein verbotener Gegenstand) • Würgehölzer (Nunchakus)",
+      "page": 533
+    },
+    {
+      "question": "Was sind Schusswaffen gleichgestellte Gegenstände ?",
+      "answer": "Tragbare Gegenstände, die zum Abschießen von Munition bestimmt sind oder von denen feste Körper gezielt durch Muskelkraft verschossen werden können",
+      "page": 535
+    },
+    {
+      "question": "Was ist bei abhandenkommen einer Schusswaffe zu machen ?",
+      "answer": "Wenn einer Person erlaubnispflichtige Waffen, wesentliche Waffenteile, Munition oder waffenrechtliche Erlaubnisurkunden abhandenkommen, muss sie dies der zuständigen Behörde unverzüglich nach Feststellung des Verlustes melden.",
+      "page": 537
+    },
+    {
+      "question": "Was ist der so genannte „kleine Waffenschein“ ?",
+      "answer": "Der Kleine Waffenschein ist eine Erlaubnis, Schreckschuss-, Reizstoff- und Signalwaffen zu führen. Diese Waffen müssen jedoch das Zulassungszeichen der Physikalisch-Technischen Bundesanstalt (PTB) tragen.",
+      "page": 539
+    },
+    {
+      "question": "Dürfen Sicherheitsmitarbeiter eine zugelassene Verteidigungswaffe, z.B. einen Teleskopschlagstock in der Öffentlichkeit bei der Berufsausübung führen?",
+      "answer": "Teleskopschlagstock: Besitz erlaubt – Führen in der Öffentlichkeit verboten (§ 42a WaffG), außer mit Ausnahmegenehmigung, z. B. bei klarem Gefahrenpotenzial und beruflichem Einsatz mit berechtigtem Zweck.",
+      "page": 541
+    },
+    {
+      "question": "Was sind PTB Waffen?",
+      "answer": "Schreckschuss- Reizstoff- Signalwaffen mit dem Prüfsiegel PTB im Kreis (PTB= Physikalisch-Technische- Bundesanstalt). Da diese Waffen keine Geschosse verschießen, gelten sie nicht als Schusswaffen, sondern als ihnen gleichgestellter Gegenstand.",
+      "page": 543
+    },
+    {
+      "question": "Nenne die Vorraussetzungen für eine Waffenbesitzkarte (WBK) ?",
+      "answer": "• 18 Jahre • Zuverlässig • Körperlich und geistig geeignet • Waffensachkunde nach § 7 WaffG • ein Bedürfnis (z.B. Sportschütze oder Jäger)",
+      "page": 545
+    },
+    {
+      "question": "Wie lange ist ein Waffenschein gültig?",
+      "answer": "Ein Waffenschein kann für maximal 3 Jahre erteilt werden, er kann zweimal um je 3 Jahre verlängert werden.",
+      "page": 547
+    },
+    {
+      "question": "An welchen Orten darf trotz Waffenschein keine Waffe geführt werden?",
+      "answer": "An öffentlichen Vergnügungen, Volksfesten, Sportveranstaltungen, Messen, Ausstellungen, etc. Es kann eine Sondergenehmigung beantragt werden, wenn ein beruflicher Auftrag besteht.",
+      "page": 549
+    },
+    {
+      "question": "Wie ist eine Schusswaffe aufgebaut?",
+      "answer": "Lauf, Partonenlager, Griffstück mit Abzugsvorrichtung, Verschluß",
+      "page": 0
+    },
+    {
+      "question": "Wozu ist der Arbeitgeber verpflichtet, wenn es um Schusswaffen geht?",
+      "answer": "Er muss Melden, wenn die Waffe benutzt wurde, an die Polizei und zuständige Waffenbehörde",
+      "page": 0
+    },
+    {
+      "question": "Wie werden Waffen transportiert?",
+      "answer": "In einem verschlossenen Behältnis, getrennt von der Munition transportiert werden.",
+      "page": 0
+    },
+    {
+      "question": "Wie werden Waffen übergeben?",
+      "answer": "Ausschließlich in vollständig entladenem Zustand",
+      "page": 0
+    },
+    {
+      "question": "Was dürfen Sie mit der WBK?",
+      "answer": "Eingetragene Schusswaffen erwerben (kauf innerhalb eines Jahres, Eintragung der Waffe binnen zwei",
+      "page": 0
+    },
+    {
+      "question": "Wie kann ich Munition erwerben?",
+      "answer": "Munitionserwerb kann auf der WBK (grün, gelb) mit eingetragen werden, anderen Falles benötigt",
+      "page": 0
+    },
+    {
+      "question": "einer Waffe in einem Haus ist, wie gehen Sie vor?",
+      "answer": "Meldung machen, Verstärkung anfordern, Tatort absichern, auf die Eigensicherung achten , Gebäude",
+      "page": 0
+    }
+  ],
+  "SiT": [
+    {
+      "question": "Nenne die drei Säulen der Sicherheitstechnik?",
+      "answer": "mechanisch Grundschutz (Zäune, Türen, Tore Vergitterungen, Rollläden, Fenster) elektronische Überwachung (GMA, BMA, EMA, ÜMA, StMA, Videoüberwachung) Organisation der Alarmverfolgung (Personal, Vorschriften, Flucht- und Rettungsplan, Dienstkleidung)",
+      "page": 653
+    },
+    {
+      "question": "Was ist der Widerstandswert?",
+      "answer": "In der Sicherheitstechnik bezeichnet der Widerstandswert die Zeitspanne, in der ein mechanisches oder elektronisches Sicherungselement einem Einbruch- oder Manipulationsversuch standhält. Gemessen in Minuten Bestimmt durch Normprüfungen (z. B. DIN, EN, VdS). Beispiele: Tresore, Türen, Fenster, Gitter.",
+      "page": 655
+    },
+    {
+      "question": "Was ist die Interventionszeit?",
+      "answer": "Dauer zwischen automatischer Erkennung eines Angriffs bis zur Wirksamkeit eingeleiteter Maßnahmen (20 Minuten sollten nach Empfehlung vom VDS nicht überschritten werden)",
+      "page": 657
+    },
+    {
+      "question": "Was ist der Zweck von Überfallmeldeanlagen?",
+      "answer": "Sie ist eine Gefahrenmeldeanlage und dient der Alarmierung der Polizei oder von Wachdiensten bei einem Überfall.",
+      "page": 659
+    },
+    {
+      "question": "Was muss bei der Kontrolle von Fluchtwegen und Fluchttüren in einem Sicherungsobjekt beachtet werden?",
+      "answer": "Alle Notausgangstüren müssen sich in Fluchtrichtung öffnen lassen und dürfen nicht zugestellt sein.",
+      "page": 661
+    },
+    {
+      "question": "Welche Schließanlagen gibt es?",
+      "answer": "Zentralschlossanlage, Hauptschlüsselanlage und General-Hauptschlüsselanlage",
+      "page": 663
+    },
+    {
+      "question": "Was sind die wesentlichen Bestandteile einer Tür?",
+      "answer": "Drückergarnitur mit Schutzbeschlag, Türblatt, Türbänder, Türzarge, Schließblech, Schlosskasten mit Zylinder",
+      "page": 665
+    },
+    {
+      "question": "Welche Anforderungen werden an einen Sicherheitszaun gestellt?",
+      "answer": "• Höhe 2,5 Meter, Schutz vor Übersteigen (senkrecht oder Y-förmig), • Schutz vor Unterkriechen 30 cm Verankerung im Boden, • Schutz vor Untergraben 80 cm tief (Betonsockel), • Schutz gegen Durchreichen (Maschenweite 5 cm), • Standfestigkeit (Gründung der Pfosten) • Verschraubung innenliegend",
+      "page": 667
+    },
+    {
+      "question": "Nenne die Brandklassen mit den dazugehörigen Löschmitteln!",
+      "answer": "A – feste, glühende Stoffe (z. B. Holz, Papier, Textilien) → Wasser, Schaum, ABC-Pulver B – flüssige oder flüssig werdende Stoffe (z. B. Benzin, Öl, Lack) → Schaum, BC- oder ABC-Pulver, CO₂ C – Gase (z. B. Propan, Butan, Methan) → BC- oder ABC-Pulver D – Metalle (z. B. Magnesium, Aluminium) → Metallbrandpulver (D-Pulver) F – Speiseöle und -fette (z. B. in Fritteusen) → Speziallöschmittel Klasse F (Fettbrandlöscher)",
+      "page": 669
+    },
+    {
+      "question": "Welche Arten von Brandmeldern kennst du?",
+      "answer": "Durchlichtmelder, Streulichtmelder, Ionisationsmelder, Wärmedifferentialmelder, Wärmemaximalmelder, IR- und UV- Flammenmelder, Handmelder (Knopf der manuell ausgelöst wird)",
+      "page": 671
+    },
+    {
+      "question": "Welche Arten von Glasbruchmeldern gibt es?",
+      "answer": "Aktive Melder senden und empfangen kontinuierlich Signale über das Glas, während passive Melder nur auf die bei Glasbruch entstehenden Schwingungen reagieren",
+      "page": 673
+    },
+    {
+      "question": "Was zählt zu den mechanischen Sicherungseinrichtungen?",
+      "answer": "• Zaun und Tor • Schranken • Türen • Vergitterungen • Rollläden • Fenster • Schließanlagen • Personenvereinzelunganlagen • Wertbehältnisse Tresorräume",
+      "page": 675
+    },
+    {
+      "question": "Welche Arten von Sicherheitsverglasung gibt es?",
+      "answer": "Durchwurfhemmend, Durchbruchhemmend, Durchschusshemmend, Sprengwirkungshemmend",
+      "page": 677
+    },
+    {
+      "question": "Wozu dienen im Wesentlichen Zutrittskontrollsysteme?",
+      "answer": "Der Überwachung von Personenbewegungen. Das Verhindern von unbefugtem Zutritt.",
+      "page": 679
+    },
+    {
+      "question": "Zu welcher Brandklasse zählen brennbare Harze, Lacke und Teer?",
+      "answer": "Brandklasse B",
+      "page": 681
+    },
+    {
+      "question": "Was ist die Aufgabe von Störmeldeanlagen?",
+      "answer": "Sie überwachen technische Abläufe und melden Fehler bei einer elektronischen Anlage.",
+      "page": 683
+    },
+    {
+      "question": "Welche Schlossarten gibt es?",
+      "answer": "Zylinderschloss, Buntbartschloss, Transponderschloss, mechatronisches Schloss",
+      "page": 685
+    },
+    {
+      "question": "Wo werden Drehsperren häufig eingesetzt?",
+      "answer": "Bei Zugängen mit hohem Personendurchlauf",
+      "page": 687
+    },
+    {
+      "question": "Welche biometrischen Identifikationsverfahren können in modernen Zutrittskontrollsystemen verwendet werden?",
+      "answer": "Gesichtsfelderkennung, Fingerabdruck, Retinascan, Irisscan, Handfläche, Stimme",
+      "page": 689
+    },
+    {
+      "question": "Was ist die Aufgabe von Notruf- und Serviceleitstellen?",
+      "answer": "Bearbeitung von eingehenden Alarmmeldungen, Organisation der Alarmverfolgung, Kundenbetreuung",
+      "page": 691
+    },
+    {
+      "question": "Wie können Wachpersonen zu ihrem Schutz aktiv überwacht werden, wenn sich bei ihrer Sicherungstätigkeit besondere Gefahren ergeben können?",
+      "answer": "Mit einer Personen-Notsignal-Anlage, durch regelmäßige Anrufe, durch Kontrollen von Kollegen",
+      "page": 693
+    },
+    {
+      "question": "Welche Arten von Gefahrenmeldeanlagen „GMAs“ kennst du?",
+      "answer": "EMA (Einbruchmeldeanlage), ÜMA (Überfallmeldeanlage), BMA (Brandmeldeanlage), StMA (Störmeldeanlage)",
+      "page": 695
+    },
+    {
+      "question": "Wie kann eine Überfallmeldeanlage ausgelöst werden?",
+      "answer": "Durch eine Trittleiste, Überfallknopf, Codierung, Geldscheinkontakt als „stiller Alarm“.",
+      "page": 697
+    },
+    {
+      "question": "Womit kann nachträglich der Widerstandswert von Fenstern erhöht werden?",
+      "answer": "Mit Sicherheitsfolien, Metallgitter, Rolläden",
+      "page": 699
+    },
+    {
+      "question": "Aus welchen Bestandteilen besteht ein Funkgerät?",
+      "answer": "Stromversorgung, Bedienelemente, Antenne, Sende- und Empfangsteil, optionales Zubehör (Halterung, Totmannschaltung etc.)",
+      "page": 701
+    },
+    {
+      "question": "Was ist der Zweck von Gefahrenmeldeanlagen?",
+      "answer": "Eine Brand-, Überfall- oder Einbruchsgefahr mittels Fernmeldetechnischer Übertragungswege an eine Hilfe leistende Stelle zu melden.",
+      "page": 703
+    },
+    {
+      "question": "Wovon ist der Sicherheitswert eines Rollladens abhängig?",
+      "answer": "Vom verwendeten Material und vom fachgerechten Einbau. Einer Sicherung, die gegen Hochschieben schützt.",
+      "page": 705
+    },
+    {
+      "question": "Was ist der Vorteil von Kohlendioxid-Löschern?",
+      "answer": "Brennende Anlagen werden nicht zusätzlich beschädigt, wie beim Einsatz von Wasser. (z.b. Serveranlagen)",
+      "page": 707
+    },
+    {
+      "question": "Was ist eine Primärleitung ?",
+      "answer": "Eine Primärleitung ist eine ständig überwachte Leitung. Das bedeutet, dass die Leitung kontinuierlich auf Unterbrechungen und Kurzschlüsse überprüft wird. Sie ist bei einer ÜMA Pflicht!",
+      "page": 709
+    },
+    {
+      "question": "Nenne die Bestandteile einer EMA!",
+      "answer": "• Meldezentrale • Meldelinien • Sensoren = Bewegungsmelder, Magnet- Reed-Kontakt, Glasbruchsensor • Scharfschalteinrichtung • Stromversorgung • Notstromakku • Ereignisnachweis • Signalgeber optisch / akustisch • Fernmeldetechnischer Übertragungsweg",
+      "page": 711
+    },
+    {
+      "question": "Nenne die Bauteile einer Brandmeldeanlage?",
+      "answer": "Brandmelderzentrale BMZ • manueller Druckknopfmelder • Meldelinien • Scharfschalteinrichtung • Stromversorgung • Notstrom Akku Rauchmelder • Ionisationsmelder • Durchlichtmelder • Brandgasmelder • Streulichtlichtmelder • Multi Sensor- Brandmelder Flammenmelder • Infrarotflammenmelder • Ultraviolettflammenmelder • IR-Funkenmelder Wärmemelder • Wärmemaximalmelder • Wärmedifferenzialmelder",
+      "page": 713
+    },
+    {
+      "question": "Nenne 2 Arten von Feuerlöschern!",
+      "answer": "• Dauerdrucklöscher, • Aufladelöscher",
+      "page": 715
+    },
+    {
+      "question": "8. Welches Hinweisschild muss an Zwingeranlagen angebracht sein?  (1P)",
+      "answer": "Antwort: „Zutritt für unbefugte Verboten “ 9. Dürfen auch ungeprüfte Hunde zu Bewachungszwecken eingesetzt",
+      "page": 0
+    },
+    {
+      "question": "Frittierfette, Speiseöle (Fettbrände)  \n \nSie sind SMA und sie sehen, vor dem Zaun brennt Holz, Sie haben A, B und C Feuerlöscher, mit \nwelchem Feuerlöscher würden Sie Feuer löschen? 2x  \nFeuerlöscher für Brandklasse A  \n \nWas brennt nach Klasse B und C?  \nFlüssigkeiten und flüssigwerdende Stoffe und Gase  \n \nWelche Löschmittel für Brandklasse A, B, C?  \nKlasse",
+      "answer": "Wasser, AB Schaumlöscher, ABC Pulverlöscher, Löschdecke  \nKlasse B: AB Schaumlöscher, ABC Pulverlöscher, CO² Löscher  \nKlasse C: ABC Pulverlöscher, CO² Löscher  \n \nWelche Brandklasse hat Alkohol?  \nBrandklasse B  \n \nWas ist Brandklasse D und welches Löschmittel ist geeignet?  \nEs handelt sich um Metallbrände, geeignete Löschmittel sind Metallbrandpulver, trockener Sand, \nGraugussspäne , Salz, Zement  \n \nWelche Vorgänge kann eine Brandmeldeanlage auslösen?  \nAlarmierung der Anwesenden und externer Stellen, Ansteuerung automatischer Löschanlagen, \nSteuerung von Rauch - und Wärmeabzugsklappen, sowie Aufzügen  \n \nWie verhalte ich mich im Brandfall?  \nMelden geht vor Retten geht vor Bekämpfen!  \n \nWarum erst melden und dann retten?  \nStichwort Eigensicherung… falls ich bei der Rettung selbst in Gefahr gerate weiß niemand, dass wir \nHilfe brauchen, wenn ich zuvor keine Meldung abgesetzt habe.  \n \nVerbrennungsdreieck erklären 2x  \nFür ein Feuer müssen a) Brennbarer Stoff, b) Sauerstoff und c) eine entsprechende Zündtemperatur \nvorhanden sein. Diese drei Bestandteile bilden die Außenseiten des Verbrennungsdreiecks. In der",
+      "page": 0
+    },
+    {
+      "question": "Darf ich überall mit einer Video -Anlage überwachen?",
+      "answer": "Nein, zum Beispiel nicht in Umkleidekabinen, Schlafzimmer, Sanitärräumen, öffentliche Toiletten –",
+      "page": 0
+    },
+    {
+      "question": "Was machen Sie, wenn die Verteidigung zur Gefahrenabwehr mit eigenen Mitteln nicht mehr geht?",
+      "answer": "Wir nehmen uns ein erfolgversprechendes Mittel von jemand anderem um die Gefahr abzuwenden.",
+      "page": 0
+    },
+    {
+      "question": "Wie können sie eine mechanische Zutrittskontrolle verstärken?",
+      "answer": "Höhere Materialstärke, größere Bauhöhe (z.B. bei Zäunen), Fenstergitter, Rol lläden,",
+      "page": 0
+    },
+    {
+      "question": "Vor was schützt die EMA?",
+      "answer": "Vor unbefugtem Zutritt und damit verbundenem Einbruch / Diebstählen",
+      "page": 0
+    },
+    {
+      "question": "Welche Vorgänge kann eine Brandmeldeanlage auslösen?",
+      "answer": "Alarmierung der Anwesenden und externer Stellen, Ansteuerung automatischer Löschanlagen,",
+      "page": 0
+    },
+    {
+      "question": "Warum erst melden und dann retten?",
+      "answer": "Stichwort Eigensicherung… falls ich bei der Rettung selbst in Gefahr gerate weiß niemand, dass wir",
+      "page": 0
+    },
+    {
+      "question": "Nennen sie 2 Bestandteile einer BMA, nach welchen Auslöseverfahren lösen dort die Melder aus?",
+      "answer": "Rauchmelder in Form des Streulichtmelders – Dringt rauch ein, reflektiert dieser eine Lichtquelle im",
+      "page": 0
+    }
+  ]
+}

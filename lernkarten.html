@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>§34a Lernkarten - Prüfungsvorbereitung</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        h1 {
+            color: #333;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .subtitle {
+            color: #666;
+            font-size: 1.1em;
+        }
+
+        .controls {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+        }
+
+        .search-box {
+            flex: 1;
+            min-width: 250px;
+        }
+
+        .search-box input {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 16px;
+            transition: border-color 0.3s;
+        }
+
+        .search-box input:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+
+        .category-filters {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .category-btn {
+            padding: 10px 20px;
+            background: #f0f0f0;
+            border: none;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 14px;
+            font-weight: 500;
+        }
+
+        .category-btn:hover {
+            background: #667eea;
+            color: white;
+            transform: translateY(-2px);
+        }
+
+        .category-btn.active {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+
+        .stats {
+            margin-left: auto;
+            font-size: 14px;
+            color: #666;
+            font-weight: 500;
+        }
+
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 25px;
+            margin-bottom: 30px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            position: relative;
+            cursor: pointer;
+            transition: transform 0.3s, box-shadow 0.3s;
+            height: 300px;
+            perspective: 1000px;
+        }
+
+        .card.flipped {
+            /* Keine Rotation auf .card selbst */
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        .card.flipped:hover {
+            transform: translateY(-5px);
+        }
+
+        .card-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            transition: transform 0.6s;
+            transform-style: preserve-3d;
+        }
+
+        .card.flipped .card-inner {
+            transform: rotateY(180deg);
+        }
+
+        .card-front, .card-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 30px;
+        }
+
+        .card-back {
+            transform: rotateY(180deg);
+        }
+
+        .card-number {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: bold;
+        }
+
+        .card-text {
+            font-size: 18px;
+            line-height: 1.6;
+            color: #333;
+            max-height: 100%;
+            overflow-y: auto;
+        }
+
+        .flip-hint {
+            position: absolute;
+            bottom: 15px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 12px;
+            color: #999;
+            font-style: italic;
+        }
+
+        .category-badge {
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            background: #f0f0f0;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-weight: bold;
+            text-transform: uppercase;
+            color: #666;
+        }
+
+        .category-colors {
+            background: var(--category-color);
+            color: white;
+        }
+
+        footer {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 15px;
+            padding: 20px;
+            text-align: center;
+            color: #666;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        @media (max-width: 768px) {
+            .cards-grid {
+                grid-template-columns: 1fr;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            .controls {
+                flex-direction: column;
+            }
+
+            .stats {
+                margin-left: 0;
+                margin-top: 10px;
+            }
+        }
+
+        .no-results {
+            grid-column: 1 / -1;
+            text-align: center;
+            padding: 50px;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        .no-results h2 {
+            color: #666;
+            margin-bottom: 10px;
+        }
+
+        .no-results p {
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📚 §34a Lernkarten</h1>
+            <p class="subtitle">Interaktive Prüfungsvorbereitung für die Sachkundeprüfung gem. § 34a GewO</p>
+        </header>
+
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="🔍 Suche nach Begriffen, Paragraphen...">
+            </div>
+            <div class="category-filters" id="categoryFilters">
+                <button class="category-btn active" data-category="all">Alle</button>
+            </div>
+            <div class="stats" id="stats">
+                <span id="cardCount">0</span> Karten angezeigt
+            </div>
+        </div>
+
+        <div class="cards-grid" id="cardsGrid">
+            <!-- Karten werden hier dynamisch eingefügt -->
+        </div>
+
+        <footer>
+            <p>© 2024 Lernkarten für §34a Sachkundeprüfung</p>
+            <p style="font-size: 0.9em; margin-top: 5px; color: #999;">
+                Klicke auf eine Karte, um sie umzudrehen
+            </p>
+        </footer>
+    </div>
+
+    <script>
+        // Lade Lernkarten
+        let allCards = [];
+        let currentCategory = 'all';
+        let searchQuery = '';
+
+        // Kategorien mit Farben
+        const categoryColors = {
+            'Vorbereitung': '#4a90e2',
+            'Rechtfertigungsgründe': '#50c878',
+            'RdöSO': '#ff6b6b',
+            'StGB': '#f093fb',
+            'BGB': '#4facfe',
+            'DS': '#43e97b',
+            'UVV': '#fa709a',
+            'UmV': '#ffa700',
+            'UmM': '#30cfd0',
+            'GewO': '#ff6b9d',
+            'SiT': '#f9ca24'
+        };
+
+        // Lade JSON-Datei (konsolidierte Version ohne Duplikate)
+        fetch('lernkarten_consolidated.json')
+            .then(response => response.json())
+            .then(data => {
+                // Konvertiere Daten in Kartenset-Format
+                processCardData(data);
+                renderCards();
+                setupEventListeners();
+            })
+            .catch(error => console.error('Fehler beim Laden der Lernkarten:', error));
+
+        function processCardData(data) {
+            allCards = [];
+            
+            for (const [category, cards] of Object.entries(data)) {
+                cards.forEach((card, index) => {
+                    allCards.push({
+                        category: category === 'Unbekannt' ? 'Vorbereitung' : category,
+                        question: card.question || '',
+                        answer: card.answer || '',
+                        page: card.page || index,
+                        id: category + '_' + index
+                    });
+                });
+            }
+        }
+
+        function renderCards() {
+            const grid = document.getElementById('cardsGrid');
+            grid.innerHTML = '';
+            
+            let displayCount = 0;
+            
+            const filteredCards = allCards.filter(card => {
+                const matchesCategory = currentCategory === 'all' || card.category === currentCategory;
+                const matchesSearch = card.question.toLowerCase().includes(searchQuery.toLowerCase()) ||
+                                   card.answer.toLowerCase().includes(searchQuery.toLowerCase());
+                
+                return matchesCategory && matchesSearch;
+            });
+            
+            if (filteredCards.length === 0) {
+                grid.innerHTML = `
+                    <div class="no-results">
+                        <h2>Keine Karten gefunden</h2>
+                        <p>Versuche es mit anderen Suchbegriffen oder einer anderen Kategorie.</p>
+                    </div>
+                `;
+                return;
+            }
+            
+            filteredCards.forEach((card, index) => {
+                const cardElement = createCardElement(card, index);
+                grid.appendChild(cardElement);
+                displayCount++;
+            });
+            
+            document.getElementById('cardCount').textContent = displayCount;
+        }
+
+        function createCardElement(card, index) {
+            const color = categoryColors[card.category] || '#667eea';
+            
+            const cardDiv = document.createElement('div');
+            cardDiv.className = 'card';
+            cardDiv.dataset.index = index;
+            
+            cardDiv.innerHTML = `
+                <div class="card-inner">
+                    <div class="card-front">
+                        <div class="category-badge" style="background: ${color}; color: white;">
+                            ${card.category}
+                        </div>
+                        <div class="card-number">#${card.page || index + 1}</div>
+                        <div class="card-text">${card.question}</div>
+                        <div class="flip-hint">Klicken zum Umdrehen</div>
+                    </div>
+                    <div class="card-back">
+                        <div class="card-text" style="color: ${color}; font-weight: 600;">
+                            ${card.answer}
+                        </div>
+                        <div class="flip-hint">Klicken zum Umdrehen</div>
+                    </div>
+                </div>
+            `;
+            
+            cardDiv.addEventListener('click', () => {
+                cardDiv.classList.toggle('flipped');
+            });
+            
+            return cardDiv;
+        }
+
+        function setupEventListeners() {
+            // Suche
+            const searchInput = document.getElementById('searchInput');
+            searchInput.addEventListener('input', (e) => {
+                searchQuery = e.target.value;
+                renderCards();
+            });
+            
+            // Kategoriefilter
+            const categories = [...new Set(allCards.map(c => c.category))];
+            const filtersContainer = document.getElementById('categoryFilters');
+            
+            categories.forEach(category => {
+                const btn = document.createElement('button');
+                btn.className = 'category-btn';
+                btn.textContent = category;
+                btn.dataset.category = category;
+                filtersContainer.appendChild(btn);
+                
+                btn.addEventListener('click', () => {
+                    document.querySelectorAll('.category-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentCategory = category;
+                    renderCards();
+                });
+            });
+            
+            // Alle-Button bleibt aktiv
+            document.querySelector('.category-btn[data-category="all"]').addEventListener('click', () => {
+                currentCategory = 'all';
+                document.querySelectorAll('.category-btn').forEach(b => b.classList.remove('active'));
+                document.querySelector('.category-btn[data-category="all"]').classList.add('active');
+                renderCards();
+            });
+        }
+    </script>
+</body>
+</html>
+
