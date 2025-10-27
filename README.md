@@ -2,8 +2,10 @@
 
 Öffentlicher, statischer Spick- und Lernzettel für die IHK-Sachkundeprüfung § 34a GewO. Single-File (nur index.html) mit reiner HTML/CSS-Interaktivität – offline nutzbar.
 
-## Live-Seite
-- GitHub Pages: https://dennodhn.github.io/Lernmaterial-34a/
+## Live-Seiten
+- **Hauptseite (Index):** https://dennodhn.github.io/Lernmaterial-34a/
+- **Interaktive Lernkarten:** `lernkarten.html` (576 einzigartige Frage/Antwort-Paare)
+- **Repository:** https://github.com/DennoDhn/Lernmaterial-34a
 
 ## Inhalte (Auszug)
 - Öffentliches Recht, BGB, Notwehr/Notstand
